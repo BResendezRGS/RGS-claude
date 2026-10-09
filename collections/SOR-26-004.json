@@ -105,7 +105,7 @@
   "dimensions": "Product Registry SOR specs (4 x 3 in, 0.16 in), same as SOR-26-003",
   "manifests": "LAR-SOR-ETSY-DESC-MANIFEST-001 / LAR-SOR-SHOP-DESC-MANIFEST-001 (product-level)",
   "titles_tags_seo": "Search Term Set Library STS-SOR-26-004-01..07 (written 2026-10-09 from operator-approved keyword proposal, this conversation) and Rank Search Term Library RST-SOR-26-004-01..07",
-  "copy": "Listing Content Library: only product-level SOR sections (LCL-SOR-DESC-003/004/005/006/007/008/010/011/011-AMZ/012, LCL-SOR-DESC-002-ETSY) are Active for this collection. No SOR-26-004-specific About/Perfect-For/Personalization/Amazon-bullet records exist yet in the Library -- expect REVIEW/HOLD on those sections until written.",
+  "copy": "Listing Content Library: product-level SOR sections (LCL-SOR-DESC-003/004/005/006/007/008/010/011/011-AMZ/012, LCL-SOR-DESC-002-ETSY) are Active, plus 14 SOR-26-004-specific records written 2026-10-09 (Status Testing, pending operator promotion to Active): LCL-SOR-26-004-ABOUT-001, -PERS-INSTR-ETSY (real AnywherePOD link https://prsnl.art/cI3pJ, operator-supplied), -PERS-001, -ORDER-SHOP, -ORDER-ETSY, -PERFECT-001, -AMZ-PARENT, -AMZ-D01..D07. Expect REVIEW (not HOLD) on those sections -- usable per readiness-gate rules since Testing is an allowed status, just flagged for operator review.",
   "partner": "ICP default (rgs/rules.py); operator named no other partner",
   "note": "price/shipping/dimension values captured in this config from the records above; relationship_names captured from this conversation 2026-10-09 (design mockups walked through with operator), not yet written to Design Registries Customer Model Name field"
  },
@@ -120,7 +120,7 @@
   "backend_max_bytes": 250,
   "production_record": "LCL-SOR-DESC-011-AMZ",
   "content_prefix": "LCL-SOR-26-004-AMZ-",
-  "content_prefix_status": "MISSING -- no SOR-26-004-specific Amazon Library records exist yet (unlike SOR-26-003 which has LCL-SOR-26-003-AMZ-PARENT/-D01..D07)",
+  "content_prefix_status": "RESOLVED -- LCL-SOR-26-004-AMZ-PARENT/-D01..D07 written 2026-10-09, Status Testing pending operator review",
   "parent_constants": {
    "B": "HANGING_ORNAMENT",
    "C": "Create or Replace (Full Update)",
