@@ -1,0 +1,2108 @@
+{
+ "collection": "SOR-26-004",
+ "pulled": "2026-10-09",
+ "source_base": "app3KgtSsu3GbgPQQ",
+ "pull_notes": "Pulled 2026-10-09 for SOR-26-004 (First Christmas in a New Home) run.py build. Listing Build Staging has only placeholder AUTHORITY rows (no RGS Child SKU / Etsy Title Draft / Etsy Tags Draft / Shopify SEO fields populated) -- same gap as SOR-26-003's snapshot. Image URL Console has no SOR-26-004 image rows yet. Listing Content Library includes all product-level SOR records plus SOR-26-003-specific and SOR-26-004-specific (Testing status) records.",
+ "tables": {
+  "Listing Build Staging": [
+   {
+    "Staging Record ID": "SOR-26-004-P06-ETSY-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P06",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Etsy"
+    ],
+    "_id": "rec0FiK78V4Z6bpte"
+   },
+   {
+    "Staging Record ID": "SOR-26-004-P04-AMAZON-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P04",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Amazon"
+    ],
+    "_id": "rec1vEvuqOmeHXqv5"
+   },
+   {
+    "Staging Record ID": "SOR-26-004-P03-ETSY-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P03",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Etsy"
+    ],
+    "_id": "rec4TECe4aGS7if8G"
+   },
+   {
+    "Staging Record ID": "SOR-26-004-P02-SHOPIFY-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P02",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Shopify"
+    ],
+    "_id": "rec7eItimn0QPqb5h"
+   },
+   {
+    "Staging Record ID": "SOR-26-004-P04-SHOPIFY-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P04",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Shopify"
+    ],
+    "_id": "recJE9ZrVtUkQ7OLN"
+   },
+   {
+    "Staging Record ID": "SOR-26-004-P06-AMAZON-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P06",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Amazon"
+    ],
+    "_id": "recJKNHcxEMCSXY6r"
+   },
+   {
+    "Staging Record ID": "SOR-26-004-P01-ETSY-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P01",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Etsy"
+    ],
+    "_id": "recNLq70VVM1YXhCX"
+   },
+   {
+    "Staging Record ID": "SOR-26-004-P05-SHOPIFY-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P05",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Shopify"
+    ],
+    "_id": "recNnnHJciZBnr6Yv"
+   },
+   {
+    "Staging Record ID": "SOR-26-004-P05-AMAZON-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P05",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Amazon"
+    ],
+    "_id": "recP9EtKsemE34aQv"
+   },
+   {
+    "Staging Record ID": "SOR-26-004-P02-AMAZON-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P02",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Amazon"
+    ],
+    "_id": "recQD3rwENeXEZZd7"
+   },
+   {
+    "Staging Record ID": "SOR-26-004-P01-AMAZON-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P01",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Amazon"
+    ],
+    "_id": "recaeGmtvJ2jkCfTx"
+   },
+   {
+    "Staging Record ID": "SOR-26-004-P03-SHOPIFY-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P03",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Shopify"
+    ],
+    "_id": "recemPl91Of4zrQNt"
+   },
+   {
+    "Staging Record ID": "SOR-26-004-P06-SHOPIFY-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P06",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Shopify"
+    ],
+    "_id": "recfVCKKehNuURtGE"
+   },
+   {
+    "Staging Record ID": "SOR-26-004-P05-ETSY-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P05",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Etsy"
+    ],
+    "_id": "recg7608rO2CxhsQN"
+   },
+   {
+    "Staging Record ID": "SOR-26-004-P02-ETSY-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P02",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Etsy"
+    ],
+    "_id": "reckzTEGDkK7zX7mp"
+   },
+   {
+    "Staging Record ID": "SOR-26-004-P04-ETSY-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P04",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Etsy"
+    ],
+    "_id": "reclqWXqqEOsf8Som"
+   },
+   {
+    "Staging Record ID": "SOR-26-004-P01-SHOPIFY-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P01",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Shopify"
+    ],
+    "_id": "recq2cOF4Fbqya5Zf"
+   },
+   {
+    "Staging Record ID": "SOR-26-004-P03-AMAZON-AUTHORITY",
+    "Run ID": "SOR-AUTHORITY-REBUILD-20261003",
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-004",
+    "RGS Parent SKU": "SOR-26-004-P03",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes.",
+    "Marketplace": [
+     "Amazon"
+    ],
+    "_id": "recwvoPFYs7MaC8dx"
+   }
+  ],
+  "SKU Registries": [
+   {
+    "RGS SKU": "SOR-26-004-04",
+    "RGS Parent SKU": "SOR-26-004",
+    "Vendor SKU": "apod-13800004",
+    "Amazon Child SKU": "apod-13800004",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN D",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-04"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "Shopify Handle": "new-home-crest-christmas-ornament",
+    "_id": "rec00Cyu4QdeGK877"
+   },
+   {
+    "RGS SKU": "SOR-26-004-04-P02",
+    "RGS Parent SKU": "SOR-26-004-P02",
+    "Vendor SKU": "apod-13800004",
+    "Amazon Child SKU": "SOR-26-004-04-P02",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN C",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-04"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "rec05P5qepEayZ4ha"
+   },
+   {
+    "RGS SKU": "SOR-26-004-06-P06",
+    "RGS Parent SKU": "SOR-26-004-P06",
+    "Vendor SKU": "apod-13800006",
+    "Amazon Child SKU": "SOR-26-004-06-P06",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN A",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-06"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "rec12v8oxeEoitkGY"
+   },
+   {
+    "RGS SKU": "SOR-26-004-04-P03",
+    "RGS Parent SKU": "SOR-26-004-P03",
+    "Vendor SKU": "apod-13800004",
+    "Amazon Child SKU": "SOR-26-004-04-P03",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN B",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-04"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "rec1gh0w6THBOHM5p"
+   },
+   {
+    "RGS SKU": "SOR-26-004-P02",
+    "RGS Parent SKU": "SOR-26-004-P02",
+    "Variant Type": "Parent Listing",
+    "Variant Value": "P02",
+    "SKU Status": "Active",
+    "_id": "rec3J9YmtCdjWXMJA"
+   },
+   {
+    "RGS SKU": "SOR-26-004-01-P03",
+    "RGS Parent SKU": "SOR-26-004-P03",
+    "Vendor SKU": "apod-13800001",
+    "Amazon Child SKU": "SOR-26-004-01-P03",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN F",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-01"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "Shopify Handle": "vintage-key-first-christmas-ornament",
+    "_id": "rec4I36apaAYHuh0Z"
+   },
+   {
+    "RGS SKU": "SOR-26-004-02-P05",
+    "RGS Parent SKU": "SOR-26-004-P05",
+    "Vendor SKU": "apod-13800002",
+    "Amazon Child SKU": "SOR-26-004-02-P05",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN E",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-02"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "rec5iTLKh1mOxxEfk"
+   },
+   {
+    "RGS SKU": "SOR-26-004-07-P04",
+    "RGS Parent SKU": "SOR-26-004-P04",
+    "Vendor SKU": "apod-13800007",
+    "Amazon Child SKU": "SOR-26-004-07-P04",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN D",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-07"
+    ],
+    "Personalization Model": "NONE - Non-personalized",
+    "_id": "rec8KGjiQiILVmUIt"
+   },
+   {
+    "RGS SKU": "SOR-26-004-07-P03",
+    "RGS Parent SKU": "SOR-26-004-P03",
+    "Vendor SKU": "apod-13800007",
+    "Amazon Child SKU": "SOR-26-004-07-P03",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN E",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-07"
+    ],
+    "Personalization Model": "NONE - Non-personalized",
+    "_id": "rec8tjlu6BAeo4LJo"
+   },
+   {
+    "RGS SKU": "SOR-26-004-07",
+    "RGS Parent SKU": "SOR-26-004",
+    "Vendor SKU": "apod-13800007",
+    "Amazon Child SKU": "apod-13800007",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN G",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-07"
+    ],
+    "Personalization Model": "NONE - Non-personalized",
+    "Shopify Handle": "new-home-ornament",
+    "_id": "recB4hg8gL6UB209s"
+   },
+   {
+    "RGS SKU": "SOR-26-004-05",
+    "RGS Parent SKU": "SOR-26-004",
+    "Vendor SKU": "apod-13800005",
+    "Amazon Child SKU": "apod-13800005",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN E",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-05"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "Shopify Handle": "housewarming-christmas-ornament",
+    "_id": "recEkeHRwbuP3vF2D"
+   },
+   {
+    "RGS SKU": "SOR-26-004-02-P03",
+    "RGS Parent SKU": "SOR-26-004-P03",
+    "Vendor SKU": "apod-13800002",
+    "Amazon Child SKU": "SOR-26-004-02-P03",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN G",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-02"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recEqn0wk3A8NWKwh"
+   },
+   {
+    "RGS SKU": "SOR-26-004-04-P05",
+    "RGS Parent SKU": "SOR-26-004-P05",
+    "Vendor SKU": "apod-13800004",
+    "Amazon Child SKU": "SOR-26-004-04-P05",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN G",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-04"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recFUXdLDSZ3zs3iw"
+   },
+   {
+    "RGS SKU": "SOR-26-004-02-P06",
+    "RGS Parent SKU": "SOR-26-004-P06",
+    "Vendor SKU": "apod-13800002",
+    "Amazon Child SKU": "SOR-26-004-02-P06",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN D",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-02"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recHonOXfcEeS9AJa"
+   },
+   {
+    "RGS SKU": "SOR-26-004-03-P06",
+    "RGS Parent SKU": "SOR-26-004-P06",
+    "Vendor SKU": "apod-13800003",
+    "Amazon Child SKU": "SOR-26-004-03-P06",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN E",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-03"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recJ0bS8fnnXlDfrm"
+   },
+   {
+    "RGS SKU": "SOR-26-004-05-P04",
+    "RGS Parent SKU": "SOR-26-004-P04",
+    "Vendor SKU": "apod-13800005",
+    "Amazon Child SKU": "SOR-26-004-05-P04",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN B",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-05"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recKSG8GmFDTUIpCj"
+   },
+   {
+    "RGS SKU": "SOR-26-004-06",
+    "RGS Parent SKU": "SOR-26-004",
+    "Vendor SKU": "apod-13800006",
+    "Amazon Child SKU": "apod-13800006",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN F",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-06"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "Shopify Handle": "storybook-new-home-christmas-ornament",
+    "_id": "recKmMajuwp4ATsYI"
+   },
+   {
+    "RGS SKU": "SOR-26-004-07-P06",
+    "RGS Parent SKU": "SOR-26-004-P06",
+    "Vendor SKU": "apod-13800007",
+    "Amazon Child SKU": "SOR-26-004-07-P06",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN B",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-07"
+    ],
+    "Personalization Model": "NONE - Non-personalized",
+    "_id": "recNe5TIwXDfrbNfI"
+   },
+   {
+    "RGS SKU": "SOR-26-004-05-P02",
+    "RGS Parent SKU": "SOR-26-004-P02",
+    "Vendor SKU": "apod-13800005",
+    "Amazon Child SKU": "SOR-26-004-05-P02",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN D",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-05"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recOitxC8sU9lvR6m"
+   },
+   {
+    "RGS SKU": "SOR-26-004-04-P06",
+    "RGS Parent SKU": "SOR-26-004-P06",
+    "Vendor SKU": "apod-13800004",
+    "Amazon Child SKU": "SOR-26-004-04-P06",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN F",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-04"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recOrOpOwkrCE3rNh"
+   },
+   {
+    "RGS SKU": "SOR-26-004-02-P02",
+    "RGS Parent SKU": "SOR-26-004-P02",
+    "Vendor SKU": "apod-13800002",
+    "Amazon Child SKU": "SOR-26-004-02-P02",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN A",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-02"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recRnI4PFSzfUoBhT"
+   },
+   {
+    "RGS SKU": "SOR-26-004-06-P05",
+    "RGS Parent SKU": "SOR-26-004-P05",
+    "Vendor SKU": "apod-13800006",
+    "Amazon Child SKU": "SOR-26-004-06-P05",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN B",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-06"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recS7Mg8buXiKEvaL"
+   },
+   {
+    "RGS SKU": "SOR-26-004-04-P04",
+    "RGS Parent SKU": "SOR-26-004-P04",
+    "Vendor SKU": "apod-13800004",
+    "Amazon Child SKU": "SOR-26-004-04-P04",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN A",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-04"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recSyA7YEoIVQnbBL"
+   },
+   {
+    "RGS SKU": "SOR-26-004-P05",
+    "RGS Parent SKU": "SOR-26-004-P05",
+    "Variant Type": "Parent Listing",
+    "Variant Value": "P05",
+    "SKU Status": "Active",
+    "_id": "recTPULJzX4kspYYC"
+   },
+   {
+    "RGS SKU": "SOR-26-004-07-P02",
+    "RGS Parent SKU": "SOR-26-004-P02",
+    "Vendor SKU": "apod-13800007",
+    "Amazon Child SKU": "SOR-26-004-07-P02",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN F",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-07"
+    ],
+    "Personalization Model": "NONE - Non-personalized",
+    "_id": "recTVOxuqKFxnmyWa"
+   },
+   {
+    "RGS SKU": "SOR-26-004-01-P02",
+    "RGS Parent SKU": "SOR-26-004-P02",
+    "Vendor SKU": "apod-13800001",
+    "Amazon Child SKU": "SOR-26-004-01-P02",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN G",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-01"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "Shopify Handle": "new-key-first-christmas-ornament",
+    "_id": "recTjFDqy3U06n93n"
+   },
+   {
+    "RGS SKU": "SOR-26-004-04-P01",
+    "RGS Parent SKU": "SOR-26-004-P01",
+    "Vendor SKU": "apod-13800004",
+    "Amazon Child SKU": "SOR-26-004-04-P01",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN D",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-04"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recTkVDO83pXEM8hA"
+   },
+   {
+    "RGS SKU": "SOR-26-004-03-P02",
+    "RGS Parent SKU": "SOR-26-004-P02",
+    "Vendor SKU": "apod-13800003",
+    "Amazon Child SKU": "SOR-26-004-03-P02",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN B",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-03"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recUXm6uco1CfomQ4"
+   },
+   {
+    "RGS SKU": "SOR-26-004-01-P06",
+    "RGS Parent SKU": "SOR-26-004-P06",
+    "Vendor SKU": "apod-13800001",
+    "Amazon Child SKU": "SOR-26-004-01-P06",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN C",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-01"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "Shopify Handle": "storybook-house-first-christmas-ornament",
+    "_id": "recWh0eXbxuo01eKY"
+   },
+   {
+    "RGS SKU": "SOR-26-004-01-P05",
+    "RGS Parent SKU": "SOR-26-004-P05",
+    "Vendor SKU": "apod-13800001",
+    "Amazon Child SKU": "SOR-26-004-01-P05",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN D",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-01"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "Shopify Handle": "holiday-cottage-first-christmas-ornament",
+    "_id": "recXmLkntm78AZzAi"
+   },
+   {
+    "RGS SKU": "SOR-26-004-01-P04",
+    "RGS Parent SKU": "SOR-26-004-P04",
+    "Vendor SKU": "apod-13800001",
+    "Amazon Child SKU": "SOR-26-004-01-P04",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN E",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-01"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "Shopify Handle": "house-crest-first-christmas-ornament",
+    "_id": "recXzZrCP6XsdSZZi"
+   },
+   {
+    "RGS SKU": "SOR-26-004-05-P06",
+    "RGS Parent SKU": "SOR-26-004-P06",
+    "Vendor SKU": "apod-13800005",
+    "Amazon Child SKU": "SOR-26-004-05-P06",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN G",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-05"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "reca2Gu62yxMt8CuB"
+   },
+   {
+    "RGS SKU": "SOR-26-004-06-P02",
+    "RGS Parent SKU": "SOR-26-004-P02",
+    "Vendor SKU": "apod-13800006",
+    "Amazon Child SKU": "SOR-26-004-06-P02",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN E",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-06"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recbvsa77opfjLQ47"
+   },
+   {
+    "RGS SKU": "SOR-26-004-03",
+    "RGS Parent SKU": "SOR-26-004",
+    "Vendor SKU": "apod-13800003",
+    "Amazon Child SKU": "apod-13800003",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN C",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-03"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "Shopify Handle": "vintage-new-home-christmas-ornament",
+    "_id": "recd0IRV9gyBDzOue"
+   },
+   {
+    "RGS SKU": "SOR-26-004-05-P03",
+    "RGS Parent SKU": "SOR-26-004-P03",
+    "Vendor SKU": "apod-13800005",
+    "Amazon Child SKU": "SOR-26-004-05-P03",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN C",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-05"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recdVhb0FVuKS4YI4"
+   },
+   {
+    "RGS SKU": "SOR-26-004-02-P01",
+    "RGS Parent SKU": "SOR-26-004-P01",
+    "Vendor SKU": "apod-13800002",
+    "Amazon Child SKU": "SOR-26-004-02-P01",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN B",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-02"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recdoyzmMOPjVqCUL"
+   },
+   {
+    "RGS SKU": "SOR-26-004-06-P03",
+    "RGS Parent SKU": "SOR-26-004-P03",
+    "Vendor SKU": "apod-13800006",
+    "Amazon Child SKU": "SOR-26-004-06-P03",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN D",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-06"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "receNDFvZpeYTn1Ju"
+   },
+   {
+    "RGS SKU": "SOR-26-004-02",
+    "RGS Parent SKU": "SOR-26-004",
+    "Vendor SKU": "apod-13800002",
+    "Amazon Child SKU": "apod-13800002",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN B",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-02"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "Shopify Handle": "new-home-key-christmas-ornament",
+    "_id": "receck9vAL6s3HLRK"
+   },
+   {
+    "RGS SKU": "SOR-26-004-06-P01",
+    "RGS Parent SKU": "SOR-26-004-P01",
+    "Vendor SKU": "apod-13800006",
+    "Amazon Child SKU": "SOR-26-004-06-P01",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN F",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-06"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recen6kfLefu5yTzJ"
+   },
+   {
+    "RGS SKU": "SOR-26-004-03-P04",
+    "RGS Parent SKU": "SOR-26-004-P04",
+    "Vendor SKU": "apod-13800003",
+    "Amazon Child SKU": "SOR-26-004-03-P04",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN G",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-03"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recfCVtLlJlbbOM42"
+   },
+   {
+    "RGS SKU": "SOR-26-004-07-P05",
+    "RGS Parent SKU": "SOR-26-004-P05",
+    "Vendor SKU": "apod-13800007",
+    "Amazon Child SKU": "SOR-26-004-07-P05",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN C",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-07"
+    ],
+    "Personalization Model": "NONE - Non-personalized",
+    "_id": "recfDkxfvTTJmgvCw"
+   },
+   {
+    "RGS SKU": "SOR-26-004-05-P01",
+    "RGS Parent SKU": "SOR-26-004-P01",
+    "Vendor SKU": "apod-13800005",
+    "Amazon Child SKU": "SOR-26-004-05-P01",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN E",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-05"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recfHuTU7jobmon6M"
+   },
+   {
+    "RGS SKU": "SOR-26-004-P04",
+    "RGS Parent SKU": "SOR-26-004-P04",
+    "Variant Type": "Parent Listing",
+    "Variant Value": "P04",
+    "SKU Status": "Active",
+    "_id": "recggIPhrb6jYWyHH"
+   },
+   {
+    "RGS SKU": "SOR-26-004-P06",
+    "RGS Parent SKU": "SOR-26-004-P06",
+    "Variant Type": "Parent Listing",
+    "Variant Value": "P06",
+    "SKU Status": "Active",
+    "_id": "rechhHs3rIpWBzASm"
+   },
+   {
+    "RGS SKU": "SOR-26-004-03-P03",
+    "RGS Parent SKU": "SOR-26-004-P03",
+    "Vendor SKU": "apod-13800003",
+    "Amazon Child SKU": "SOR-26-004-03-P03",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN A",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-03"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "rechppbLfiUfH2L8v"
+   },
+   {
+    "RGS SKU": "SOR-26-004-P01",
+    "RGS Parent SKU": "SOR-26-004-P01",
+    "Variant Type": "Parent Listing",
+    "Variant Value": "P01",
+    "SKU Status": "Active",
+    "_id": "recixgxOlALckKODv"
+   },
+   {
+    "RGS SKU": "SOR-26-004-01-P01",
+    "RGS Parent SKU": "SOR-26-004-P01",
+    "Vendor SKU": "apod-13800001",
+    "Amazon Child SKU": "SOR-26-004-01-P01",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN A",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-01"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "Shopify Handle": "watercolor-new-home-first-christmas-ornament",
+    "_id": "reclwUxu7xnSkmFjX"
+   },
+   {
+    "RGS SKU": "SOR-26-004-P03",
+    "RGS Parent SKU": "SOR-26-004-P03",
+    "Variant Type": "Parent Listing",
+    "Variant Value": "P03",
+    "SKU Status": "Active",
+    "_id": "recm55mzjAJUdaFl3"
+   },
+   {
+    "RGS SKU": "SOR-26-004-03-P01",
+    "RGS Parent SKU": "SOR-26-004-P01",
+    "Vendor SKU": "apod-13800003",
+    "Amazon Child SKU": "SOR-26-004-03-P01",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN C",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-03"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "reco130J8HA2MZzdS"
+   },
+   {
+    "RGS SKU": "SOR-26-004-06-P04",
+    "RGS Parent SKU": "SOR-26-004-P04",
+    "Vendor SKU": "apod-13800006",
+    "Amazon Child SKU": "SOR-26-004-06-P04",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN C",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-06"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recpKVzoWGck9xcrP"
+   },
+   {
+    "RGS SKU": "SOR-26-004-01",
+    "RGS Parent SKU": "SOR-26-004",
+    "Vendor SKU": "apod-13800001",
+    "Amazon Child SKU": "apod-13800001",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN A",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-01"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "Shopify Handle": "new-home-christmas-ornament",
+    "_id": "recrzSXHo4Da9ElGf"
+   },
+   {
+    "RGS SKU": "SOR-26-004-05-P05",
+    "RGS Parent SKU": "SOR-26-004-P05",
+    "Vendor SKU": "apod-13800005",
+    "Amazon Child SKU": "SOR-26-004-05-P05",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN A",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-05"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recsmYdOF3wpsXK98"
+   },
+   {
+    "RGS SKU": "SOR-26-004-02-P04",
+    "RGS Parent SKU": "SOR-26-004-P04",
+    "Vendor SKU": "apod-13800002",
+    "Amazon Child SKU": "SOR-26-004-02-P04",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN F",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-02"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recsmakdXMQuE4uKZ"
+   },
+   {
+    "RGS SKU": "SOR-26-004-03-P05",
+    "RGS Parent SKU": "SOR-26-004-P05",
+    "Vendor SKU": "apod-13800003",
+    "Amazon Child SKU": "SOR-26-004-03-P05",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN F",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-03"
+    ],
+    "Personalization Model": "PERS-SOR-02",
+    "_id": "recyXN1Fg8M4P6siu"
+   },
+   {
+    "RGS SKU": "SOR-26-004-07-P01",
+    "RGS Parent SKU": "SOR-26-004-P01",
+    "Vendor SKU": "apod-13800007",
+    "Amazon Child SKU": "SOR-26-004-07-P01",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN G",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "SOR-26-004-07"
+    ],
+    "Personalization Model": "NONE - Non-personalized",
+    "_id": "recyb5So7JrGoFmfS"
+   }
+  ],
+  "Image URL Console": [],
+  "Listing Content Library": [
+   {
+    "id": "LCL-SOR-26-050-PERFECT-D05",
+    "codes": "SOR-26-050",
+    "plain": "\u2764\ufe0f Perfect For\n\u2022 A Christmas gift for your work wife\n\u2022 A playful coworker keepsake\n\u2022 Thanking a coworker who always has your back",
+    "html": "<h3>\u2764\ufe0f Perfect For</h3><ul><li>A Christmas gift for your work wife</li><li>A playful coworker keepsake</li><li>Thanking a coworker who always has your back</li></ul>",
+    "icon": "\u2764\ufe0f",
+    "vars": "lead design D05",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Gift Messaging",
+    "req": true,
+    "_rec": "rec0D5SeS5Ken2zm6"
+   },
+   {
+    "id": "LCL-SOR-26-050-ABOUT-D06",
+    "codes": "SOR-26-050",
+    "plain": "\ud83c\udf84 About Your Ornament\nSay thank you to your favorite coworker with a ceramic Christmas ornament built around a Work Husband definition. Watercolor portrait artwork and a humorous definition make a playful workplace keepsake, and Designs A-F add one name.",
+    "html": "<h3>\ud83c\udf84 About Your Ornament</h3><p>Say thank you to your favorite coworker with a ceramic Christmas ornament built around a Work Husband definition. Watercolor portrait artwork and a humorous definition make a playful workplace keepsake, and Designs A-F add one name.</p>",
+    "icon": "\ud83c\udf84",
+    "vars": "lead design D06; applies to the parent whose lead design is D06",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "About",
+    "req": true,
+    "_rec": "rec1pNZ6GyLL0wGfQ"
+   },
+   {
+    "id": "LCL-SOR-26-004-AMZ-D06",
+    "codes": "SOR-26-004",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D06\nTITLE: First Christmas New Home Ornament 2026, Storybook House Ceramic Keepsake\nHIGHLIGHT: Teal house-silhouette in a storybook illustration style; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Teal storybook house silhouette\nBACKEND: storybook house silhouette teal new home housewarming first house closing day moving gift new homeowner xmas tree decoration\nBULLET 1: FIRST CHRISTMAS IN A NEW HOME KEEPSAKE: Celebrate a family's first holiday in their new house with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: STORYBOOK NEW HOME DESIGN: A teal house-silhouette design in a storybook illustration style, with your family name and the year.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL HOUSEWARMING GIFT: A sentimental present for new homeowners, closing day or a first Christmas in a new house. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas in a new home ornament celebrates a family's first holiday season in their new house. A teal house-silhouette design in a storybook illustration style, with your family name and the year. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1\u20134 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D06",
+    "gov": "Created 2026-10-09, mirrored from LCL-SOR-26-003-AMZ-D06 for SOR-26-004 design 06 (Storybook New Home). Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "rec28OqOWSXzStEGW"
+   },
+   {
+    "id": "LCL-SOR-26-003-AMZ-D01",
+    "codes": "SOR-26-003",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D01\nTITLE: First Christmas Married Ornament 2026, Church Wedding Ceramic Keepsake\nHIGHLIGHT: Watercolor couple portrait beside a watercolor church interior on cream; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Watercolor couple portrait with church wedding scene\nBACKEND: church ceremony chapel watercolor newlywed just married mr mrs bride groom wedding gift bridal shower xmas tree decoration husband wife\nBULLET 1: FIRST CHRISTMAS MARRIED KEEPSAKE: Celebrate a couple's first holiday as newlyweds with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: WATERCOLOR CHURCH WEDDING DESIGN: A watercolor couple portrait in a pine-and-gold wreath beside a watercolor church interior, with Our First Christmas Married.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL WEDDING GIFT: A sentimental present for newlyweds, bridal showers or a first married Christmas. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas married ornament celebrates a couple's first holiday season as newlyweds. A watercolor couple portrait in a pine-and-gold wreath beside a watercolor church interior, with Our First Christmas Married. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1\u20134 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D01",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Active",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "rec2VDauDIVdnHfdt"
+   },
+   {
+    "id": "LCL-SOR-26-050-PERFECT-D03",
+    "codes": "SOR-26-050",
+    "plain": "\u2764\ufe0f Perfect For\n\u2022 A Christmas gift for your work bestie\n\u2022 A fun coworker keepsake for the tree\n\u2022 Celebrating a workplace friendship",
+    "html": "<h3>\u2764\ufe0f Perfect For</h3><ul><li>A Christmas gift for your work bestie</li><li>A fun coworker keepsake for the tree</li><li>Celebrating a workplace friendship</li></ul>",
+    "icon": "\u2764\ufe0f",
+    "vars": "lead design D03",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Gift Messaging",
+    "req": true,
+    "_rec": "rec3AqYniS9xz06df"
+   },
+   {
+    "id": "LCL-SOR-DESC-012",
+    "codes": "SOR",
+    "plain": "\u26a0\ufe0f Please Note\nColors may vary slightly between screens and the finished product. Personalization is produced from the information submitted with the order. Design G is ready-made and needs no name.",
+    "html": "<h3>\u26a0\ufe0f Please Note</h3><p>Colors may vary slightly between screens and the finished product. Personalization is produced from the information submitted with the order. Design G is ready-made and needs no name.</p>",
+    "icon": "\u26a0\ufe0f",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Active",
+    "scope": "Product Specific",
+    "type": "Important Notes",
+    "req": true,
+    "_rec": "rec3vu6dgz19b3ctp"
+   },
+   {
+    "id": "LCL-SOR-26-050-ABOUT-D04",
+    "codes": "SOR-26-050",
+    "plain": "\ud83c\udf84 About Your Ornament\nToast the friend who makes the office feel like home with a ceramic Christmas ornament built around an Office Bestie definition. Watercolor office-friend artwork pairs with playful office-humor copy, and Designs A-F add one name.",
+    "html": "<h3>\ud83c\udf84 About Your Ornament</h3><p>Toast the friend who makes the office feel like home with a ceramic Christmas ornament built around an Office Bestie definition. Watercolor office-friend artwork pairs with playful office-humor copy, and Designs A-F add one name.</p>",
+    "icon": "\ud83c\udf84",
+    "vars": "lead design D04; applies to the parent whose lead design is D04",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "About",
+    "req": true,
+    "_rec": "rec4V6w2mZP9hJGWB"
+   },
+   {
+    "id": "LCL-SOR-26-003-AMZ-D06",
+    "codes": "SOR-26-003",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D06\nTITLE: Mr and Mr First Christmas Married Ornament 2026, Ceramic Keepsake\nHIGHLIGHT: Watercolor portrait of two grooms between golden bells, holly and pine on deep green; 4 x 3 in ceramic ornament\nMODEL NAME: Two grooms watercolor portrait with golden bells\nBACKEND: gay wedding lgbtq grooms husbands same sex couple newlywed just married wedding gift engagement xmas tree decoration bells holly pine\nBULLET 1: FIRST CHRISTMAS MARRIED KEEPSAKE: Celebrate a couple's first holiday as newlyweds with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: MR AND MR DESIGN: A watercolor portrait of two grooms in a gold frame between golden bells, holly and pine on deep green with Our First Christmas Married.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL WEDDING GIFT: A sentimental present for newlyweds, bridal showers or a first married Christmas. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas married ornament celebrates a couple's first holiday season as newlyweds. A watercolor portrait of two grooms in a gold frame between golden bells, holly and pine on deep green with Our First Christmas Married. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1\u20134 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D06",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Active",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "rec4vAPYasnT4bqeu"
+   },
+   {
+    "id": "LCL-SOR-26-050-AMZ-001",
+    "codes": "SOR; SOR-26-050",
+    "plain": "Five bullets: (1) relationship-specific Christmas keepsake/gift positioning using only approved design relationship language; (2) personalization: Designs 01-06 use one Name field exactly as supplied; (3) product: horizontal rectangular ceramic ornament, rounded corners, 4 x 3 in, 4 mm thick, premium coating, edge-to-edge full-color sublimation; (4) presentation: pre-attached 1/4 in ivory satin ribbon plus white gloss gift box with gold elastic ribbon and two padded inserts; (5) care/use: meaningful seasonal keepsake, gently wipe with soft dry/slightly damp cloth, avoid abrasive cleaners. Backend terms may use approved relationship/coworker/friendship terms plus ceramic ornament/christmas keepsake/personalized name; no invented metrics, competitor terms, AI disclosure, production partner, or shipping promises.",
+    "vars": "Approved Design Registry relationship language; staged Amazon title; Product Registry SOR specs",
+    "gov": "Operator-authorized resolution 2026-09-29. Applies to six standalone Amazon SOR-26-050 designs D01-D06 only. D07 remains outside Amazon for this run.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Active",
+    "type": "Features",
+    "req": true,
+    "_rec": "rec7NknRXRF4f51Kw"
+   },
+   {
+    "id": "LCL-SOR-DESC-007",
+    "codes": "SOR",
+    "plain": "\ud83d\udcd0 Materials & Specifications\n\u2022 Ceramic ornament\n\u2022 4 in W x 3 in H; 4 mm thick\n\u2022 Edge-to-edge full-color sublimation\n\u2022 Premium upgraded coating\n\u2022 Pre-attached 1/4 in ivory satin ribbon",
+    "html": "<h3>\ud83d\udcd0 Materials & Specifications</h3><ul><li>Ceramic ornament</li><li>4 in W x 3 in H; 4 mm thick</li><li>Edge-to-edge full-color sublimation</li><li>Premium upgraded coating</li><li>Pre-attached 1/4 in ivory satin ribbon</li></ul>",
+    "icon": "\ud83d\udcd0",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Active",
+    "scope": "Product Specific",
+    "type": "Product Specs",
+    "req": true,
+    "_rec": "rec7hLw7DohLKkfwC"
+   },
+   {
+    "id": "LCL-SOR-26-003-AMZ-D04",
+    "codes": "SOR-26-003",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D04\nTITLE: Mr and Mrs First Christmas Married Ornament 2026, Ceramic Keepsake\nHIGHLIGHT: Kissing-couple silhouette in a scalloped mistletoe wreath on cream; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Mistletoe wreath couple silhouette\nBACKEND: silhouette mistletoe wreath green newlywed just married bride groom wedding gift bridal shower xmas tree decoration husband wife couple\nBULLET 1: FIRST CHRISTMAS MARRIED KEEPSAKE: Celebrate a couple's first holiday as newlyweds with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: MISTLETOE SILHOUETTE DESIGN: A kissing-couple silhouette in a scalloped mistletoe wreath on cream with Our First Christmas Married.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL WEDDING GIFT: A sentimental present for newlyweds, bridal showers or a first married Christmas. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas married ornament celebrates a couple's first holiday season as newlyweds. A kissing-couple silhouette in a scalloped mistletoe wreath on cream with Our First Christmas Married. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1\u20134 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D04",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Active",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "rec855JNCaQ9klaEh"
+   },
+   {
+    "id": "LCL-SOR-26-004-AMZ-D05",
+    "codes": "SOR-26-004",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D05\nTITLE: First Christmas New Home Ornament 2026, Holiday Cottage Ceramic Keepsake\nHIGHLIGHT: Cream illustrated cottage with candlelit windows; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Illustrated holiday cottage with candlelit windows\nBACKEND: cottage illustration candlelit windows cream new home housewarming first house closing day moving gift new homeowner xmas tree decoration\nBULLET 1: FIRST CHRISTMAS IN A NEW HOME KEEPSAKE: Celebrate a family's first holiday in their new house with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: HOME FOR THE HOLIDAYS DESIGN: A cream illustrated cottage with candlelit windows, with your family name and the year.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL HOUSEWARMING GIFT: A sentimental present for new homeowners, closing day or a first Christmas in a new house. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas in a new home ornament celebrates a family's first holiday season in their new house. A cream illustrated cottage with candlelit windows, with your family name and the year. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1\u20134 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D05",
+    "gov": "Created 2026-10-09, mirrored from LCL-SOR-26-003-AMZ-D05 for SOR-26-004 design 05 (Home for the Holidays). Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "rec8WlICfiTcKG7df"
+   },
+   {
+    "id": "LCL-SOR-DESC-006",
+    "codes": "SOR",
+    "plain": "\ud83d\udd37 Shape\nHorizontal rounded rectangle.",
+    "html": "<h3>\ud83d\udd37 Shape</h3><p>Horizontal rounded rectangle.</p>",
+    "icon": "\ud83d\udd37",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Active",
+    "scope": "Product Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "rec8ljXAzsX1gVuuV"
+   },
+   {
+    "id": "LCL-SOR-26-003-AMZ-PARENT",
+    "codes": "SOR-26-003",
+    "plain": "AMAZON LISTING CONTENT | COLLECTION PARENT\nTITLE: First Christmas Married Ornament 2026, Ceramic Newlywed Wedding Keepsake\nHIGHLIGHT: Newlywed Christmas keepsake in seven wedding designs; 4 x 3 in ceramic ornament with satin ribbon and gift box\nMODEL NAME: First Christmas Married story ornament collection\nBACKEND: newlywed just married mr mrs mr and mr bride groom wedding gift bridal shower couple husband wife xmas tree decoration keepsake first holiday together engagement anniversary\nBULLET 1: FIRST CHRISTMAS MARRIED KEEPSAKE: Celebrate a couple's first holiday as newlyweds with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: SEVEN WEDDING DESIGNS: Choose a watercolor church wedding, velvet bow and rings, vintage keepsake, mistletoe silhouette, winter rose portrait, Mr and Mr evergreen bells or ready-made wedding bells design.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL WEDDING GIFT: A sentimental present for newlyweds, bridal showers or a first married Christmas. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas married ornament celebrates a couple's first holiday season as newlyweds. Choose from seven wedding designs, from a watercolor church wedding and a mistletoe silhouette to a Mr and Mr evergreen bells portrait and a ready-made wedding bells design. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1\u20134 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Active",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recCBWGARWDP5uEUQ"
+   },
+   {
+    "id": "LCL-SOR-26-050-AMZ-D07",
+    "codes": "SOR-26-050",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D07\nTITLE: Friendship Gift Ceramic Christmas Ornament, Bestie Keepsake, Bestie\nHIGHLIGHT: Ready-made watercolor friends-walking design with Bestie definition; 4 x 3 in ceramic ornament\nMODEL NAME: Two best friends walking together from behind with Bestie definition\nBACKEND: ready to give no name needed besties walking together laughter loyalty inside jokes holiday tree decoration last minute\nBULLET 1: FRIENDSHIP GIFT: Two best friends walking together from behind and a Bestie definition celebrating laughter, loyalty and way too many inside jokes.\nBULLET 2: READY-MADE, NO NAME NEEDED: This design ships as shown with fixed artwork and wording, so there is nothing to enter at checkout.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: HOLIDAY KEEPSAKE: A sentimental Christmas present for the tree, year after year. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.\nDESCRIPTION: The Bestie ornament pairs a portrait with definition-style wording that captures the bond you share. It is a heartfelt Christmas present for birthdays, holidays or a simple thank you. This design is ready-made with fixed artwork and wording, so there is no name to enter. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging. It arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D07",
+    "gov": "Created 2026-10-07 to move the submitted SOR-26-050 Amazon test copy out of build scripts into Airtable. Title <=75 chars, no brand (AMZ-TITLE-GLOBAL-075); highlight <=125; no personalization on Amazon (AnywherePOD owns it). Status Testing pending operator review. Not rendered into Etsy/Shopify descriptions (no heading).",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recCI16gYrXMraS8s"
+   },
+   {
+    "id": "LCL-SOR-26-050-AMZ-D04",
+    "codes": "SOR-26-050",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D04\nTITLE: Office Christmas Gift Personalized Ceramic Ornament, Office Bestie\nHIGHLIGHT: Watercolor office-friend portrait with Office Bestie definition; 4 x 3 in ceramic ornament\nMODEL NAME: Office Bestie definition with coworker portrait\nBACKEND: workplace friend colleague team gift boss employee thank you work friendship humor keepsake holiday party favor cubicle decor tree\nBULLET 1: OFFICE CHRISTMAS GIFT: An Office Bestie definition with a watercolor portrait gives playful recognition to the coworker friend you share the workday with.\nBULLET 2: PERSONALIZED WITH A NAME: This design is personalized with one name, printed exactly as you provide it. Review spelling and capitalization before ordering.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: HOLIDAY KEEPSAKE: A sentimental Christmas present for the tree, year after year. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.\nDESCRIPTION: The Office Bestie ornament pairs a portrait with definition-style wording that captures the bond you share. It is a heartfelt Christmas present for birthdays, holidays or a simple thank you. This design is personalized with one name, printed exactly as you provide it. Review spelling and capitalization before ordering. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging. It arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D04",
+    "gov": "Created 2026-10-07 to move the submitted SOR-26-050 Amazon test copy out of build scripts into Airtable. Title <=75 chars, no brand (AMZ-TITLE-GLOBAL-075); highlight <=125; no personalization on Amazon (AnywherePOD owns it). Status Testing pending operator review. Not rendered into Etsy/Shopify descriptions (no heading).",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recE2j7BEmT7dTusn"
+   },
+   {
+    "id": "LCL-SOR-DESC-010",
+    "codes": "SOR",
+    "plain": "\ud83e\uddfc Care Instructions\nGently wipe with a soft, dry or slightly damp cloth. Avoid abrasive cleaners and scrubbing the printed surface.",
+    "html": "<h3>\ud83e\uddfc Care Instructions</h3><p>Gently wipe with a soft, dry or slightly damp cloth. Avoid abrasive cleaners and scrubbing the printed surface.</p>",
+    "icon": "\ud83e\uddfc",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Active",
+    "scope": "Product Specific",
+    "type": "Care Instructions",
+    "req": true,
+    "_rec": "recGHonap3qJo1J2J"
+   },
+   {
+    "id": "LCL-SOR-26-050-ABOUT-D02",
+    "codes": "SOR-26-050",
+    "plain": "\ud83c\udf84 About Your Ornament\nHonor the friend who feels like family with a ceramic Christmas ornament built around a Soul Sister definition. Black-and-white portrait artwork and dictionary-style typography give this friendship keepsake a heartfelt, timeless look, and Designs A-F add one name.",
+    "html": "<h3>\ud83c\udf84 About Your Ornament</h3><p>Honor the friend who feels like family with a ceramic Christmas ornament built around a Soul Sister definition. Black-and-white portrait artwork and dictionary-style typography give this friendship keepsake a heartfelt, timeless look, and Designs A-F add one name.</p>",
+    "icon": "\ud83c\udf84",
+    "vars": "lead design D02; applies to the parent whose lead design is D02",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "About",
+    "req": true,
+    "_rec": "recHUEsI2pq62xpif"
+   },
+   {
+    "id": "LCL-SOR-26-003-AMZ-D07",
+    "codes": "SOR-26-003",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D07\nTITLE: First Christmas Married Ornament 2026, Wedding Bells Ceramic Keepsake\nHIGHLIGHT: Ready-made golden wedding bells with red velvet bow, pine and pinecones; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Ready-made golden wedding bells with red bow\nBACKEND: wedding bells gold red bow pinecone newlywed just married mr mrs couple wedding gift bridal shower xmas tree decoration husband wife\nBULLET 1: FIRST CHRISTMAS MARRIED KEEPSAKE: Celebrate a couple's first holiday as newlyweds with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: READY-MADE WEDDING BELLS DESIGN: Golden wedding bells with a red velvet bow, pine and pinecones, Our First Christmas Married and Two Hearts, One Home.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL WEDDING GIFT: A sentimental present for newlyweds, bridal showers or a first married Christmas. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas married ornament celebrates a couple's first holiday season as newlyweds. Golden wedding bells with a red velvet bow, pine and pinecones, Our First Christmas Married and Two Hearts, One Home. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1\u20134 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D07",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Active",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recHkeaahncmGs59v"
+   },
+   {
+    "id": "LCL-SOR-26-004-AMZ-D07",
+    "codes": "SOR-26-004",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D07\nTITLE: First Christmas New Home Ornament 2026, Cozy Cottage Ceramic Keepsake\nHIGHLIGHT: Ready-made snowy illustrated cottage scene; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Ready-made snowy cottage illustration\nBACKEND: cozy cottage snowy ready made new home housewarming first house closing day moving gift new homeowner xmas tree decoration\nBULLET 1: FIRST CHRISTMAS IN A NEW HOME KEEPSAKE: Celebrate a family's first holiday in their new house with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: READY-MADE COZY COTTAGE DESIGN: A snowy illustrated cottage scene, Our First Christmas in Our New Home, no personalization needed.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL HOUSEWARMING GIFT: A sentimental present for new homeowners, closing day or a first Christmas in a new house. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas in a new home ornament celebrates a family's first holiday season in their new house. A snowy illustrated cottage scene, Our First Christmas in Our New Home. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1\u20134 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D07",
+    "gov": "Created 2026-10-09, mirrored from LCL-SOR-26-003-AMZ-D07 for SOR-26-004 design 07 (Cozy Cottage, ready-made). Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recHveDAV9pwBJuMs"
+   },
+   {
+    "id": "LCL-SOR-26-050-PERFECT-D04",
+    "codes": "SOR-26-050",
+    "plain": "\u2764\ufe0f Perfect For\n\u2022 A Christmas gift for your office bestie\n\u2022 An office-friend keepsake with a playful twist\n\u2022 Celebrating the coworker who makes work better",
+    "html": "<h3>\u2764\ufe0f Perfect For</h3><ul><li>A Christmas gift for your office bestie</li><li>An office-friend keepsake with a playful twist</li><li>Celebrating the coworker who makes work better</li></ul>",
+    "icon": "\u2764\ufe0f",
+    "vars": "lead design D04",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Gift Messaging",
+    "req": true,
+    "_rec": "recIemuA4hRALktP8"
+   },
+   {
+    "id": "LCL-SOR-26-004-AMZ-D03",
+    "codes": "SOR-26-004",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D03\nTITLE: First Christmas New Home Ornament 2026, Key Keepsake Ceramic Ornament\nHIGHLIGHT: Kraft-paper polaroid-style keepsake with key charm accent; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Kraft-paper polaroid keepsake with key charm\nBACKEND: kraft paper polaroid key charm new home housewarming first house closing day moving gift new homeowner xmas tree decoration\nBULLET 1: FIRST CHRISTMAS IN A NEW HOME KEEPSAKE: Celebrate a family's first holiday in their new house with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: KEY TO OUR NEW HOME DESIGN: A kraft-paper polaroid-style keepsake with a small gift-box and key charm accent, with your family name and the year.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL HOUSEWARMING GIFT: A sentimental present for new homeowners, closing day or a first Christmas in a new house. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas in a new home ornament celebrates a family's first holiday season in their new house. A kraft-paper polaroid-style keepsake with a small gift-box and key charm accent, with your family name and the year. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1\u20134 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D03",
+    "gov": "Created 2026-10-09, mirrored from LCL-SOR-26-003-AMZ-D03 for SOR-26-004 design 03 (Key to Our New Home). Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recJC0X8MKm6tBjku"
+   },
+   {
+    "id": "LCL-SOR-26-050-AMZ-D01",
+    "codes": "SOR-26-050",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D01\nTITLE: Personalized Best Friend Gift Ceramic Christmas Ornament, Best Friend\nHIGHLIGHT: Watercolor friends portrait with Best Friend definition, soft blue and blush; 4 x 3 in ceramic\nMODEL NAME: Best Friend definition with paired-friends portrait\nBACKEND: bff besties friendship keepsake sentimental present for her women girlfriend birthday xmas tree decoration thank you long distance friend\nBULLET 1: BEST FRIEND GIFT: Celebrate the friend who knows everything with a watercolor portrait of two friends and a warm Best Friend definition, made as a Christmas keepsake.\nBULLET 2: PERSONALIZED WITH A NAME: This design is personalized with one name, printed exactly as you provide it. Review spelling and capitalization before ordering.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: HOLIDAY KEEPSAKE: A sentimental Christmas present for the tree, year after year. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.\nDESCRIPTION: The Best Friend ornament pairs a portrait with definition-style wording that captures the bond you share. It is a heartfelt Christmas present for birthdays, holidays or a simple thank you. This design is personalized with one name, printed exactly as you provide it. Review spelling and capitalization before ordering. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging. It arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D01",
+    "gov": "Created 2026-10-07 to move the submitted SOR-26-050 Amazon test copy out of build scripts into Airtable. Title <=75 chars, no brand (AMZ-TITLE-GLOBAL-075); highlight <=125; no personalization on Amazon (AnywherePOD owns it). Status Testing pending operator review. Not rendered into Etsy/Shopify descriptions (no heading).",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recMYLlM77HKwcAz8"
+   },
+   {
+    "id": "LCL-SOR-26-003-PERS-001",
+    "codes": "SOR-26-003",
+    "plain": "\ud83c\udfa8 Personalization\nDesigns A\u2013F are personalized with Live Preview. DESIGN G is ready-made and intentionally non-personalized.",
+    "html": "<h3>\ud83c\udfa8 Personalization</h3><p>Designs A\u2013F are personalized with Live Preview. DESIGN G is ready-made and intentionally non-personalized.</p>",
+    "icon": "\ud83c\udfa8",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "status": "Active",
+    "scope": "Niche Specific",
+    "type": "Personalization",
+    "req": true,
+    "_rec": "recN5GokuzBSpRWoz"
+   },
+   {
+    "id": "LCL-SOR-26-003-AMZ-D05",
+    "codes": "SOR-26-003",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D05\nTITLE: First Christmas Married Ornament 2026, Wedding Portrait Ceramic Keepsake\nHIGHLIGHT: Painterly couple portrait framed by blue and ivory roses with red berries; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Painterly couple portrait with winter roses\nBACKEND: portrait painting roses floral blue berries newlywed just married mr mrs bride groom wedding gift bridal shower xmas tree decoration\nBULLET 1: FIRST CHRISTMAS MARRIED KEEPSAKE: Celebrate a couple's first holiday as newlyweds with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: WINTER ROSE PORTRAIT DESIGN: A painterly couple portrait framed by blue and ivory roses, red berries and ribbon with Our First Christmas Married.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL WEDDING GIFT: A sentimental present for newlyweds, bridal showers or a first married Christmas. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas married ornament celebrates a couple's first holiday season as newlyweds. A painterly couple portrait framed by blue and ivory roses, red berries and ribbon with Our First Christmas Married. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1\u20134 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D05",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Active",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recNlqtNykhsHIxzn"
+   },
+   {
+    "id": "LCL-SOR-26-003-ABOUT-001",
+    "codes": "SOR-26-003",
+    "plain": "\ud83c\udf84 About Your Ornament\nCelebrate your first Christmas as a married couple with a personalized 4 \u00d7 3 in ceramic story ornament made to hang on the tree year after year. It arrives in a white gloss gift box, ready to give.",
+    "html": "<h3>\ud83c\udf84 About Your Ornament</h3><p>Celebrate your first Christmas as a married couple with a personalized 4 \u00d7 3 in ceramic story ornament made to hang on the tree year after year. It arrives in a white gloss gift box, ready to give.</p>",
+    "icon": "\ud83c\udf84",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "status": "Active",
+    "scope": "Niche Specific",
+    "type": "About",
+    "req": true,
+    "_rec": "recPOC1U5yPKYyHfe"
+   },
+   {
+    "id": "LCL-SOR-26-003-ORDER-SHOP",
+    "codes": "SOR-26-003",
+    "plain": "\ud83d\uded2 How to Order\nChoose your design.\nFor designs A\u2013F, open Live Preview on this page and create your ornament. The ready-made DESIGN G requires no personalization.\nReview your preview carefully for accuracy.\nComplete your order.",
+    "html": "<h3>\ud83d\uded2 How to Order</h3><ol><li>Choose your design.</li><li>For designs A\u2013F, open Live Preview on this page and create your ornament. The ready-made DESIGN G requires no personalization.</li><li>Review your preview carefully for accuracy.</li><li>Complete your order.</li></ol>",
+    "icon": "\ud83d\uded2",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Shopify"
+    ],
+    "status": "Active",
+    "scope": "Niche Specific",
+    "type": "How To Order",
+    "req": true,
+    "_rec": "recQLocRkl1NATAOh"
+   },
+   {
+    "id": "LCL-SOR-DESC-011",
+    "codes": "SOR",
+    "plain": "\ud83d\udce6 Production\nProduction typically takes 1\u20133 business days before shipment.",
+    "html": "<h3>\ud83d\udce6 Production</h3><p>Production typically takes 1\u20133 business days before shipment.</p>",
+    "icon": "\ud83d\udce6",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "status": "Active",
+    "scope": "Product Specific",
+    "type": "Production Time",
+    "req": true,
+    "_rec": "recQQIN84fjgFIAzf"
+   },
+   {
+    "id": "LCL-SOR-26-004-ORDER-SHOP",
+    "codes": "SOR-26-004",
+    "plain": "\ud83d\uded2 How to Order\nChoose your design.\nFor designs A\u2013F, open Live Preview on this page and create your ornament. The ready-made DESIGN G requires no personalization.\nReview your preview carefully for accuracy.\nComplete your order.",
+    "html": "<h3>\ud83d\uded2 How to Order</h3><ol><li>Choose your design.</li><li>For designs A\u2013F, open Live Preview on this page and create your ornament. The ready-made DESIGN G requires no personalization.</li><li>Review your preview carefully for accuracy.</li><li>Complete your order.</li></ol>",
+    "icon": "\ud83d\uded2",
+    "gov": "Created 2026-10-09, mirrored from LCL-SOR-26-003-ORDER-SHOP for SOR-26-004. Status Testing pending operator review.",
+    "mk": [
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "How To Order",
+    "req": true,
+    "_rec": "recRHdZuhdfEjPFz5"
+   },
+   {
+    "id": "LCL-SOR-DESC-011-AMZ",
+    "codes": "SOR",
+    "plain": "PRODUCTION\nProduction typically takes 1\u20134 business days before shipment.",
+    "gov": "Created 2026-10-07. Amazon plain-text heading, no icon. Operator direction: 4 business days for Amazon (expected 1-3 plus one-day buffer for tighter requirements/compliance). Wording is Claude's; Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Active",
+    "scope": "Product Specific",
+    "type": "Production Time",
+    "req": true,
+    "_rec": "recRQjEeBWgBKcejl"
+   },
+   {
+    "id": "LCL-SOR-DESC-003",
+    "codes": "SOR",
+    "plain": "\u2728 Key Features\n\u2022 Horizontal ceramic ornament with softly rounded corners\n\u2022 Premium upgraded coating for clear, vibrant artwork\n\u2022 Edge-to-edge full-color sublimation\n\u2022 Pre-attached ivory satin ribbon for hanging\n\u2022 Gift box included",
+    "html": "<h3>\u2728 Key Features</h3><ul><li>Horizontal ceramic ornament with softly rounded corners</li><li>Premium upgraded coating for clear, vibrant artwork</li><li>Edge-to-edge full-color sublimation</li><li>Pre-attached ivory satin ribbon for hanging</li><li>Gift box included</li></ul>",
+    "icon": "\u2728",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Active",
+    "scope": "Product Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recS1JvSbpOqP1mE9"
+   },
+   {
+    "id": "LCL-SOR-26-050-PERFECT-D01",
+    "codes": "SOR-26-050",
+    "plain": "\u2764\ufe0f Perfect For\n\u2022 A Christmas gift for your best friend\n\u2022 A friendship keepsake for the tree\n\u2022 Celebrating a close friendship through the holidays",
+    "html": "<h3>\u2764\ufe0f Perfect For</h3><ul><li>A Christmas gift for your best friend</li><li>A friendship keepsake for the tree</li><li>Celebrating a close friendship through the holidays</li></ul>",
+    "icon": "\u2764\ufe0f",
+    "vars": "lead design D01",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Gift Messaging",
+    "req": true,
+    "_rec": "recSOCR7mt0cqhT5p"
+   },
+   {
+    "id": "LCL-SOR-DESC-008",
+    "codes": "SOR",
+    "plain": "\ud83c\udf81 Gift-Ready Presentation\nEach ornament includes a white gloss gift box with gold elastic ribbon and two padded inserts, so it is ready to give.",
+    "html": "<h3>\ud83c\udf81 Gift-Ready Presentation</h3><p>Each ornament includes a white gloss gift box with gold elastic ribbon and two padded inserts, so it is ready to give.</p>",
+    "icon": "\ud83c\udf81",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Active",
+    "scope": "Product Specific",
+    "type": "Gift Messaging",
+    "req": true,
+    "_rec": "recT18r8mw5LRJUnT"
+   },
+   {
+    "id": "LCL-SOR-26-004-AMZ-D04",
+    "codes": "SOR-26-004",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D04\nTITLE: First Christmas New Home Ornament 2026, House Crest Ceramic Keepsake\nHIGHLIGHT: Black house-crest badge with monogram-style initials; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: House crest badge with monogram initials\nBACKEND: crest badge monogram house silhouette new home housewarming first house closing day moving gift new homeowner xmas tree decoration\nBULLET 1: FIRST CHRISTMAS IN A NEW HOME KEEPSAKE: Celebrate a family's first holiday in their new house with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: HOUSE CREST DESIGN: A black crest-and-badge design with a house silhouette and monogram-style initials, with your family name and the year.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL HOUSEWARMING GIFT: A sentimental present for new homeowners, closing day or a first Christmas in a new house. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas in a new home ornament celebrates a family's first holiday season in their new house. A black crest-and-badge design with a house silhouette and monogram-style initials, with your family name and the year. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1\u20134 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D04",
+    "gov": "Created 2026-10-09, mirrored from LCL-SOR-26-003-AMZ-D04 for SOR-26-004 design 04 (House Crest). Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recT6R6gbLjcQCAY0"
+   },
+   {
+    "id": "LCL-SOR-26-004-AMZ-D02",
+    "codes": "SOR-26-004",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D02\nTITLE: First Christmas New Home Ornament 2026, New Key Ceramic Keepsake\nHIGHLIGHT: Vintage key in a holiday greenery wreath; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Vintage key with holiday greenery wreath\nBACKEND: new key wreath greenery new home housewarming first house closing day moving gift new homeowner xmas tree decoration\nBULLET 1: FIRST CHRISTMAS IN A NEW HOME KEEPSAKE: Celebrate a family's first holiday in their new house with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: NEW KEY, NEW HOME DESIGN: A vintage brass key framed in a holiday greenery wreath with your family name and the year.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL HOUSEWARMING GIFT: A sentimental present for new homeowners, closing day or a first Christmas in a new house. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas in a new home ornament celebrates a family's first holiday season in their new house. A vintage brass key framed in a holiday greenery wreath with your family name and the year. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1\u20134 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D02",
+    "gov": "Created 2026-10-09, mirrored from LCL-SOR-26-003-AMZ-D02 for SOR-26-004 design 02 (New Key, New Home). Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recWul8f3O6D2rye4"
+   },
+   {
+    "id": "LCL-SOR-26-004-PERS-001",
+    "codes": "SOR-26-004",
+    "plain": "\ud83c\udfa8 Personalization\nDesigns A\u2013F are personalized with Live Preview. DESIGN G is ready-made and intentionally non-personalized.",
+    "html": "<h3>\ud83c\udfa8 Personalization</h3><p>Designs A\u2013F are personalized with Live Preview. DESIGN G is ready-made and intentionally non-personalized.</p>",
+    "icon": "\ud83c\udfa8",
+    "gov": "Created 2026-10-09, mirrored from LCL-SOR-26-003-PERS-001 for SOR-26-004. Status Testing pending operator review.",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Personalization",
+    "req": true,
+    "_rec": "recX7gtTKlIm1coSS"
+   },
+   {
+    "id": "LCL-SOR-26-004-PERS-INSTR-ETSY",
+    "codes": "SOR-26-004",
+    "plain": "\ud83d\udcdd Personalization Instructions\nPersonalize your order (Designs A\u2013F):\n1. Go to https://prsnl.art/cI3pJ\n2. Upload photo(s)\n3. Return to Etsy to finish purchase\nEnter your Personalization ID in the personalization box. DESIGN G is ready-made and needs no personalization.",
+    "icon": "\ud83d\udcdd",
+    "vars": "AnywherePOD personalization link https://prsnl.art/cI3pJ",
+    "gov": "Created 2026-10-09 from operator-supplied AnywherePOD 'What buyers will see' screenshot (Personalization ID field, 120 chars) for SOR-26-004, link https://prsnl.art/cI3pJ. Operator approved this change over the drafted placeholder.",
+    "mk": [
+     "Etsy"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Personalization Instructions",
+    "req": true,
+    "_rec": "recXM7NNZYFnoh7EQ"
+   },
+   {
+    "id": "LCL-SOR-26-050-AMZ-D03",
+    "codes": "SOR-26-050",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D03\nTITLE: Work Bestie Gift Personalized Ceramic Christmas Ornament, Work Bestie\nHIGHLIGHT: Watercolor coworker portrait with humorous Work Bestie definition; 4 x 3 in ceramic ornament\nMODEL NAME: Work Bestie definition with coworker portrait\nBACKEND: coworker colleague team appreciation office friend secret santa white elephant exchange holiday desk tree decoration funny present\nBULLET 1: WORK BESTIE GIFT: A humorous Work Bestie definition and watercolor coworker portrait make a fun Christmas present for the colleague who makes work better.\nBULLET 2: PERSONALIZED WITH A NAME: This design is personalized with one name, printed exactly as you provide it. Review spelling and capitalization before ordering.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: HOLIDAY KEEPSAKE: A sentimental Christmas present for the tree, year after year. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.\nDESCRIPTION: The Work Bestie ornament pairs a portrait with definition-style wording that captures the bond you share. It is a heartfelt Christmas present for birthdays, holidays or a simple thank you. This design is personalized with one name, printed exactly as you provide it. Review spelling and capitalization before ordering. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging. It arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D03",
+    "gov": "Created 2026-10-07 to move the submitted SOR-26-050 Amazon test copy out of build scripts into Airtable. Title <=75 chars, no brand (AMZ-TITLE-GLOBAL-075); highlight <=125; no personalization on Amazon (AnywherePOD owns it). Status Testing pending operator review. Not rendered into Etsy/Shopify descriptions (no heading).",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recXgrisPSdJ4v6ic"
+   },
+   {
+    "id": "LCL-SOR-DESC-004",
+    "codes": "SOR",
+    "plain": "\ud83c\udfa8 Personalization\nDesigns A-F carry one name in the name line of the artwork. Design G is a ready-made Bestie design with fixed artwork and no personalization.",
+    "html": "<h3>\ud83c\udfa8 Personalization</h3><p>Designs A-F carry one name in the name line of the artwork. Design G is a ready-made Bestie design with fixed artwork and no personalization.</p>",
+    "icon": "\ud83c\udfa8",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Product Specific",
+    "type": "Personalization",
+    "req": true,
+    "_rec": "recYF8trUKaImDLW6"
+   },
+   {
+    "id": "LCL-SOR-26-003-PERFECT-001",
+    "codes": "SOR-26-003",
+    "plain": "\ud83d\udc9d Perfect For\nA first Christmas married keepsake for newlyweds, and a thoughtful wedding, bridal shower or first-holiday gift for the couple.\n\u2022 DESIGN A \u2013 Watercolor Church Wedding: a watercolor couple portrait in a pine-and-gold wreath beside a watercolor church interior, with your family name, \"Our First Christmas Married\" and the year\n\u2022 DESIGN B \u2013 Velvet Bow & Rings: a couple portrait in a scalloped gold medallion beside a red velvet bow and gold wedding rings on a bows-and-rings pattern\n\u2022 DESIGN C \u2013 Vintage Keepsake: a sepia couple portrait on vintage paper with a blush satin ribbon, a \"Together Always\" card and a burgundy bauble\n\u2022 DESIGN D \u2013 Mistletoe Silhouette: a kissing-couple silhouette in a scalloped mistletoe wreath on cream, with your names and the year\n\u2022 DESIGN E \u2013 Winter Rose Portrait: a painterly couple portrait framed by blue and ivory roses, red berries and ribbon\n\u2022 DESIGN F \u2013 Evergreen Bells Mr & Mr: a watercolor portrait of two grooms in a gold frame between golden bells, holly and pine on deep green\n\u2022 DESIGN G \u2013 Wedding Bells: golden wedding bells with a red velvet bow, pine and pinecones, \"Our First Christmas Married\" and \"Two Hearts, One Home\"; no personalization needed",
+    "html": "<h3>\ud83d\udc9d Perfect For</h3><p>A first Christmas married keepsake for newlyweds, and a thoughtful wedding, bridal shower or first-holiday gift for the couple.</p><ul><li>DESIGN A \u2013 Watercolor Church Wedding: a watercolor couple portrait in a pine-and-gold wreath beside a watercolor church interior, with your family name, \"Our First Christmas Married\" and the year</li><li>DESIGN B \u2013 Velvet Bow &amp; Rings: a couple portrait in a scalloped gold medallion beside a red velvet bow and gold wedding rings on a bows-and-rings pattern</li><li>DESIGN C \u2013 Vintage Keepsake: a sepia couple portrait on vintage paper with a blush satin ribbon, a \"Together Always\" card and a burgundy bauble</li><li>DESIGN D \u2013 Mistletoe Silhouette: a kissing-couple silhouette in a scalloped mistletoe wreath on cream, with your names and the year</li><li>DESIGN E \u2013 Winter Rose Portrait: a painterly couple portrait framed by blue and ivory roses, red berries and ribbon</li><li>DESIGN F \u2013 Evergreen Bells Mr &amp; Mr: a watercolor portrait of two grooms in a gold frame between golden bells, holly and pine on deep green</li><li>DESIGN G \u2013 Wedding Bells: golden wedding bells with a red velvet bow, pine and pinecones, \"Our First Christmas Married\" and \"Two Hearts, One Home\"; no personalization needed</li></ul>",
+    "icon": "\ud83d\udc9d",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "status": "Active",
+    "scope": "Niche Specific",
+    "type": "Gift Messaging",
+    "req": true,
+    "_rec": "recZPopRTYw3XKLzH"
+   },
+   {
+    "id": "LCL-SOR-DESC-002-ETSY",
+    "codes": "SOR",
+    "plain": "\ud83d\udcdd Personalization Instructions\nDesigns A-F: enter the name exactly as you want it printed. Design G is ready-made and needs no name. Please review spelling and capitalization before ordering.",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy"
+    ],
+    "status": "Active",
+    "scope": "Product Specific",
+    "type": "Personalization Instructions",
+    "req": true,
+    "_rec": "reccQDrxRba3p8KUJ"
+   },
+   {
+    "id": "LCL-SOR-26-004-PERFECT-001",
+    "codes": "SOR-26-004",
+    "plain": "\ud83d\udc9d Perfect For\nA first Christmas in a new home keepsake, and a thoughtful housewarming, closing-day or first-holiday gift for the new homeowners.\n\u2022 DESIGN A \u2013 Watercolor New Home: a soft watercolor house-and-key illustration with your family name, \"Our First Christmas in Our New Home\" and the year\n\u2022 DESIGN B \u2013 New Key, New Home: a vintage brass key framed in a holiday greenery wreath, with your family name and the year\n\u2022 DESIGN C \u2013 Key to Our New Home: a kraft-paper polaroid-style keepsake with a small gift-box and key charm accent\n\u2022 DESIGN D \u2013 House Crest: a black crest/badge design with a house silhouette and monogram-style initials\n\u2022 DESIGN E \u2013 Home for the Holidays: a cream illustrated cottage with candlelit windows\n\u2022 DESIGN F \u2013 Storybook New Home: a teal house-silhouette design in a storybook illustration style\n\u2022 DESIGN G \u2013 Cozy Cottage: a ready-made snowy illustrated cottage scene; no personalization needed",
+    "html": "<h3>\ud83d\udc9d Perfect For</h3><p>A first Christmas in a new home keepsake, and a thoughtful housewarming, closing-day or first-holiday gift for the new homeowners.</p><ul><li>DESIGN A \u2013 Watercolor New Home: a soft watercolor house-and-key illustration with your family name, \"Our First Christmas in Our New Home\" and the year</li><li>DESIGN B \u2013 New Key, New Home: a vintage brass key framed in a holiday greenery wreath, with your family name and the year</li><li>DESIGN C \u2013 Key to Our New Home: a kraft-paper polaroid-style keepsake with a small gift-box and key charm accent</li><li>DESIGN D \u2013 House Crest: a black crest/badge design with a house silhouette and monogram-style initials</li><li>DESIGN E \u2013 Home for the Holidays: a cream illustrated cottage with candlelit windows</li><li>DESIGN F \u2013 Storybook New Home: a teal house-silhouette design in a storybook illustration style</li><li>DESIGN G \u2013 Cozy Cottage: a ready-made snowy illustrated cottage scene; no personalization needed</li></ul>",
+    "icon": "\ud83d\udc9d",
+    "gov": "Created 2026-10-09, mirrored from LCL-SOR-26-003-PERFECT-001, design list substituted per the operator-confirmed SOR-26-004 design walkthrough (this conversation). Status Testing pending operator review.",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Gift Messaging",
+    "req": true,
+    "_rec": "recdpFm0K3DV4pZh5"
+   },
+   {
+    "id": "LCL-SOR-26-050-DESC-001",
+    "codes": "SOR; SOR-26-050",
+    "plain": "Collection-specific authority. Assemble buyer-facing description from the current parent/design relationship, then these governed facts: horizontal rectangular ceramic ornament with rounded corners; 4 in W x 3 in H; 4 mm thick; premium upgraded coating; edge-to-edge full-color sublimation; pre-attached 1/4 in ivory satin ribbon; included white gloss gift box with gold elastic ribbon and two padded inserts. Designs 01-06 use one Name field exactly as supplied; Design 07 is ready-made/non-personalized. Review spelling/capitalization before ordering. Gently wipe with a soft dry or slightly damp cloth; avoid abrasive cleaners. Do not state buyer-facing shipping promises or production-partner names.",
+    "vars": "Parent relationship; source design; personalization status; Product Registry SOR specs",
+    "gov": "Operator-authorized resolution 2026-09-29. Created specifically to close the SOR-26-050 marketplace-copy authority gap. ORN content is not a fallback because SOR physical specifications and packaging differ. Amazon output must remain plain text and contain no AI disclosure. Etsy/Shopify may use buyer-facing disclosure only if separately governed.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Active",
+    "type": "Features",
+    "req": true,
+    "_rec": "recgOgU5VdfigqDAL"
+   },
+   {
+    "id": "LCL-SOR-26-050-PERFECT-D06",
+    "codes": "SOR-26-050",
+    "plain": "\u2764\ufe0f Perfect For\n\u2022 A Christmas gift for your work husband\n\u2022 A playful coworker keepsake\n\u2022 Thanking a coworker who always has your back",
+    "html": "<h3>\u2764\ufe0f Perfect For</h3><ul><li>A Christmas gift for your work husband</li><li>A playful coworker keepsake</li><li>Thanking a coworker who always has your back</li></ul>",
+    "icon": "\u2764\ufe0f",
+    "vars": "lead design D06",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Gift Messaging",
+    "req": true,
+    "_rec": "recgZeZ9uRChTndvQ"
+   },
+   {
+    "id": "LCL-SOR-DESC-005",
+    "codes": "SOR",
+    "plain": "\ud83d\uded2 How to Order\nChoose your design (DESIGN A through DESIGN G) and add it to your cart. For Designs A-F, provide the name exactly as you want it printed.",
+    "html": "<h3>\ud83d\uded2 How to Order</h3><p>Choose your design (DESIGN A through DESIGN G) and add it to your cart. For Designs A-F, provide the name exactly as you want it printed.</p>",
+    "icon": "\ud83d\uded2",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Product Specific",
+    "type": "How To Order",
+    "req": true,
+    "_rec": "recgfEO27U1qgMupF"
+   },
+   {
+    "id": "LCL-SOR-26-050-ABOUT-D01",
+    "codes": "SOR-26-050",
+    "plain": "\ud83c\udf84 About Your Ornament\nCelebrate the friend who knows you best with a ceramic Christmas ornament built around a Best Friend definition. Warm, sentimental artwork pairs a friendship portrait with dictionary-style typography, and Designs A-F add one name to make it yours.",
+    "html": "<h3>\ud83c\udf84 About Your Ornament</h3><p>Celebrate the friend who knows you best with a ceramic Christmas ornament built around a Best Friend definition. Warm, sentimental artwork pairs a friendship portrait with dictionary-style typography, and Designs A-F add one name to make it yours.</p>",
+    "icon": "\ud83c\udf84",
+    "vars": "lead design D01; applies to the parent whose lead design is D01",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "About",
+    "req": true,
+    "_rec": "rechCC7lB00DmjASV"
+   },
+   {
+    "id": "LCL-SOR-26-003-AMZ-D02",
+    "codes": "SOR-26-003",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D02\nTITLE: First Christmas Married Ornament 2026, Wedding Rings Ceramic Keepsake\nHIGHLIGHT: Couple portrait medallion beside a red velvet bow and gold wedding rings; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Velvet bow and wedding rings with portrait medallion\nBACKEND: rings red bow velvet medallion newlywed just married mr mrs bride groom wedding gift bridal shower xmas tree decoration husband wife\nBULLET 1: FIRST CHRISTMAS MARRIED KEEPSAKE: Celebrate a couple's first holiday as newlyweds with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: VELVET BOW AND RINGS DESIGN: A couple portrait in a scalloped gold medallion beside a red velvet bow and gold wedding rings on a festive pattern.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL WEDDING GIFT: A sentimental present for newlyweds, bridal showers or a first married Christmas. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas married ornament celebrates a couple's first holiday season as newlyweds. A couple portrait in a scalloped gold medallion beside a red velvet bow and gold wedding rings on a festive pattern. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1\u20134 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D02",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Active",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "rechObAS5a6ce1gbH"
+   },
+   {
+    "id": "LCL-SOR-26-050-SHOP-001",
+    "codes": "SOR; SOR-26-050",
+    "plain": "Meta description: concise parent-relationship-specific summary of the Story Ornament as a ceramic Christmas keepsake/gift; mention personalization and included gift box when applicable. Keep factual and consistent with the staged Shopify SEO title. Do not include production partner, supplier processing, shipping-cost evidence, or unsupported urgency.",
+    "vars": "Parent relationship; staged Shopify SEO title; Product Registry SOR specs",
+    "gov": "Operator-authorized resolution 2026-09-29. Collection-specific Shopify meta authority for SOR-26-050.",
+    "mk": [
+     "Shopify"
+    ],
+    "status": "Active",
+    "type": "Features",
+    "req": true,
+    "_rec": "rechUKmxWQZIGvtIk"
+   },
+   {
+    "id": "LCL-SOR-26-003-PERS-INSTR-ETSY",
+    "codes": "SOR-26-003",
+    "plain": "\ud83d\udcdd Personalization Instructions\nPersonalize your order (Designs A\u2013F):\n1. Go to https://prsnl.art/2Hzwp\n2. Upload photo(s) & Text\n3. Return to Etsy to finish purchase\nEnter your Personalization ID in the personalization box. DESIGN G is ready-made and needs no personalization.",
+    "icon": "\ud83d\udcdd",
+    "vars": "AnywherePOD personalization link https://prsnl.art/2Hzwp",
+    "gov": "Created 2026-10-08 from operator-supplied AnywherePOD 'What buyers will see' screenshot (Personalization ID field, 120 chars). Operator approved Active.",
+    "mk": [
+     "Etsy"
+    ],
+    "status": "Active",
+    "scope": "Niche Specific",
+    "type": "Personalization Instructions",
+    "req": true,
+    "_rec": "reckIak41pY7jYA91"
+   },
+   {
+    "id": "LCL-SOR-26-050-ABOUT-D03",
+    "codes": "SOR-26-050",
+    "plain": "\ud83c\udf84 About Your Ornament\nGive your closest coworker a ceramic Christmas ornament built around a Work Bestie definition. Watercolor coworker artwork meets a humorous workplace definition, and Designs A-F add one name for a personal touch.",
+    "html": "<h3>\ud83c\udf84 About Your Ornament</h3><p>Give your closest coworker a ceramic Christmas ornament built around a Work Bestie definition. Watercolor coworker artwork meets a humorous workplace definition, and Designs A-F add one name for a personal touch.</p>",
+    "icon": "\ud83c\udf84",
+    "vars": "lead design D03; applies to the parent whose lead design is D03",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "About",
+    "req": true,
+    "_rec": "recnb1ntelAM2gdri"
+   },
+   {
+    "id": "LCL-SOR-26-003-AMZ-D03",
+    "codes": "SOR-26-003",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D03\nTITLE: First Christmas Married Ornament 2026, Vintage Wedding Ceramic Keepsake\nHIGHLIGHT: Sepia couple portrait on vintage paper with blush ribbon and burgundy bauble; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Vintage sepia couple portrait with blush ribbon\nBACKEND: vintage sepia antique blush ribbon newlywed just married mr mrs bride groom wedding gift bridal shower xmas tree decoration husband wife\nBULLET 1: FIRST CHRISTMAS MARRIED KEEPSAKE: Celebrate a couple's first holiday as newlyweds with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: VINTAGE KEEPSAKE DESIGN: A sepia couple portrait on vintage paper with a blush satin ribbon, a Together Always card and a burgundy bauble.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL WEDDING GIFT: A sentimental present for newlyweds, bridal showers or a first married Christmas. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas married ornament celebrates a couple's first holiday season as newlyweds. A sepia couple portrait on vintage paper with a blush satin ribbon, a Together Always card and a burgundy bauble. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1\u20134 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D03",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Active",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recndaz8q3WcFEOMO"
+   },
+   {
+    "id": "LCL-SOR-26-050-AMZ-PARENT",
+    "codes": "SOR-26-050",
+    "plain": "AMAZON LISTING CONTENT | COLLECTION PARENT\nTITLE: Personalized Friendship Christmas Ornament Gift, Ceramic Keepsake\nHIGHLIGHT: Ceramic 4 x 3 in rounded rectangle, full-color print, ivory satin ribbon, white gift box\nMODEL NAME: Friendship and coworker definition ornament set\nBACKEND: bestie keepsake coworker present holiday tree decoration friend appreciation sentimental office christmas stocking stuffer exchange gift idea\nBULLET 1: FRIENDSHIP AND COWORKER KEEPSAKES: Choose from seven designs celebrating best friends, soul sisters, work besties, office besties, work wives, work husbands and a ready-made bestie design, each with its own definition-style artwork.\nBULLET 2: PERSONALIZED WITH A NAME: Designs one through six are personalized with the name you provide, so the ornament feels made for the person who opens it. The ready-made bestie design needs no name.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing for sharp detail.\nBULLET 4: READY TO HANG AND GIVE: Comes with a pre-attached 1/4 inch ivory satin ribbon and arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: A KEEPSAKE THAT LASTS: A thoughtful Christmas present for a friend, chosen sister or coworker. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.\nDESCRIPTION: This Christmas ornament collection turns friendship into a keepsake. Seven designs cover best friends, soul sisters, work besties, office besties, work wives, work husbands and a ready-made bestie design, each pairing a portrait with definition-style wording. Designs one through six are personalized with the name you provide. The seventh design is ready-made and needs no name. Each ornament is a horizontal rounded-rectangle ceramic piece measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging. It arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready for gifting to a friend, chosen sister or coworker. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "gov": "Created 2026-10-07 to move the submitted SOR-26-050 Amazon test copy out of build scripts into Airtable. Title <=75 chars, no brand (AMZ-TITLE-GLOBAL-075); highlight <=125; no personalization on Amazon (AnywherePOD owns it). Status Testing pending operator review. Not rendered into Etsy/Shopify descriptions (no heading).",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recoSOhI4PahjvmLU"
+   },
+   {
+    "id": "LCL-SOR-26-050-AMZ-D02",
+    "codes": "SOR-26-050",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D02\nTITLE: Soul Sister Gift Personalized Ceramic Christmas Ornament, Soul Sister\nHIGHLIGHT: Black-and-white sketch portrait with Soul Sister definition; 4 x 3 in ceramic, satin ribbon\nMODEL NAME: Soul Sister definition with two-women portrait\nBACKEND: chosen sister sisterhood friendship present heartfelt keepsake unbiological sisters women holiday decoration thoughtful friend birthday\nBULLET 1: SOUL SISTER GIFT: A black-and-white sketch portrait and Soul Sister definition honor the chosen sister who has been there through it all.\nBULLET 2: PERSONALIZED WITH A NAME: This design is personalized with one name, printed exactly as you provide it. Review spelling and capitalization before ordering.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: HOLIDAY KEEPSAKE: A sentimental Christmas present for the tree, year after year. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.\nDESCRIPTION: The Soul Sister ornament pairs a portrait with definition-style wording that captures the bond you share. It is a heartfelt Christmas present for birthdays, holidays or a simple thank you. This design is personalized with one name, printed exactly as you provide it. Review spelling and capitalization before ordering. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging. It arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D02",
+    "gov": "Created 2026-10-07 to move the submitted SOR-26-050 Amazon test copy out of build scripts into Airtable. Title <=75 chars, no brand (AMZ-TITLE-GLOBAL-075); highlight <=125; no personalization on Amazon (AnywherePOD owns it). Status Testing pending operator review. Not rendered into Etsy/Shopify descriptions (no heading).",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recpSzYTMqqX3lfra"
+   },
+   {
+    "id": "LCL-SOR-26-050-ABOUT-D05",
+    "codes": "SOR-26-050",
+    "plain": "\ud83c\udf84 About Your Ornament\nSay thank you to your favorite coworker with a ceramic Christmas ornament built around a Work Wife definition. Watercolor portrait artwork and a humorous definition make a playful workplace keepsake, and Designs A-F add one name.",
+    "html": "<h3>\ud83c\udf84 About Your Ornament</h3><p>Say thank you to your favorite coworker with a ceramic Christmas ornament built around a Work Wife definition. Watercolor portrait artwork and a humorous definition make a playful workplace keepsake, and Designs A-F add one name.</p>",
+    "icon": "\ud83c\udf84",
+    "vars": "lead design D05; applies to the parent whose lead design is D05",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "About",
+    "req": true,
+    "_rec": "recqLD0kP8sfBz2gl"
+   },
+   {
+    "id": "LCL-SOR-26-050-AMZ-D06",
+    "codes": "SOR-26-050",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D06\nTITLE: Funny Coworker Christmas Ornament, Personalized Ceramic Gift, Work Husband\nHIGHLIGHT: Watercolor professional portrait with Work Husband definition; 4 x 3 in ceramic ornament\nMODEL NAME: Work Husband definition with professional coworker portrait\nBACKEND: work spouse male colleague office buddy teammate humor appreciation farewell retirement leaving gift holiday tree decoration present\nBULLET 1: COWORKER GIFT FOR YOUR WORK HUSBAND: A dependable-friend Work Husband definition and watercolor portrait make a funny, heartfelt present for a male coworker.\nBULLET 2: PERSONALIZED WITH A NAME: This design is personalized with one name, printed exactly as you provide it. Review spelling and capitalization before ordering.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: HOLIDAY KEEPSAKE: A sentimental Christmas present for the tree, year after year. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.\nDESCRIPTION: The Work Husband ornament pairs a portrait with definition-style wording that captures the bond you share. It is a heartfelt Christmas present for birthdays, holidays or a simple thank you. This design is personalized with one name, printed exactly as you provide it. Review spelling and capitalization before ordering. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging. It arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D06",
+    "gov": "Created 2026-10-07 to move the submitted SOR-26-050 Amazon test copy out of build scripts into Airtable. Title <=75 chars, no brand (AMZ-TITLE-GLOBAL-075); highlight <=125; no personalization on Amazon (AnywherePOD owns it). Status Testing pending operator review. Not rendered into Etsy/Shopify descriptions (no heading).",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recqNxuXvEYyejYQT"
+   },
+   {
+    "id": "LCL-SOR-26-050-PERFECT-D02",
+    "codes": "SOR-26-050",
+    "plain": "\u2764\ufe0f Perfect For\n\u2022 A Christmas gift for your soul sister\n\u2022 A heartfelt friendship keepsake\n\u2022 Celebrating a chosen-sister bond through the holidays",
+    "html": "<h3>\u2764\ufe0f Perfect For</h3><ul><li>A Christmas gift for your soul sister</li><li>A heartfelt friendship keepsake</li><li>Celebrating a chosen-sister bond through the holidays</li></ul>",
+    "icon": "\u2764\ufe0f",
+    "vars": "lead design D02",
+    "gov": "Created 2026-10-07 to move SOR-26-050 dry-run copy out of build scripts into Airtable. Status Testing pending operator review. ORN is structural precedent only; SOR facts from Product Registry SOR.",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Gift Messaging",
+    "req": true,
+    "_rec": "recqaHBfiev4vpOoW"
+   },
+   {
+    "id": "LCL-SOR-26-004-AMZ-D01",
+    "codes": "SOR-26-004",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D01\nTITLE: First Christmas New Home Ornament 2026, Watercolor House Ceramic Keepsake\nHIGHLIGHT: Watercolor house-and-key illustration on cream; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Watercolor new-home house and key illustration\nBACKEND: new home housewarming watercolor house key first house closing day moving gift new homeowner xmas tree decoration cottage\nBULLET 1: FIRST CHRISTMAS IN A NEW HOME KEEPSAKE: Celebrate a family's first holiday in their new house with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: WATERCOLOR NEW HOME DESIGN: A soft watercolor house-and-key illustration on cream with your family name, Our First Christmas in Our New Home and the year.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL HOUSEWARMING GIFT: A sentimental present for new homeowners, closing day or a first Christmas in a new house. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas in a new home ornament celebrates a family's first holiday season in their new house. A soft watercolor house-and-key illustration on cream with your family name, Our First Christmas in Our New Home and the year. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1\u20134 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D01",
+    "gov": "Created 2026-10-09, mirrored from LCL-SOR-26-003-AMZ-D01 for SOR-26-004 design 01 (Watercolor New Home). Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recqpW49q5BbeJqa4"
+   },
+   {
+    "id": "LCL-SOR-26-004-AMZ-PARENT",
+    "codes": "SOR-26-004",
+    "plain": "AMAZON LISTING CONTENT | COLLECTION PARENT\nTITLE: First Christmas New Home Ornament 2026, Ceramic Housewarming Keepsake\nHIGHLIGHT: New-homeowner Christmas keepsake in seven house designs; 4 x 3 in ceramic ornament with satin ribbon and gift box\nMODEL NAME: First Christmas New Home story ornament collection\nBACKEND: new home housewarming first house closing day moving gift new homeowner xmas tree decoration keepsake first holiday in new house cottage\nBULLET 1: FIRST CHRISTMAS IN A NEW HOME KEEPSAKE: Celebrate a family's first holiday in their new house with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: SEVEN NEW-HOME DESIGNS: Choose a watercolor new home, new key wreath, kraft-paper keepsake, house crest, home-for-the-holidays cottage, storybook house silhouette or ready-made cozy cottage design.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL HOUSEWARMING GIFT: A sentimental present for new homeowners, closing day or a first Christmas in a new house. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas in a new home ornament celebrates a family's first holiday season in their new house. Choose from seven new-home designs, from a watercolor new-home illustration and a vintage key wreath to a storybook house silhouette and a ready-made cozy cottage design. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1\u20134 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "gov": "Created 2026-10-09, mirrored from LCL-SOR-26-003-AMZ-PARENT for SOR-26-004. Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "recrarMCTek7xnAGO"
+   },
+   {
+    "id": "LCL-SOR-26-003-ORDER-ETSY",
+    "codes": "SOR-26-003",
+    "plain": "\ud83d\uded2 How to Order\n1. Choose your design.\n2. For designs A\u2013F, open Live Preview through the personalization box and create your ornament. The ready-made DESIGN G requires no personalization.\n3. Review your preview carefully for accuracy.\n4. Complete your order.",
+    "html": "<h3>\ud83d\uded2 How to Order</h3><p>1. Choose your design.</p><p>2. For designs A\u2013F, open Live Preview through the personalization box and create your ornament. The ready-made DESIGN G requires no personalization.</p><p>3. Review your preview carefully for accuracy.</p><p>4. Complete your order.</p>",
+    "icon": "\ud83d\uded2",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Etsy"
+    ],
+    "status": "Active",
+    "scope": "Niche Specific",
+    "type": "How To Order",
+    "req": true,
+    "_rec": "recsLXsMbsxjdU9wz"
+   },
+   {
+    "id": "LCL-SOR-26-050-AMZ-D05",
+    "codes": "SOR-26-050",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D05\nTITLE: Personalized Coworker Gift Ceramic Ornament, Christmas Keepsake, Work Wife\nHIGHLIGHT: Watercolor professional portrait with Work Wife definition; 4 x 3 in ceramic ornament\nMODEL NAME: Work Wife definition with coworker portrait\nBACKEND: work spouse female colleague best friend at work office humor appreciation goodbye farewell new job promotion present holiday tree\nBULLET 1: COWORKER GIFT FOR YOUR WORK WIFE: A witty Work Wife definition and watercolor portrait say thank you to the colleague who always has your back.\nBULLET 2: PERSONALIZED WITH A NAME: This design is personalized with one name, printed exactly as you provide it. Review spelling and capitalization before ordering.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: HOLIDAY KEEPSAKE: A sentimental Christmas present for the tree, year after year. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.\nDESCRIPTION: The Work Wife ornament pairs a portrait with definition-style wording that captures the bond you share. It is a heartfelt Christmas present for birthdays, holidays or a simple thank you. This design is personalized with one name, printed exactly as you provide it. Review spelling and capitalization before ordering. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging. It arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "vars": "design D05",
+    "gov": "Created 2026-10-07 to move the submitted SOR-26-050 Amazon test copy out of build scripts into Airtable. Title <=75 chars, no brand (AMZ-TITLE-GLOBAL-075); highlight <=125; no personalization on Amazon (AnywherePOD owns it). Status Testing pending operator review. Not rendered into Etsy/Shopify descriptions (no heading).",
+    "mk": [
+     "Amazon"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "Features",
+    "req": true,
+    "_rec": "rect82x2UADB5Y67M"
+   },
+   {
+    "id": "LCL-SOR-26-004-ABOUT-001",
+    "codes": "SOR-26-004",
+    "plain": "\ud83c\udf84 About Your Ornament\nCelebrate your first Christmas in a new home with a personalized 4 \u00d7 3 in ceramic story ornament made to hang on the tree year after year. It arrives in a white gloss gift box, ready to give.",
+    "html": "<h3>\ud83c\udf84 About Your Ornament</h3><p>Celebrate your first Christmas in a new home with a personalized 4 \u00d7 3 in ceramic story ornament made to hang on the tree year after year. It arrives in a white gloss gift box, ready to give.</p>",
+    "icon": "\ud83c\udf84",
+    "gov": "Created 2026-10-09, mirrored from LCL-SOR-26-003-ABOUT-001, substituting the New Home/Housewarming theme for SOR-26-004 (First Christmas in a New Home). Status Testing pending operator review.",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "About",
+    "req": true,
+    "_rec": "rectoC7BCmKNEvwpR"
+   },
+   {
+    "id": "LCL-SOR-26-004-ORDER-ETSY",
+    "codes": "SOR-26-004",
+    "plain": "\ud83d\uded2 How to Order\n1. Choose your design.\n2. For designs A\u2013F, open Live Preview through the personalization box and create your ornament. The ready-made DESIGN G requires no personalization.\n3. Review your preview carefully for accuracy.\n4. Complete your order.",
+    "html": "<h3>\ud83d\uded2 How to Order</h3><p>1. Choose your design.</p><p>2. For designs A\u2013F, open Live Preview through the personalization box and create your ornament. The ready-made DESIGN G requires no personalization.</p><p>3. Review your preview carefully for accuracy.</p><p>4. Complete your order.</p>",
+    "icon": "\ud83d\uded2",
+    "gov": "Created 2026-10-09, mirrored from LCL-SOR-26-003-ORDER-ETSY for SOR-26-004. Status Testing pending operator review.",
+    "mk": [
+     "Etsy"
+    ],
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "type": "How To Order",
+    "req": true,
+    "_rec": "recveP6x41eygBhQx"
+   },
+   {
+    "_rec": "rec9dYbDVzUO14toK",
+    "id": "LCL-GLOBAL-AI-DISCLOSURE-001",
+    "gov": "Global RGS buyer-facing AI disclosure authority. Required as the LAST description component when applicable. Etsy and Shopify descriptions only; Amazon excluded. Do not render in Amazon description, titles, bullets, backend keywords, or in titles/tags/SEO fields where prohibited. Existing product-specific disclosure records remain unchanged until separately superseded.",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "codes": "ALL",
+    "vars": "{ai_disclosure}; applicable marketplace disclosure rule; product/design AI Disclosure Required applicability",
+    "type": "AI Disclosure",
+    "req": true,
+    "status": "Active",
+    "scope": "Global",
+    "plain": "\ud83e\udd16 AI Disclosure\nSome artwork, design elements, or creative components were created with the assistance of AI tools. Personalization, layout review, and final production are performed by our team."
+   }
+  ],
+  "Pricing Registry": [
+   {
+    "Pricing ID": "PRICE-SOR-ETSY-BASE-2026",
+    "Target Price": 19.99,
+    "Launch Price": 14.98,
+    "Marketplace Name": [
+     "Etsy"
+    ],
+    "Pricing Status": "Approved",
+    "Production Partner": [
+     "PARTNER-ICP"
+    ],
+    "_id": "reck9AjSKGBaYmmNk"
+   },
+   {
+    "Pricing ID": "PRICE-SOR-ETSY-D07-2026",
+    "Target Price": 9.99,
+    "Launch Price": 9.99,
+    "Marketplace Name": [
+     "Etsy"
+    ],
+    "Pricing Status": "Approved",
+    "Production Partner": [
+     "PARTNER-ICP"
+    ],
+    "_id": "rec0R2lGR8DilWoZq"
+   },
+   {
+    "Pricing ID": "PRICE-SOR-SHOP-BASE-2026",
+    "Target Price": 19.99,
+    "Launch Price": 14.98,
+    "Marketplace Name": [
+     "Shopify"
+    ],
+    "Pricing Status": "Approved",
+    "Production Partner": [
+     "PARTNER-ICP"
+    ],
+    "_id": "reco6H3hZwQiPwxsn"
+   },
+   {
+    "Pricing ID": "PRICE-SOR-SHOP-D07-2026",
+    "Target Price": 9.99,
+    "Launch Price": 9.99,
+    "Marketplace Name": [
+     "Shopify"
+    ],
+    "Pricing Status": "Approved",
+    "Production Partner": [
+     "PARTNER-ICP"
+    ],
+    "_id": "rectFZXayH6cTp4vG"
+   },
+   {
+    "Pricing ID": "PRICE-SOR-AMZ-BASE-2026",
+    "Target Price": 14.98,
+    "Launch Price": 14.98,
+    "Marketplace Name": [
+     "Amazon"
+    ],
+    "Pricing Status": "Approved",
+    "Production Partner": [
+     "PARTNER-ICP"
+    ],
+    "_id": "recGN3qofUmbCqzGu"
+   },
+   {
+    "Pricing ID": "PRICE-SOR-AMZ-D07-2026",
+    "Target Price": 9.99,
+    "Launch Price": 9.99,
+    "Marketplace Name": [
+     "Amazon"
+    ],
+    "Pricing Status": "Approved",
+    "Production Partner": [
+     "PARTNER-ICP"
+    ],
+    "_id": "recvfrG36xE7INdV4"
+   }
+  ]
+ }
+}
