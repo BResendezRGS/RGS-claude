@@ -3,7 +3,7 @@
   "product_code": "SOR",
   "product_name": "Story Time Ornament",
   "listing_structure": "rotating_parents",
-  "listing_structure_note": "Rule 10 (operator 2026-10-07, reconfirmed 2026-10-09): six listings P01-P06 on Shopify and Etsy, each leading with design 01-06 and carrying DESIGN A-G (fixed mapping 01-07), all sharing the identical apod-1380000[1-7] SKU set. Amazon: 1 parent + 7 children (registry rows SOR-26-004 / -01..07). Built 2026-10-09 live via AnythingMCP Etsy Open API v3 connector and native Shopify connector (all 6 Etsy listings + all 6 Shopify products created, draft/DRAFT, images pending). Legacy conflicting single-parent Etsy draft listing_id 4592001682 (titled just \"SOR-26-004\") predates this rule and was left in place -- flagged for manual deletion by the operator; API cannot delete Etsy listings.",
+  "listing_structure_note": "Rule 10 (operator 2026-10-07, reconfirmed 2026-10-09): six listings P01-P06 on Shopify and Etsy, each leading with design 01-06 and carrying DESIGN A-G (fixed mapping 01-07), all sharing the identical apod-1380000[1-7] SKU set. Amazon: 1 parent + 7 children (registry rows SOR-26-004 / -01..07). Built 2026-10-09 live via AnythingMCP Etsy Open API v3 connector and native Shopify connector (all 6 Etsy listings + all 6 Shopify products created, draft/DRAFT, images pending). Legacy conflicting single-parent Etsy draft listing_id 4592001682 (titled just \"SOR-26-004\") predates this rule and was left in place -- flagged for manual deletion by the operator; API cannot delete Etsy listings. Images applied 2026-10-09 from the initial Shopify product's variant images: design N primary on P0N, other designs after in A-G order, DESIGN G last.",
   "parents": [
     "SOR-26-004-P01",
     "SOR-26-004-P02",
@@ -17,58 +17,70 @@
       "SOR-26-004-P01": {
         "gid": "gid://shopify/Product/10128436592887",
         "handle": "watercolor-new-home-first-christmas-ornament",
-        "status": "DRAFT"
+        "status": "DRAFT",
+        "images": "7 design images, lead design first, each variant linked to its design image (2026-10-09)"
       },
       "SOR-26-004-P02": {
         "gid": "gid://shopify/Product/10128439181559",
         "handle": "new-key-first-christmas-ornament",
-        "status": "DRAFT"
+        "status": "DRAFT",
+        "images": "7 design images, lead design first, each variant linked to its design image (2026-10-09)"
       },
       "SOR-26-004-P03": {
         "gid": "gid://shopify/Product/10128439967991",
         "handle": "vintage-key-first-christmas-ornament",
-        "status": "DRAFT"
+        "status": "DRAFT",
+        "images": "7 design images, lead design first, each variant linked to its design image (2026-10-09)"
       },
       "SOR-26-004-P04": {
         "gid": "gid://shopify/Product/10128440164599",
         "handle": "house-crest-first-christmas-ornament",
-        "status": "DRAFT"
+        "status": "DRAFT",
+        "images": "7 design images, lead design first, each variant linked to its design image (2026-10-09)"
       },
       "SOR-26-004-P05": {
         "gid": "gid://shopify/Product/10128440426743",
         "handle": "holiday-cottage-first-christmas-ornament",
-        "status": "DRAFT"
+        "status": "DRAFT",
+        "images": "7 design images, lead design first, each variant linked to its design image (2026-10-09)"
       },
       "SOR-26-004-P06": {
         "gid": "gid://shopify/Product/10128440557815",
         "handle": "storybook-house-first-christmas-ornament",
-        "status": "DRAFT"
+        "status": "DRAFT",
+        "images": "7 design images, lead design first, each variant linked to its design image (2026-10-09)"
       }
     },
     "etsy": {
       "SOR-26-004-P01": {
         "listing_id": 4592079414,
-        "state": "draft"
+        "state": "draft",
+        "images": "7 design images, lead design rank 1 (2026-10-09)"
       },
       "SOR-26-004-P02": {
         "listing_id": 4592066453,
-        "state": "draft"
+        "state": "draft",
+        "images": "7 design images, lead design rank 1 (2026-10-09)"
       },
       "SOR-26-004-P03": {
         "listing_id": 4592080290,
-        "state": "draft"
+        "state": "draft",
+        "images": "7 design images, lead design rank 1 (2026-10-09)"
       },
       "SOR-26-004-P04": {
         "listing_id": 4592067161,
-        "state": "draft"
+        "state": "draft",
+        "images": "7 design images, lead design rank 1 (2026-10-09)"
       },
       "SOR-26-004-P05": {
         "listing_id": 4592067545,
-        "state": "draft"
+        "state": "draft",
+        "images": "7 design images, lead design rank 1 (2026-10-09)"
       },
       "SOR-26-004-P06": {
         "listing_id": 4592067899,
-        "state": "draft"
+        "state": "draft",
+        "images": "7 design images, lead design rank 1 (2026-10-09)"
       }
     }
   },
@@ -285,5 +297,29 @@
   },
   "collection_name": "First Christmas in a New Home",
   "relationship_names_source": "Walked through with operator in this conversation 2026-10-09, matched against Design Registries visual-treatment notes (status Concept) SOR-26-004-01 rec1STgp3Zh7j6uJ0, -02 recHqoOBRqvbSRPAB, -03 reclRVXE7NdTlcptE, -04 rec6GkqHlNlaUGssp, -05 recaml1U1s9plceIe, -06 recxxHdXJxlw56uc7, -07 recm4FtRML97WiCxF. NOT yet written to the Design Registries Customer Model Name field -- do before promoting designs out of Concept status.",
-  "vendor_skus_source": "SKU Registries Design rows created 2026-10-09 from operator-supplied apod cost sheet: SOR-26-004-01 recrzSXHo4Da9ElGf (apod-13800001) .. SOR-26-004-07 recB4hg8gL6UB209s (apod-13800007)"
+  "vendor_skus_source": "SKU Registries Design rows created 2026-10-09 from operator-supplied apod cost sheet: SOR-26-004-01 recrzSXHo4Da9ElGf (apod-13800001) .. SOR-26-004-07 recB4hg8gL6UB209s (apod-13800007)",
+  "design_images": {
+    "01": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/991c1f35-ccd2-4380-8fb2-86936affa250.png?v=1790782615",
+    "02": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/328cc394-5f39-4de2-a6be-0fa98e56342b.png?v=1790782616",
+    "03": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/0f1570e0-f49c-417a-8ae6-50c289f4f79e.png?v=1790782615",
+    "04": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/853fccb6-1a18-4e2f-a77d-da285e94420b.png?v=1790782615",
+    "05": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/071a6eab-1eac-4148-8245-5a4a2e520ac2.png?v=1790782615",
+    "06": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/dfd92c1e-af51-43e0-898d-52b28ebcc93d.png?v=1790782615",
+    "07": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/62169f04-b2da-4be1-8573-bac5c3f5707b.png?v=1790782615"
+  },
+  "design_images_source": "Variant-linked media on initial Shopify product 10116283924727",
+  "initial_listing": {
+    "etsy": {
+      "listing_id": 4592001682,
+      "state": "draft",
+      "images": 1,
+      "note": "hero image = design A (same colour signature); not one of the six -- operator to delete or keep"
+    },
+    "shopify": {
+      "gid": "gid://shopify/Product/10116283924727",
+      "status": "ACTIVE",
+      "handle": "personalized-family-christmas-story-ornament-new-home",
+      "note": "live; not one of the six since the six were built separately -- operator decision"
+    }
+  }
 }
