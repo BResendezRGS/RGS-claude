@@ -1,8 +1,8 @@
 {
  "collection": "SOR-26-003",
- "pulled": "2026-10-08",
+ "pulled": "2026-10-08 (re-pulled 23:50 after writes)",
  "source_base": "app3KgtSsu3GbgPQQ",
- "pull_notes": "Filters: SKU Registries RGS SKU/Parent contains SOR-26-003 (48); Listing Build Staging Collection ID/Child SKU/Staging ID contains SOR-26-003 (18, AUTHORITY rows only, no child SKU/titles/tags/SEO); Image URL Console Product SKU/Console ID contains SOR-26-003 (0); Listing Content Library all rows (170); Pricing Registry Pricing ID contains SOR (6).",
+ "pull_notes": "Filters: SKU Registries RGS SKU/Parent contains SOR-26-003 (48); Listing Build Staging Collection ID/Child SKU/Staging ID contains SOR-26-003 (18, AUTHORITY rows only, no child SKU/titles/tags/SEO); Image URL Console Product SKU/Console ID contains SOR-26-003 (0); Listing Content Library all rows (170); Pricing Registry Pricing ID contains SOR (6). Re-pull: +8 SKU Registries rows (parent SOR-26-003, children -01..07), +2 staging rows (*-SP-001), Library 183 rows, D07 pricing linked to PARTNER-ICP.",
  "tables": {
   "Listing Build Staging": [
    {
@@ -238,6 +238,40 @@
     ],
     "Variant Option 1 Value": "DESIGN A-G",
     "Blocker Notes": "No publication/import authorized. Review workbook creation remains blocked until validation completes."
+   },
+   {
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-003",
+    "RGS Parent SKU": "SOR-26-003",
+    "RGS Child SKU": "SOR-26-003-01",
+    "Run ID": "SOR-26-003-SINGLE-PARENT-20261008",
+    "Variant Option 1 Name": "Design",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Etsy Title Draft": "Our First Christmas Married Ornament 2026, Personalized Newlywed Gift, Ceramic Wedding Keepsake with Gift Box, Just Married Ornament",
+    "Etsy Tags Draft": "married ornament, newlywed ornament, just married gift, mr and mrs ornament, wedding ornament, first xmas married, married christmas, newlywed gift, bridal shower gift, first christmas 2026, wedding keepsake, ceramic ornament, mr and mr ornament",
+    "_id": "recpuVoGnlfFhgJwp",
+    "Staging Record ID": "SOR-26-003-ETSY-SP-001",
+    "Marketplace": [
+     "Etsy"
+    ]
+   },
+   {
+    "Product Code": "SOR",
+    "Collection ID": "SOR-26-003",
+    "RGS Parent SKU": "SOR-26-003",
+    "RGS Child SKU": "SOR-26-003-01",
+    "Run ID": "SOR-26-003-SINGLE-PARENT-20261008",
+    "Variant Option 1 Name": "Design",
+    "Variant Option 1 Value": "DESIGN A-G",
+    "Etsy Title Draft": "Our First Christmas Married Ornament 2026, Personalized Newlywed Gift, Ceramic Wedding Keepsake with Gift Box, Just Married Ornament",
+    "Etsy Tags Draft": "married ornament, newlywed ornament, just married gift, mr and mrs ornament, wedding ornament, first xmas married, married christmas, newlywed gift, bridal shower gift, first christmas 2026, wedding keepsake, ceramic ornament, mr and mr ornament",
+    "_id": "recexZzCjtTqMn2oD",
+    "Staging Record ID": "SOR-26-003-SHOPIFY-SP-001",
+    "Marketplace": [
+     "Shopify"
+    ],
+    "Shopify SEO Title Draft": "First Christmas Married Ornament 2026 | Personalized Newlywed Gift",
+    "Shopify SEO Meta Description Draft": "Personalized ceramic first Christmas married ornament in seven wedding designs, made with Live Preview. Includes ivory satin ribbon and a white gift box."
    }
   ],
   "SKU Registries": [
@@ -894,6 +928,144 @@
     "Collection": [
      "SOR-26-003"
     ]
+   },
+   {
+    "_id": "recW88YvftSMWBAE0",
+    "RGS Parent SKU": "SOR-26-003",
+    "Shopify Handle": "first-christmas-married-ornament",
+    "SKU Status": "Active",
+    "Collection": [
+     "SOR-26-003"
+    ],
+    "RGS SKU": "SOR-26-003",
+    "Variant Type": "Parent Listing",
+    "Variant Value": "SOR-26-003"
+   },
+   {
+    "_id": "recyGTyOXJ1NMOh7X",
+    "RGS Parent SKU": "SOR-26-003",
+    "Shopify Handle": "first-christmas-married-ornament",
+    "SKU Status": "Active",
+    "Collection": [
+     "SOR-26-003"
+    ],
+    "RGS SKU": "SOR-26-003-01",
+    "Vendor SKU": "apod-13799930",
+    "Amazon Child SKU": "apod-13799930",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN A",
+    "Parent Design": [
+     "SOR-26-003-01"
+    ],
+    "Personalization Model": "PERS-SOR-02"
+   },
+   {
+    "_id": "rec32PkPRritetw1z",
+    "RGS Parent SKU": "SOR-26-003",
+    "Shopify Handle": "first-christmas-married-ornament",
+    "SKU Status": "Active",
+    "Collection": [
+     "SOR-26-003"
+    ],
+    "RGS SKU": "SOR-26-003-02",
+    "Vendor SKU": "apod-13799931",
+    "Amazon Child SKU": "apod-13799931",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN B",
+    "Parent Design": [
+     "SOR-26-003-02"
+    ],
+    "Personalization Model": "PERS-SOR-02"
+   },
+   {
+    "_id": "recNANggh6aqfvKTX",
+    "RGS Parent SKU": "SOR-26-003",
+    "Shopify Handle": "first-christmas-married-ornament",
+    "SKU Status": "Active",
+    "Collection": [
+     "SOR-26-003"
+    ],
+    "RGS SKU": "SOR-26-003-03",
+    "Vendor SKU": "apod-13799932",
+    "Amazon Child SKU": "apod-13799932",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN C",
+    "Parent Design": [
+     "SOR-26-003-03"
+    ],
+    "Personalization Model": "PERS-SOR-02"
+   },
+   {
+    "_id": "recpHatS2yCZMNVcM",
+    "RGS Parent SKU": "SOR-26-003",
+    "Shopify Handle": "first-christmas-married-ornament",
+    "SKU Status": "Active",
+    "Collection": [
+     "SOR-26-003"
+    ],
+    "RGS SKU": "SOR-26-003-04",
+    "Vendor SKU": "apod-13799933",
+    "Amazon Child SKU": "apod-13799933",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN D",
+    "Parent Design": [
+     "SOR-26-003-04"
+    ],
+    "Personalization Model": "PERS-SOR-02"
+   },
+   {
+    "_id": "recDyDvli0FYUY8mY",
+    "RGS Parent SKU": "SOR-26-003",
+    "Shopify Handle": "first-christmas-married-ornament",
+    "SKU Status": "Active",
+    "Collection": [
+     "SOR-26-003"
+    ],
+    "RGS SKU": "SOR-26-003-05",
+    "Vendor SKU": "apod-13799934",
+    "Amazon Child SKU": "apod-13799934",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN E",
+    "Parent Design": [
+     "SOR-26-003-05"
+    ],
+    "Personalization Model": "PERS-SOR-02"
+   },
+   {
+    "_id": "recJcRoVs8gWjIMNt",
+    "RGS Parent SKU": "SOR-26-003",
+    "Shopify Handle": "first-christmas-married-ornament",
+    "SKU Status": "Active",
+    "Collection": [
+     "SOR-26-003"
+    ],
+    "RGS SKU": "SOR-26-003-06",
+    "Vendor SKU": "apod-13799935",
+    "Amazon Child SKU": "apod-13799935",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN F",
+    "Parent Design": [
+     "SOR-26-003-06"
+    ],
+    "Personalization Model": "PERS-SOR-02"
+   },
+   {
+    "_id": "recYun0GSqOczWGlM",
+    "RGS Parent SKU": "SOR-26-003",
+    "Shopify Handle": "first-christmas-married-ornament",
+    "SKU Status": "Active",
+    "Collection": [
+     "SOR-26-003"
+    ],
+    "RGS SKU": "SOR-26-003-07",
+    "Vendor SKU": "apod-13799936",
+    "Amazon Child SKU": "apod-13799936",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN G",
+    "Parent Design": [
+     "SOR-26-003-07"
+    ],
+    "Personalization Model": "NONE - Non-personalized"
    }
   ],
   "Image URL Console": [],
@@ -1063,6 +1235,24 @@
     "fldpx2WoZWCNO7TWL": "🧼",
     "notes": "Approved by operator for ORN standalone listing production.",
     "order": 10
+   },
+   {
+    "_rec": "rec2VDauDIVdnHfdt",
+    "id": "LCL-SOR-26-003-AMZ-D01",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "codes": "SOR-26-003",
+    "vars": "design D01",
+    "type": "Features",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D01\nTITLE: First Christmas Married Ornament 2026, Church Wedding Ceramic Keepsake\nHIGHLIGHT: Watercolor couple portrait beside a watercolor church interior on cream; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Watercolor couple portrait with church wedding scene\nBACKEND: church ceremony chapel watercolor newlywed just married mr mrs bride groom wedding gift bridal shower xmas tree decoration husband wife\nBULLET 1: FIRST CHRISTMAS MARRIED KEEPSAKE: Celebrate a couple's first holiday as newlyweds with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: WATERCOLOR CHURCH WEDDING DESIGN: A watercolor couple portrait in a pine-and-gold wreath beside a watercolor church interior, with Our First Christmas Married.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL WEDDING GIFT: A sentimental present for newlyweds, bridal showers or a first married Christmas. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas married ornament celebrates a couple's first holiday season as newlyweds. A watercolor couple portrait in a pine-and-gold wreath beside a watercolor church interior, with Our First Christmas Married. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1–4 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "name": "SOR-26-003 Amazon listing content - design D01",
+    "ver": "v1.0",
+    "order": 21
    },
    {
     "_rec": "rec2iOio7zjbuXnb0",
@@ -1307,6 +1497,24 @@
     "order": 1
    },
    {
+    "_rec": "rec4vAPYasnT4bqeu",
+    "id": "LCL-SOR-26-003-AMZ-D06",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "codes": "SOR-26-003",
+    "vars": "design D06",
+    "type": "Features",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D06\nTITLE: Mr and Mr First Christmas Married Ornament 2026, Ceramic Keepsake\nHIGHLIGHT: Watercolor portrait of two grooms between golden bells, holly and pine on deep green; 4 x 3 in ceramic ornament\nMODEL NAME: Two grooms watercolor portrait with golden bells\nBACKEND: gay wedding lgbtq grooms husbands same sex couple newlywed just married wedding gift engagement xmas tree decoration bells holly pine\nBULLET 1: FIRST CHRISTMAS MARRIED KEEPSAKE: Celebrate a couple's first holiday as newlyweds with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: MR AND MR DESIGN: A watercolor portrait of two grooms in a gold frame between golden bells, holly and pine on deep green with Our First Christmas Married.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL WEDDING GIFT: A sentimental present for newlyweds, bridal showers or a first married Christmas. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas married ornament celebrates a couple's first holiday season as newlyweds. A watercolor portrait of two grooms in a gold frame between golden bells, holly and pine on deep green with Our First Christmas Married. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1–4 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "name": "SOR-26-003 Amazon listing content - design D06",
+    "ver": "v1.0",
+    "order": 26
+   },
+   {
     "_rec": "rec4yWyNoVS1hPI5J",
     "id": "LCL-MGW11-ETSY-GUARANTEE-001",
     "gov": "Governed for the MGW11-26-001 Etsy legacy test from linked Product Registry, pricing, artwork, and personalization authority.",
@@ -1535,6 +1743,24 @@
     "ver": "v1.0",
     "notes": "Wording carried from delivered SOR-26-050 dry run.",
     "order": 7
+   },
+   {
+    "_rec": "rec855JNCaQ9klaEh",
+    "id": "LCL-SOR-26-003-AMZ-D04",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "codes": "SOR-26-003",
+    "vars": "design D04",
+    "type": "Features",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D04\nTITLE: Mr and Mrs First Christmas Married Ornament 2026, Ceramic Keepsake\nHIGHLIGHT: Kissing-couple silhouette in a scalloped mistletoe wreath on cream; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Mistletoe wreath couple silhouette\nBACKEND: silhouette mistletoe wreath green newlywed just married bride groom wedding gift bridal shower xmas tree decoration husband wife couple\nBULLET 1: FIRST CHRISTMAS MARRIED KEEPSAKE: Celebrate a couple's first holiday as newlyweds with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: MISTLETOE SILHOUETTE DESIGN: A kissing-couple silhouette in a scalloped mistletoe wreath on cream with Our First Christmas Married.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL WEDDING GIFT: A sentimental present for newlyweds, bridal showers or a first married Christmas. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas married ornament celebrates a couple's first holiday season as newlyweds. A kissing-couple silhouette in a scalloped mistletoe wreath on cream with Our First Christmas Married. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1–4 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "name": "SOR-26-003 Amazon listing content - design D04",
+    "ver": "v1.0",
+    "order": 24
    },
    {
     "_rec": "rec8R008nZXAxXgkK",
@@ -1796,6 +2022,23 @@
     "fldpx2WoZWCNO7TWL": "🔗",
     "notes": "Body-only Live Preview content. The section heading must be rendered by Listing Assembly Rules using ICON-ETSY-LIVE-PREVIEW as: 🔗 Live Preview. Do not duplicate the heading. Current placeholder text after the instructions must render exactly as: [LINK COMING SOON]",
     "order": 2
+   },
+   {
+    "_rec": "recCBWGARWDP5uEUQ",
+    "id": "LCL-SOR-26-003-AMZ-PARENT",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "codes": "SOR-26-003",
+    "type": "Features",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "plain": "AMAZON LISTING CONTENT | COLLECTION PARENT\nTITLE: First Christmas Married Ornament 2026, Ceramic Newlywed Wedding Keepsake\nHIGHLIGHT: Newlywed Christmas keepsake in seven wedding designs; 4 x 3 in ceramic ornament with satin ribbon and gift box\nMODEL NAME: First Christmas Married story ornament collection\nBACKEND: newlywed just married mr mrs mr and mr bride groom wedding gift bridal shower couple husband wife xmas tree decoration keepsake first holiday together engagement anniversary\nBULLET 1: FIRST CHRISTMAS MARRIED KEEPSAKE: Celebrate a couple's first holiday as newlyweds with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: SEVEN WEDDING DESIGNS: Choose a watercolor church wedding, velvet bow and rings, vintage keepsake, mistletoe silhouette, winter rose portrait, Mr and Mr evergreen bells or ready-made wedding bells design.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL WEDDING GIFT: A sentimental present for newlyweds, bridal showers or a first married Christmas. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas married ornament celebrates a couple's first holiday season as newlyweds. Choose from seven wedding designs, from a watercolor church wedding and a mistletoe silhouette to a Mr and Mr evergreen bells portrait and a ready-made wedding bells design. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1–4 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "name": "SOR-26-003 Amazon listing content - collection parent",
+    "ver": "v1.0",
+    "order": 20
    },
    {
     "_rec": "recCI16gYrXMraS8s",
@@ -2211,6 +2454,24 @@
     "order": 1
    },
    {
+    "_rec": "recHkeaahncmGs59v",
+    "id": "LCL-SOR-26-003-AMZ-D07",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "codes": "SOR-26-003",
+    "vars": "design D07",
+    "type": "Features",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D07\nTITLE: First Christmas Married Ornament 2026, Wedding Bells Ceramic Keepsake\nHIGHLIGHT: Ready-made golden wedding bells with red velvet bow, pine and pinecones; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Ready-made golden wedding bells with red bow\nBACKEND: wedding bells gold red bow pinecone newlywed just married mr mrs couple wedding gift bridal shower xmas tree decoration husband wife\nBULLET 1: FIRST CHRISTMAS MARRIED KEEPSAKE: Celebrate a couple's first holiday as newlyweds with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: READY-MADE WEDDING BELLS DESIGN: Golden wedding bells with a red velvet bow, pine and pinecones, Our First Christmas Married and Two Hearts, One Home.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL WEDDING GIFT: A sentimental present for newlyweds, bridal showers or a first married Christmas. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas married ornament celebrates a couple's first holiday season as newlyweds. Golden wedding bells with a red velvet bow, pine and pinecones, Our First Christmas Married and Two Hearts, One Home. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1–4 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "name": "SOR-26-003 Amazon listing content - design D07",
+    "ver": "v1.0",
+    "order": 27
+   },
+   {
     "_rec": "recHw70D5e3YZSeyX",
     "id": "LCL-ORN-DESC-009",
     "gov": "Operator-approved ORN source-of-truth component on 2026-09-17. Standalone listing production must resolve this exact ORN component before using any generic/product-family fallback. Amazon assembly uses plain-text headings and omits icon dependency; Etsy Live Preview is Etsy-only; AI Disclosure is Etsy/Shopify only.",
@@ -2423,6 +2684,26 @@
     "order": 21
    },
    {
+    "_rec": "recN5GokuzBSpRWoz",
+    "id": "LCL-SOR-26-003-PERS-001",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "html": "<h3>🎨 Personalization</h3><p>Designs A–F are personalized with Live Preview. DESIGN G is ready-made and intentionally non-personalized.</p>",
+    "icon": "🎨",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "codes": "SOR-26-003",
+    "type": "Personalization",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "plain": "🎨 Personalization\nDesigns A–F are personalized with Live Preview. DESIGN G is ready-made and intentionally non-personalized.",
+    "name": "SOR-26-003 Personalization (Live Preview)",
+    "ver": "v1.0",
+    "order": 4
+   },
+   {
     "_rec": "recNCOVtKWg06DBVY",
     "id": "LCL-FC-AMZ-INTENT-001",
     "gov": "Required Amazon-specific component for bullets/description as applicable. No AI disclosure, Etsy Live Preview, generic incompatible occasion language, or production-partner term.",
@@ -2470,6 +2751,24 @@
     "ver": "v1.0",
     "notes": "Created during Architect-approved FC listing-governance remediation.",
     "order": 5
+   },
+   {
+    "_rec": "recNlqtNykhsHIxzn",
+    "id": "LCL-SOR-26-003-AMZ-D05",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "codes": "SOR-26-003",
+    "vars": "design D05",
+    "type": "Features",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D05\nTITLE: First Christmas Married Ornament 2026, Wedding Portrait Ceramic Keepsake\nHIGHLIGHT: Painterly couple portrait framed by blue and ivory roses with red berries; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Painterly couple portrait with winter roses\nBACKEND: portrait painting roses floral blue berries newlywed just married mr mrs bride groom wedding gift bridal shower xmas tree decoration\nBULLET 1: FIRST CHRISTMAS MARRIED KEEPSAKE: Celebrate a couple's first holiday as newlyweds with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: WINTER ROSE PORTRAIT DESIGN: A painterly couple portrait framed by blue and ivory roses, red berries and ribbon with Our First Christmas Married.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL WEDDING GIFT: A sentimental present for newlyweds, bridal showers or a first married Christmas. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas married ornament celebrates a couple's first holiday season as newlyweds. A painterly couple portrait framed by blue and ivory roses, red berries and ribbon with Our First Christmas Married. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1–4 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "name": "SOR-26-003 Amazon listing content - design D05",
+    "ver": "v1.0",
+    "order": 25
    },
    {
     "_rec": "recO3i97o9pc9FG6V",
@@ -2564,6 +2863,45 @@
     "ver": "v1.0",
     "fldpx2WoZWCNO7TWL": "🏡",
     "order": 13
+   },
+   {
+    "_rec": "recPOC1U5yPKYyHfe",
+    "id": "LCL-SOR-26-003-ABOUT-001",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "html": "<h3>🎄 About Your Ornament</h3><p>Celebrate your first Christmas as a married couple with a personalized 4 × 3 in ceramic story ornament made to hang on the tree year after year. It arrives in a white gloss gift box, ready to give.</p>",
+    "icon": "🎄",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "codes": "SOR-26-003",
+    "type": "About",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "plain": "🎄 About Your Ornament\nCelebrate your first Christmas as a married couple with a personalized 4 × 3 in ceramic story ornament made to hang on the tree year after year. It arrives in a white gloss gift box, ready to give.",
+    "name": "SOR-26-003 About Your Ornament",
+    "ver": "v1.0",
+    "order": 1
+   },
+   {
+    "_rec": "recQLocRkl1NATAOh",
+    "id": "LCL-SOR-26-003-ORDER-SHOP",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "html": "<h3>🛒 How to Order</h3><ol><li>Choose your design.</li><li>For designs A–F, open Live Preview on this page and create your ornament. The ready-made DESIGN G requires no personalization.</li><li>Review your preview carefully for accuracy.</li><li>Complete your order.</li></ol>",
+    "icon": "🛒",
+    "mk": [
+     "Shopify"
+    ],
+    "codes": "SOR-26-003",
+    "type": "How To Order",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "plain": "🛒 How to Order\nChoose your design.\nFor designs A–F, open Live Preview on this page and create your ornament. The ready-made DESIGN G requires no personalization.\nReview your preview carefully for accuracy.\nComplete your order.",
+    "name": "SOR-26-003 How to Order (Shopify)",
+    "ver": "v1.0",
+    "order": 5
    },
    {
     "_rec": "recQQIN84fjgFIAzf",
@@ -3341,6 +3679,26 @@
     "order": 8
    },
    {
+    "_rec": "recZPopRTYw3XKLzH",
+    "id": "LCL-SOR-26-003-PERFECT-001",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "html": "<h3>💝 Perfect For</h3><p>A first Christmas married keepsake for newlyweds, and a thoughtful wedding, bridal shower or first-holiday gift for the couple.</p><ul><li>DESIGN A – Watercolor Church Wedding: a watercolor couple portrait in a pine-and-gold wreath beside a watercolor church interior, with your family name, \"Our First Christmas Married\" and the year</li><li>DESIGN B – Velvet Bow &amp; Rings: a couple portrait in a scalloped gold medallion beside a red velvet bow and gold wedding rings on a bows-and-rings pattern</li><li>DESIGN C – Vintage Keepsake: a sepia couple portrait on vintage paper with a blush satin ribbon, a \"Together Always\" card and a burgundy bauble</li><li>DESIGN D – Mistletoe Silhouette: a kissing-couple silhouette in a scalloped mistletoe wreath on cream, with your names and the year</li><li>DESIGN E – Winter Rose Portrait: a painterly couple portrait framed by blue and ivory roses, red berries and ribbon</li><li>DESIGN F – Evergreen Bells Mr &amp; Mr: a watercolor portrait of two grooms in a gold frame between golden bells, holly and pine on deep green</li><li>DESIGN G – Wedding Bells: golden wedding bells with a red velvet bow, pine and pinecones, \"Our First Christmas Married\" and \"Two Hearts, One Home\"; no personalization needed</li></ul>",
+    "icon": "💝",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "codes": "SOR-26-003",
+    "type": "Gift Messaging",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "plain": "💝 Perfect For\nA first Christmas married keepsake for newlyweds, and a thoughtful wedding, bridal shower or first-holiday gift for the couple.\n• DESIGN A – Watercolor Church Wedding: a watercolor couple portrait in a pine-and-gold wreath beside a watercolor church interior, with your family name, \"Our First Christmas Married\" and the year\n• DESIGN B – Velvet Bow & Rings: a couple portrait in a scalloped gold medallion beside a red velvet bow and gold wedding rings on a bows-and-rings pattern\n• DESIGN C – Vintage Keepsake: a sepia couple portrait on vintage paper with a blush satin ribbon, a \"Together Always\" card and a burgundy bauble\n• DESIGN D – Mistletoe Silhouette: a kissing-couple silhouette in a scalloped mistletoe wreath on cream, with your names and the year\n• DESIGN E – Winter Rose Portrait: a painterly couple portrait framed by blue and ivory roses, red berries and ribbon\n• DESIGN F – Evergreen Bells Mr & Mr: a watercolor portrait of two grooms in a gold frame between golden bells, holly and pine on deep green\n• DESIGN G – Wedding Bells: golden wedding bells with a red velvet bow, pine and pinecones, \"Our First Christmas Married\" and \"Two Hearts, One Home\"; no personalization needed",
+    "name": "SOR-26-003 Perfect For",
+    "ver": "v1.0",
+    "order": 9
+   },
+   {
     "_rec": "recZxWihkavLIOlL0",
     "id": "LCL-FC-DESC-010",
     "gov": "Retired duplicate during FC listing-governance remediation. Authoritative active component uses the same Content Component ID. Do not assemble or export this record.",
@@ -3823,6 +4181,24 @@
     "order": 1
    },
    {
+    "_rec": "rechObAS5a6ce1gbH",
+    "id": "LCL-SOR-26-003-AMZ-D02",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "codes": "SOR-26-003",
+    "vars": "design D02",
+    "type": "Features",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D02\nTITLE: First Christmas Married Ornament 2026, Wedding Rings Ceramic Keepsake\nHIGHLIGHT: Couple portrait medallion beside a red velvet bow and gold wedding rings; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Velvet bow and wedding rings with portrait medallion\nBACKEND: rings red bow velvet medallion newlywed just married mr mrs bride groom wedding gift bridal shower xmas tree decoration husband wife\nBULLET 1: FIRST CHRISTMAS MARRIED KEEPSAKE: Celebrate a couple's first holiday as newlyweds with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: VELVET BOW AND RINGS DESIGN: A couple portrait in a scalloped gold medallion beside a red velvet bow and gold wedding rings on a festive pattern.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL WEDDING GIFT: A sentimental present for newlyweds, bridal showers or a first married Christmas. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas married ornament celebrates a couple's first holiday season as newlyweds. A couple portrait in a scalloped gold medallion beside a red velvet bow and gold wedding rings on a festive pattern. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1–4 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "name": "SOR-26-003 Amazon listing content - design D02",
+    "ver": "v1.0",
+    "order": 22
+   },
+   {
     "_rec": "rechR6SEcV7rvMzBG",
     "id": "LCL-FC-SHOP-GIFT-001",
     "gov": "Required Shopify-specific component. Assemble independently from Etsy. Production-partner terms are prohibited. ",
@@ -4153,6 +4529,24 @@
     "ver": "v1.0",
     "notes": "Wording carried from delivered SOR-26-050 dry run.",
     "order": 1
+   },
+   {
+    "_rec": "recndaz8q3WcFEOMO",
+    "id": "LCL-SOR-26-003-AMZ-D03",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "mk": [
+     "Amazon"
+    ],
+    "codes": "SOR-26-003",
+    "vars": "design D03",
+    "type": "Features",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "plain": "AMAZON LISTING CONTENT | DESIGN D03\nTITLE: First Christmas Married Ornament 2026, Vintage Wedding Ceramic Keepsake\nHIGHLIGHT: Sepia couple portrait on vintage paper with blush ribbon and burgundy bauble; 4 x 3 in ceramic Christmas ornament\nMODEL NAME: Vintage sepia couple portrait with blush ribbon\nBACKEND: vintage sepia antique blush ribbon newlywed just married mr mrs bride groom wedding gift bridal shower xmas tree decoration husband wife\nBULLET 1: FIRST CHRISTMAS MARRIED KEEPSAKE: Celebrate a couple's first holiday as newlyweds with a Christmas ornament made to hang on the tree year after year.\nBULLET 2: VINTAGE KEEPSAKE DESIGN: A sepia couple portrait on vintage paper with a blush satin ribbon, a Together Always card and a burgundy bauble.\nBULLET 3: CERAMIC, 4 X 3 INCHES: Horizontal rounded-rectangle ceramic ornament, 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing.\nBULLET 4: READY TO HANG AND GIVE: Pre-attached 1/4 inch ivory satin ribbon, packed in a white gloss gift box with a gold elastic ribbon and two padded inserts.\nBULLET 5: THOUGHTFUL WEDDING GIFT: A sentimental present for newlyweds, bridal showers or a first married Christmas. Gently wipe with a soft dry or slightly damp cloth.\nDESCRIPTION: This first Christmas married ornament celebrates a couple's first holiday season as newlyweds. A sepia couple portrait on vintage paper with a blush satin ribbon, a Together Always card and a burgundy bauble. It is a horizontal rounded-rectangle ceramic ornament measuring 4 x 3 inches and 4 mm thick, with a premium upgraded coating and edge-to-edge full-color printing. A 1/4 inch ivory satin ribbon is pre-attached for hanging, and it arrives in a white gloss gift box with a gold elastic ribbon and two padded inserts, ready to give. Production typically takes 1–4 business days before shipment. Gently wipe with a soft dry or slightly damp cloth and avoid abrasive cleaners.",
+    "name": "SOR-26-003 Amazon listing content - design D03",
+    "ver": "v1.0",
+    "order": 23
    },
    {
     "_rec": "recoAYmvBkWM56tay",
@@ -4488,6 +4882,25 @@
     "name": "Materials",
     "ver": "1.0",
     "order": 4
+   },
+   {
+    "_rec": "recsLXsMbsxjdU9wz",
+    "id": "LCL-SOR-26-003-ORDER-ETSY",
+    "gov": "Created 2026-10-08 from claude/SOR-26-003-copy-draft.md (operator-reviewed draft) for the single-parent run. Status Testing pending operator review.",
+    "html": "<h3>🛒 How to Order</h3><p>1. Choose your design.</p><p>2. For designs A–F, open Live Preview through the personalization box and create your ornament. The ready-made DESIGN G requires no personalization.</p><p>3. Review your preview carefully for accuracy.</p><p>4. Complete your order.</p>",
+    "icon": "🛒",
+    "mk": [
+     "Etsy"
+    ],
+    "codes": "SOR-26-003",
+    "type": "How To Order",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "plain": "🛒 How to Order\n1. Choose your design.\n2. For designs A–F, open Live Preview through the personalization box and create your ornament. The ready-made DESIGN G requires no personalization.\n3. Review your preview carefully for accuracy.\n4. Complete your order.",
+    "name": "SOR-26-003 How to Order (Etsy)",
+    "ver": "v1.0",
+    "order": 5
    },
    {
     "_rec": "recsUkgGgbcrRq8Wm",
@@ -4892,7 +5305,9 @@
     "Target Price": 9.99,
     "Launch Price": 9.99,
     "Pricing Status": "Approved",
-    "Production Partner": []
+    "Production Partner": [
+     "PARTNER-ICP"
+    ]
    },
    {
     "Pricing ID": "PRICE-SOR-SHOP-BASE-2026",
@@ -4912,7 +5327,9 @@
     "Target Price": 9.99,
     "Launch Price": 9.99,
     "Pricing Status": "Approved",
-    "Production Partner": []
+    "Production Partner": [
+     "PARTNER-ICP"
+    ]
    },
    {
     "Pricing ID": "PRICE-SOR-AMZ-BASE-2026",
@@ -4932,7 +5349,9 @@
     "Target Price": 9.99,
     "Launch Price": 9.99,
     "Pricing Status": "Approved",
-    "Production Partner": []
+    "Production Partner": [
+     "PARTNER-ICP"
+    ]
    }
   ]
  }
