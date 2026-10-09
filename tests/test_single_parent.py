@@ -1,4 +1,4 @@
-"""Single-parent rule test (rgs/rules.py, 2026-10-07).
+"""Single-parent opt-in test (rgs/rules.py). Single parent is no longer the default (2026-10-09); a config must state it.
 Builds a one-parent fixture from the SOR-26-050 snapshot, shaped like the ORN-26-051 registry
 (parent row RGS SKU == collection code, children <COLL>-01..07), then runs Etsy, Shopify and Amazon builders.
 Run: python3 tests/test_single_parent.py"""
@@ -14,6 +14,7 @@ cfg = json.load(open(os.path.join(HERE, "collections/%s.json" % COLL)))
 for k in ("listing_structure", "listing_structure_note", "parents", "production_partner", "ready_made_design"):
     cfg.pop(k, None)                                   # let rules.py supply the defaults
 cfg["shopify"].pop("production_partner", None)
+cfg["listing_structure"] = "single_parent"            # explicit opt-in; the default is rotating_parents
 
 T = copy.deepcopy(snap["tables"]); src = "-P01"
 def child(s): return s.replace(src, "") if isinstance(s, str) else s
@@ -29,7 +30,7 @@ fail = []
 def check(cond, msg):
     print(("PASS " if cond else "FAIL ") + msg); cond or fail.append(msg)
 
-check(cfg["listing_structure"] == "single_parent" and cfg["parents"] == [COLL], "defaults: single parent keyed to collection code")
+check(cfg["listing_structure"] == "single_parent" and cfg["parents"] == [COLL], "opt-in: single parent keyed to collection code")
 check(cfg["production_partner"] == "ICP" and cfg["shopify"]["production_partner"] == "InnerCircle Prints", "defaults: partner ICP -> InnerCircle Prints")
 check(cfg["ready_made_design"] == 7, "defaults: ready-made design 07")
 check(ok, "readiness gate passes: " + "; ".join(m for s, _, _, m in r.log if s == "BLOCKER"))

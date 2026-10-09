@@ -3,7 +3,8 @@
  "product_code": "SOR",
  "product_name": "Story Time Ornament",
  "listing_structure": "rotating_parents",
- "listing_structure_note": "Built 2026-09/10 with six rotating -P0N parents before the single-parent rule (rgs/rules.py, 2026-10-07); kept as-is.",
+ "listing_structure_note": "Built 2026-09/10 with six rotating -P0N parents and ROTATED letters (parent N's DESIGN A = design N); kept as-is via letter_mapping=rotated. New collections use fixed letters (rgs/rules.py, 2026-10-09).",
+ "letter_mapping": "rotated",
  "production_partner": "ICP",
  "parents": [
   "SOR-26-050-P01",

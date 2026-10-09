@@ -31,11 +31,9 @@ class Run:
                 if m in str(r.get("Marketplace")): self.st[m][r["RGS Child SKU"]] = r
         self.img = {(r["Platform"], r["Product SKU"]): [(r.get("Image %d" % i), r.get("Alt Text %d" % i)) for i in range(1, 18)] for r in T["Image URL Console"]}
         self.P = {}
-        letters = cfg["design_letters"]; n = cfg["design_count_rotating"]
         for p in cfg["parents"]:
-            i = 1 if self.single else int(p[-2:])
-            seq = [((i - 1 + k) % n) + 1 for k in range(n)] + [cfg["ready_made_design"]]
-            self.P[p] = dict(i=i, order=[(letters[k], dsg) for k, dsg in enumerate(seq)])
+            i = 1 if self.single else int(p[-2:])   # lead design for this parent
+            self.P[p] = dict(i=i, order=R.variant_order(cfg, i))
         self.ai_hold = []
         self.pricing = {r["Pricing ID"]: r for r in T.get("Pricing Registry", [])}
 
@@ -83,7 +81,7 @@ class Run:
         return ok
 
     def child(self, p, des):
-        """Child SKU used to key staging and Image URL Console rows: <COLL>-0N (single parent) or <COLL>-0N-P0M (legacy rotating)."""
+        """Child SKU used to key staging and Image URL Console rows: <COLL>-0N (single parent) or <COLL>-0N-P0M (rotating parents, the default)."""
         return "%s-%02d" % (self.cfg["collection"], des) if self.single else "%s-%02d-%s" % (self.cfg["collection"], des, p[-3:])
 
     def chk(self, m, rule, c, res, ev): self.checks.append((m, rule, c, res, ev))
