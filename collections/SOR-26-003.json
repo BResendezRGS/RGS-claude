@@ -121,6 +121,7 @@
    "BB": "Ceramic",
    "BG": 1,
    "BM": "Christmas",
+   "BN": "Wedding",
    "BS": "Rectangular",
    "CR": "1",
    "DF": "Christmas tree ornament",
@@ -149,6 +150,7 @@
    "BG": 1,
    "BI": "White",
    "BM": "Christmas",
+   "BN": "Wedding",
    "BS": "Rectangular",
    "BT": "Season",
    "CR": "1",
@@ -194,7 +196,7 @@
   },
   "main_images_source": "none: no SOR-26-003 image set exists in Image URL Console or Shopify Files; main image cells left blank (HOLD)",
   "design_name_strip": " (ready-made)",
-  "occasion_note": "BN (occasion 2) removed: SOR-26-050 value 'Friendship Day' does not fit a wedding collection and no Airtable record supplies one; open decision"
+  "occasion_note": "BN (occasion 2) = Wedding, operator decision 2026-10-08 (SOR-26-050 used Friendship Day)"
  },
  "pricing": {
   "Etsy": {
