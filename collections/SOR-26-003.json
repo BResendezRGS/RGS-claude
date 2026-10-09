@@ -2,6 +2,34 @@
  "collection": "SOR-26-003",
  "product_code": "SOR",
  "product_name": "Story Time Ornament",
+ "listing_structure": "rotating_parents",
+ "listing_structure_note": "Rule 10 (operator 2026-10-07, reconfirmed 2026-10-09): six listings P01-P06 on Shopify and Etsy, each leading with design 01-06 and carrying DESIGN A-G (fixed mapping 01-07). Amazon: 1 parent + 7 children (registry rows SOR-26-003 / -01..07). Built through the Shopify connector and AnythingMCP Etsy on 2026-10-09.",
+ "parents": [
+  "SOR-26-003-P01",
+  "SOR-26-003-P02",
+  "SOR-26-003-P03",
+  "SOR-26-003-P04",
+  "SOR-26-003-P05",
+  "SOR-26-003-P06"
+ ],
+ "channels": {
+  "shopify": {
+   "P01": 10116283629815,
+   "P02": 10127769600247,
+   "P03": 10127769829623,
+   "P04": 10127769862391,
+   "P05": 10127769927927,
+   "P06": 10127769960695
+  },
+  "etsy": {
+   "P01": 4591632506,
+   "P02": null,
+   "P03": null,
+   "P04": null,
+   "P05": null,
+   "P06": null
+  }
+ },
  "production_partner": "ICP",
  "design_count_rotating": 6,
  "ready_made_design": 7,
@@ -200,8 +228,8 @@
  },
  "pricing": {
   "Etsy": {
-   "rotating": "PRICE-SOR-ETSY-BASE-2026",
-   "ready_made": "PRICE-SOR-ETSY-D07-2026"
+   "rotating": "PRICE-SOR-26-003-ETSY-BASE",
+   "ready_made": "PRICE-SOR-26-003-ETSY-D07"
   },
   "Amazon": {
    "rotating": "PRICE-SOR-AMZ-BASE-2026",
