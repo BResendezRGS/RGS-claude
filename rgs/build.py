@@ -113,7 +113,7 @@ class Run:
                     d = e["dims"]; v["length"], v["width"], v["height"], v["dimensions_unit"], v["weight"], v["weight_unit"] = d["length"], d["width"], d["height"], d["unit"], d["weight"], d["weight_unit"]
                     v["who_made"] = e["who_made"]
                     for n, t in enumerate(info["tags"], 1): v["tag_%d" % n] = t
-                    for n, (u, a) in enumerate(self.img[("Etsy", self.child(p, info["i"]))], 1): v["image_%d" % n] = u; v["image_alt_text_%d" % n] = a
+                    for n, (u, a) in enumerate(self.img.get(("Etsy", self.child(p, info["i"])), []), 1): v["image_%d" % n] = u; v["image_alt_text_%d" % n] = a
                     v["action"] = e["action"]; v["listing_state"] = e["listing_state"]
                     v["overwrite_images"] = False; v["delete_all_images"] = False; v["delete_all_variations"] = False
                 for k, val in v.items():
@@ -134,7 +134,7 @@ class Run:
         row = 2; self.desc_shop = {}
         for p in cfg["parents"]:
             info = self.P[p]; self.desc_shop[p] = C.shop_html(info["Shopify_recs"])
-            imgs = self.img[("Shopify", self.child(p, info["i"]))]
+            imgs = self.img.get(("Shopify", self.child(p, info["i"])), [])
             for pos, (L, des) in enumerate(info["order"], 1):
                 s = self.sku[(p, des)]; vid = (s.get("Shopify Variant ID") or "").split("/")[-1]
                 def put(name, val): ps.cell(row, SH[name]).value = val
