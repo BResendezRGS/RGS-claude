@@ -3,6 +3,10 @@ import openpyxl
 from . import content as C
 from . import rules as R
 
+def split_tags(s):
+    """Etsy tag drafts are stored comma- or newline-separated."""
+    return [t.strip() for t in re.split(r"[,\n]", s or "") if t.strip()]
+
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 def g(r, k):
     v = r.get(k); return v[0] if isinstance(v, list) and v else v
@@ -24,12 +28,26 @@ class Run:
             m = re.match(re.escape(coll) + r"-(\d{2})(?:-|$)", str(r.get("RGS SKU")))
             if m:   # design rows only; the parent row (RGS SKU == collection code) carries no design number
                 self.sku[(r["RGS Parent SKU"], int(m.group(1)))] = r
+        # Shared-children registry (design-intake rule 3, 2026-10-10): one parent row keyed to the collection code with
+        # design children <COLL>-01..07, carried by every listing parent P01-P06. Map each parent to those children.
+        self.shared_children = False
+        for p in cfg["parents"]:
+            for (pp, n), r in list(self.sku.items()):
+                if pp == coll and p != coll and (p, n) not in self.sku:
+                    self.sku[(p, n)] = r; self.shared_children = True
+        if self.shared_children:
+            self.log.append(("INFO", "SKU Registries", coll, "shared children: parents %s use the collection's design rows %s-01..07" % (", ".join(cfg["parents"]), coll)))
         st = [r for r in T["Listing Build Staging"] if prod in str(r.get("Product Code")) and coll in str(r.get("RGS Child SKU", "")) ]
         self.st = {"Etsy": {}, "Shopify": {}}
         for r in st:
             for m in self.st:
                 if m in str(r.get("Marketplace")): self.st[m][r["RGS Child SKU"]] = r
-        self.img = {(r["Platform"], r["Product SKU"]): [(r.get("Image %d" % i), r.get("Alt Text %d" % i)) for i in range(1, 18)] for r in T["Image URL Console"]}
+        # Per-design staging rows LBS-<COLL>-0N (blueprint 1.5): row 0N supplies parent P0N's Etsy title/tags and Shopify SEO.
+        self.st_design = {}
+        for r in T["Listing Build Staging"]:
+            m = re.match(r"^LBS-" + re.escape(coll) + r"-(\d{2})$", str(r.get("Staging Record ID", "")))
+            if m: self.st_design[int(m.group(1))] = r
+        self.img = {(r["Platform"], r["Product SKU"]): [(r.get("Image %d" % i), r.get("Alt Text %d" % i)) for i in range(1, 18) if r.get("Image %d" % i)] for r in T["Image URL Console"]}
         self.P = {}
         for p in cfg["parents"]:
             i = 1 if self.single else int(p[-2:])   # lead design for this parent
@@ -46,6 +64,9 @@ class Run:
 
     def ptext(self, p, key, market="Etsy"):
         vals = {r.get(key) for r in self.st[market].values() if r["RGS Parent SKU"] == p}
+        if not vals and not self.single and self.P[p]["i"] in self.st_design:
+            r = self.st_design[self.P[p]["i"]]; vals = {r.get(key)} - {None, ""}
+            if vals: self.log.append(("INFO", "Staging", p, "%s/%s from %s" % (market, key, r.get("Staging Record ID"))))
         if len(vals) != 1: self.log.append(("BLOCKER", key, p, "%s staged values for %s/%s" % (len(vals), market, key))); return None
         return vals.pop()
 
@@ -54,26 +75,33 @@ class Run:
         for p in cfg["parents"]:
             i = self.P[p]["i"]; info = self.P[p]
             info["title"] = self.ptext(p, "Etsy Title Draft")
-            info["tags"] = [t.strip() for t in (self.ptext(p, "Etsy Tags Draft") or "").split(",") if t.strip()]
+            info["tags"] = split_tags(self.ptext(p, "Etsy Tags Draft"))
             info["seo"] = self.ptext(p, "Shopify SEO Title Draft", "Shopify")
             info["meta"] = self.ptext(p, "Shopify SEO Meta Description Draft", "Shopify")
-            info["shop_tags"] = [t.strip() for t in (self.ptext(p, "Etsy Tags Draft", "Shopify") or "").split(",") if t.strip()]
+            info["shop_tags"] = split_tags(self.ptext(p, "Etsy Tags Draft", "Shopify"))
             hs = {r.get("Shopify Handle") for (pp, d), r in self.sku.items() if pp == p} - {None}
             info["handle"] = hs.pop() if len(hs) == 1 else None
+            if (not info["handle"] or self.shared_children) and cfg.get("shopify", {}).get("handle_rule") == "title_opener" and info["title"]:
+                info["handle"] = re.sub(r"[^a-z0-9]+", "-", info["title"].split(":")[0].split(",")[0].lower()).strip("-")
+                self.log.append(("HOLD", "Shopify Handle", p, "handle '%s' derived from the title opener (no registry handle); confirm it is unused before upload" % info["handle"]))
             if not info["handle"]: self.log.append(("BLOCKER", "Shopify Handle", p, "no unique handle in SKU Registries"))
             for market, key in (("Etsy", "etsy"), ("Shopify", "shopify")):
                 recs, miss = self.res.build(cfg[key]["manifest"], market, i)
                 info[market + "_recs"] = recs
                 for t in miss: self.log.append(("BLOCKER", "Content Library", p, "no usable %s record for section '%s'" % (market, t)))
+                for t, r in recs:   # template text that was never filled in is not buyer-ready copy
+                    if r and re.search(r"\{[^{}]+\}|\[[A-Z][A-Z ]+[^\]]*\]|…one line", r.get("plain") or ""):
+                        self.log.append(("BLOCKER", "Content Library", p, "%s section '%s' (%s) still has template placeholders" % (market, t, r["id"])))
             for L, des in info["order"]:
                 s = self.sku.get((p, des))
                 if not s: self.log.append(("BLOCKER", "SKU Registries", p, "missing design %02d" % des)); continue
                 if not str(s.get("Vendor SKU", "")).startswith("apod-"): self.log.append(("BLOCKER", "Vendor SKU", p, "design %02d vendor SKU not resolved" % des))
             for mk in ("Etsy", "Shopify"):
                 k = (mk, self.child(p, i))
+                if k not in self.img and (mk, self.design_key(i)) in self.img: continue
                 if k not in self.img: self.log.append(("BLOCKER", "Image URL Console", p, "no %s image row for lead design" % mk))
             for des in {d for _, d in info["order"]}:
-                if (("Etsy", self.child(p, des)) not in self.img) and des == cfg["ready_made_design"]:
+                if not self.images("Etsy", p, des) and des == cfg["ready_made_design"]:
                     self.log.append(("HOLD", "Image URL Console", p, "ready-made design %02d has no image set; overwrite_images forced FALSE" % des))
         for mk in ("Etsy", "Shopify", "Amazon"):
             for des in (1, cfg["ready_made_design"]): self.price(mk, des)
@@ -83,6 +111,12 @@ class Run:
     def child(self, p, des):
         """Child SKU used to key staging and Image URL Console rows: <COLL>-0N (single parent) or <COLL>-0N-P0M (rotating parents, the default)."""
         return "%s-%02d" % (self.cfg["collection"], des) if self.single else "%s-%02d-%s" % (self.cfg["collection"], des, p[-3:])
+
+    def design_key(self, des): return "%s-%02d" % (self.cfg["collection"], des)
+
+    def images(self, mk, p, des):
+        """Image rows keyed to the parent-specific child SKU, else the design-level row <COLL>-0N shared by every parent."""
+        return self.img.get((mk, self.child(p, des))) or self.img.get((mk, self.design_key(des)), [])
 
     def chk(self, m, rule, c, res, ev): self.checks.append((m, rule, c, res, ev))
 
@@ -111,7 +145,7 @@ class Run:
                     d = e["dims"]; v["length"], v["width"], v["height"], v["dimensions_unit"], v["weight"], v["weight_unit"] = d["length"], d["width"], d["height"], d["unit"], d["weight"], d["weight_unit"]
                     v["who_made"] = e["who_made"]
                     for n, t in enumerate(info["tags"], 1): v["tag_%d" % n] = t
-                    for n, (u, a) in enumerate(self.img.get(("Etsy", self.child(p, info["i"])), []), 1): v["image_%d" % n] = u; v["image_alt_text_%d" % n] = a
+                    for n, (u, a) in enumerate(self.images("Etsy", p, info["i"]), 1): v["image_%d" % n] = u; v["image_alt_text_%d" % n] = a
                     v["action"] = e["action"]; v["listing_state"] = e["listing_state"]
                     v["overwrite_images"] = False; v["delete_all_images"] = False; v["delete_all_variations"] = False
                 for k, val in v.items():
@@ -132,7 +166,7 @@ class Run:
         row = 2; self.desc_shop = {}
         for p in cfg["parents"]:
             info = self.P[p]; self.desc_shop[p] = C.shop_html(info["Shopify_recs"])
-            imgs = self.img.get(("Shopify", self.child(p, info["i"])), [])
+            imgs = self.images("Shopify", p, info["i"])
             for pos, (L, des) in enumerate(info["order"], 1):
                 s = self.sku[(p, des)]; vid = (s.get("Shopify Variant ID") or "").split("/")[-1]
                 def put(name, val): ps.cell(row, SH[name]).value = val

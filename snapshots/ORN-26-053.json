@@ -1,0 +1,2985 @@
+{
+ "collection": "ORN-26-053",
+ "pulled": "2026-10-15",
+ "source_base": "app3KgtSsu3GbgPQQ",
+ "pull_notes": "Pulled 2026-10-15 for the ORN-26-053 7B run (first ORN collection). Staging: LBS-ORN-26-053-01..07 + -P (Etsy titles/tags written 2026-10-15 from STS-ORN-26-053; Shopify SEO title/meta written 2026-10-15). SKU Registries: shared-children shape (parent row ORN-26-053 + design rows -01..07). Image URL Console: 12 design-level rows created 2026-10-15 (ORN-26-053-01..06 x Etsy/Shopify, PAGE_1..16; alt text blank); design 07 has none. Library: all non-Retired/non-Draft records except SOR-* and ORN-26-00x collection records (124). Pricing: ICP ORN records; Etsy Launch Price set 2026-10-15 (29.98 / 15.98) on operator approval. Re-pulled 2026-10-15 after writing LCL-ORN-26-053-PERFECT-D01..D06 and LCL-ORN-26-053-PERS-INSTR-ETSY (Testing).",
+ "tables": {
+  "Listing Build Staging": [
+   {
+    "_id": "reccz1iFfPkLD8hbl",
+    "Staging Record ID": "LBS-ORN-26-053-01",
+    "Run ID": "RGS-DI-LINEMAN-20261010",
+    "Product Code": "ORN",
+    "Collection ID": "ORN-26-053",
+    "RGS Parent SKU": "ORN-26-053",
+    "RGS Child SKU": "ORN-26-053-01",
+    "Marketplace": [
+     "Etsy",
+     "Amazon"
+    ],
+    "Listing Review Status": "Ready for Review",
+    "Etsy Title Draft": "Personalized Lineman Ornament: Custom Funny Lineman Gift, Ceramic Christmas Keepsake Gift, Unique Stocking Stuffer Christmas 2026",
+    "Etsy Tags Draft": "lineman ornament\nlineman ornaments\nlineman christmas\nfunny lineman\nfunny lineman gifts\ncustom lineman gift\nchristmas gift ideas\nkeepsake gift\nchristmas 2026\ngifts for lineman\ncustom ornament\nunique ornament\nceramic ornament",
+    "Shopify SEO Title Draft": "Personalized Lineman Ornament | Custom Ceramic Christmas Lineman Gift",
+    "Shopify SEO Meta Description Draft": "Personalized lineman ornament with a lit-pole lineman silhouette. 3 in round ceramic Christmas keepsake with gift box, a funny lineman gift for the holidays."
+   },
+   {
+    "_id": "recrrrGHUvfBC3PJN",
+    "Staging Record ID": "LBS-ORN-26-053-02",
+    "Run ID": "RGS-DI-LINEMAN-20261010",
+    "Product Code": "ORN",
+    "Collection ID": "ORN-26-053",
+    "RGS Parent SKU": "ORN-26-053",
+    "RGS Child SKU": "ORN-26-053-02",
+    "Marketplace": [
+     "Etsy",
+     "Amazon"
+    ],
+    "Listing Review Status": "Ready for Review",
+    "Etsy Title Draft": "Personalized Lineman Tools Ornament: Custom Powerlineman Gift, Journeyman Lineman Christmas Present, Ceramic Keepsake Gift For Men",
+    "Etsy Tags Draft": "lineman ornament\npowerlineman gift\npowerlineman\npower lineman gift\npower lineman\njourneyman lineman\ngifts for lineman\nunique ornament\nchristmas present\nchristmas 2026\nceramic ornament\nfamily keepsake\nkeepsake gift",
+    "Shopify SEO Title Draft": "Personalized Lineman Tools Ornament | Custom Powerlineman Gift",
+    "Shopify SEO Meta Description Draft": "Personalized lineman tools ornament with hard hat, gaffs and hot stick wreath. 3 in round ceramic keepsake with gift box, a powerlineman Christmas present."
+   },
+   {
+    "_id": "recvPX8YMvcmdWuka",
+    "Staging Record ID": "LBS-ORN-26-053-03",
+    "Run ID": "RGS-DI-LINEMAN-20261010",
+    "Product Code": "ORN",
+    "Collection ID": "ORN-26-053",
+    "RGS Parent SKU": "ORN-26-053",
+    "RGS Child SKU": "ORN-26-053-03",
+    "Marketplace": [
+     "Etsy",
+     "Amazon"
+    ],
+    "Listing Review Status": "Ready for Review",
+    "Etsy Title Draft": "Personalized Lineman Dad Gift Ornament: Custom Gift For Lineman Dad, Family Christmas Present Keepsake, Family Stocking Stuffer Idea 2026",
+    "Etsy Tags Draft": "lineman ornament\nlineman dad gift\nlineman dad gifts\nlineman dad\ngift for lineman dad\ndad ornament\nkeepsake gift\nfamily ornament\nfamily keepsake\nchristmas dad gift\ncustom ornament\ngift for dad\ndad gift",
+    "Shopify SEO Title Draft": "Personalized Lineman Dad Ornament | Custom Christmas Gift for Dad",
+    "Shopify SEO Meta Description Draft": "Personalized lineman dad ornament with a dictionary-style definition. 3 in round ceramic Christmas keepsake with gift box, a family gift for a lineman dad."
+   },
+   {
+    "_id": "recR8eVlezVDCriP8",
+    "Staging Record ID": "LBS-ORN-26-053-04",
+    "Run ID": "RGS-DI-LINEMAN-20261010",
+    "Product Code": "ORN",
+    "Collection ID": "ORN-26-053",
+    "RGS Parent SKU": "ORN-26-053",
+    "RGS Child SKU": "ORN-26-053-04",
+    "Marketplace": [
+     "Etsy",
+     "Amazon"
+    ],
+    "Listing Review Status": "Ready for Review",
+    "Etsy Title Draft": "Personalized Lineman Storm Crew Ornament: Custom Union Lineman Gift, Apprentice Journeyman Christmas Present, Ceramic Family Keepsake Gift",
+    "Etsy Tags Draft": "lineman ornament\nlineman storm crew\nlineman storm\nunion lineman gift\napprentice lineman\njourneyman lineman\nstocking stuffer\nchristmas gift ideas\nlineman gifts\nunique ornament\nchristmas present\nfamily keepsake\nceramic ornament",
+    "Shopify SEO Title Draft": "Personalized Lineman Storm Crew Ornament | Union Lineman Gift",
+    "Shopify SEO Meta Description Draft": "Personalized lineman storm crew ornament with bucket truck and lit pole. 3 in round ceramic keepsake with gift box for union, apprentice and journeyman linemen."
+   },
+   {
+    "_id": "recTQ2l1iYUHlmr5U",
+    "Staging Record ID": "LBS-ORN-26-053-05",
+    "Run ID": "RGS-DI-LINEMAN-20261010",
+    "Product Code": "ORN",
+    "Collection ID": "ORN-26-053",
+    "RGS Parent SKU": "ORN-26-053",
+    "RGS Child SKU": "ORN-26-053-05",
+    "Marketplace": [
+     "Etsy",
+     "Amazon"
+    ],
+    "Listing Review Status": "Ready for Review",
+    "Etsy Title Draft": "Personalized Lineman Photo Ornament: Custom Picture Name Ornament, Powerlineman Keepsake Christmas Gift, Photo Gift Ideas For Linemen 2026",
+    "Etsy Tags Draft": "lineman ornament\nphoto ornament\npicture ornament\nname ornament\ncustom ornament\nlineman gift\njourneyman lineman\ncustom lineman gift\nfamily keepsake\nchristmas 2026\nlineman gifts\nkeepsake gift\ngifts for lineman",
+    "Shopify SEO Title Draft": "Personalized Lineman Photo Ornament | Custom Picture Keepsake Gift",
+    "Shopify SEO Meta Description Draft": "Personalized lineman photo ornament with hard-hat portrait art. 3 in round ceramic Christmas keepsake with gift box, a name and picture gift for linemen."
+   },
+   {
+    "_id": "rec2WbxTrACjmEVg3",
+    "Staging Record ID": "LBS-ORN-26-053-06",
+    "Run ID": "RGS-DI-LINEMAN-20261010",
+    "Product Code": "ORN",
+    "Collection ID": "ORN-26-053",
+    "RGS Parent SKU": "ORN-26-053",
+    "RGS Child SKU": "ORN-26-053-06",
+    "Marketplace": [
+     "Etsy",
+     "Amazon"
+    ],
+    "Listing Review Status": "Ready for Review",
+    "Etsy Title Draft": "Personalized Line Wife Ornament: Custom Lineman Wife Gift, Christmas Present Keepsake From Husband, Ceramic Linewife Keepsake Gift 2026",
+    "Etsy Tags Draft": "lineman ornament\nline wife ornament\nline wife gift\nline wife\nline wife christmas\nlinewife gift\nfamily ornament\nkeepsake gift\nwife gift\nchristmas present\nhusband gift\npower lineman wife\nlineman wife gift",
+    "Shopify SEO Title Draft": "Personalized Line Wife Ornament | Custom Lineman Wife Christmas Gift",
+    "Shopify SEO Meta Description Draft": "Personalized line wife ornament with a bucket truck outside a snowy home. 3 in round ceramic keepsake with gift box, a Christmas gift for a lineman wife."
+   },
+   {
+    "_id": "recOx11g8voKrBen8",
+    "Staging Record ID": "LBS-ORN-26-053-07",
+    "Product Code": "ORN",
+    "Collection ID": "ORN-26-053",
+    "RGS Parent SKU": "ORN-26-053",
+    "RGS Child SKU": "ORN-26-053-07",
+    "Marketplace": [
+     "Etsy",
+     "Amazon"
+    ],
+    "Listing Review Status": "Ready for Review",
+    "Run ID": "RGS-DI-LINEMAN-20261010"
+   },
+   {
+    "_id": "recePyvWC20w98kgA",
+    "Staging Record ID": "LBS-ORN-26-053-P",
+    "Product Code": "ORN",
+    "Collection ID": "ORN-26-053",
+    "RGS Parent SKU": "ORN-26-053",
+    "Marketplace": [
+     "Etsy",
+     "Shopify",
+     "Amazon"
+    ],
+    "Listing Review Status": "Ready for Review",
+    "Run ID": "RGS-DI-LINEMAN-20261010",
+    "Shopify SEO Title Draft": "Lineman Ornament | Personalized Round Ceramic Christmas Gift",
+    "Shopify SEO Meta Description Draft": "Personalized lineman ornament, a 3 inch round ceramic Christmas ornament with gift box. Seven designs for linemen, lineman dads and line wives."
+   }
+  ],
+  "SKU Registries": [
+   {
+    "_id": "reczvKE5YN9RrUELI",
+    "RGS SKU": "ORN-26-053",
+    "RGS Parent SKU": "ORN-26-053",
+    "Vendor SKU": "ORN-26-053",
+    "SKU Status": "Active"
+   },
+   {
+    "_id": "recwrEViHipsYavgl",
+    "RGS SKU": "ORN-26-053-01",
+    "RGS Parent SKU": "ORN-26-053",
+    "Vendor SKU": "apod-14502802",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN A",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "ORN-26-053-01"
+    ]
+   },
+   {
+    "_id": "rec829MIBl4Uaeh5e",
+    "RGS SKU": "ORN-26-053-02",
+    "RGS Parent SKU": "ORN-26-053",
+    "Vendor SKU": "apod-14502803",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN B",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "ORN-26-053-02"
+    ]
+   },
+   {
+    "_id": "rec6b1exBCnWB0Gcd",
+    "RGS SKU": "ORN-26-053-03",
+    "RGS Parent SKU": "ORN-26-053",
+    "Vendor SKU": "apod-14502804",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN C",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "ORN-26-053-03"
+    ]
+   },
+   {
+    "_id": "recALMu4rUPqtpSaW",
+    "RGS SKU": "ORN-26-053-04",
+    "RGS Parent SKU": "ORN-26-053",
+    "Vendor SKU": "apod-14502805",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN D",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "ORN-26-053-04"
+    ]
+   },
+   {
+    "_id": "recyNxDkjQhtvP6Jw",
+    "RGS SKU": "ORN-26-053-05",
+    "RGS Parent SKU": "ORN-26-053",
+    "Vendor SKU": "apod-14502806",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN E",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "ORN-26-053-05"
+    ]
+   },
+   {
+    "_id": "recBfJ8XVG3X8h4aP",
+    "RGS SKU": "ORN-26-053-06",
+    "RGS Parent SKU": "ORN-26-053",
+    "Vendor SKU": "apod-14502807",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN F",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "ORN-26-053-06"
+    ]
+   },
+   {
+    "_id": "recVaspw75zR8numS",
+    "RGS SKU": "ORN-26-053-07",
+    "RGS Parent SKU": "ORN-26-053",
+    "Vendor SKU": "apod-14502808",
+    "Variant Type": "Design",
+    "Variant Value": "DESIGN G",
+    "SKU Status": "Active",
+    "Parent Design": [
+     "ORN-26-053-07"
+    ],
+    "Personalization Model": "NONE_READY_MADE"
+   }
+  ],
+  "Image URL Console": [
+   {
+    "_id": "recGyVmvFl7bff4Nb",
+    "Platform": "Etsy",
+    "Product SKU": "ORN-26-053-01",
+    "Mapping Status": "Ready",
+    "Image Count": 16,
+    "Image 1": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_1.png",
+    "Image 2": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_2.png",
+    "Image 3": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_3.png",
+    "Image 4": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_4.png",
+    "Image 5": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_5.png",
+    "Image 6": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_6.png",
+    "Image 7": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_7.png",
+    "Image 8": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_8.png",
+    "Image 9": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_9.png",
+    "Image 10": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_10.png",
+    "Image 11": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_11.png",
+    "Image 12": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_12.png",
+    "Image 13": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_13.png",
+    "Image 14": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_14.png",
+    "Image 15": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_15.png",
+    "Image 16": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_16.png"
+   },
+   {
+    "_id": "recEfAD6Aw17IWoAG",
+    "Platform": "Shopify",
+    "Product SKU": "ORN-26-053-01",
+    "Mapping Status": "Ready",
+    "Image Count": 16,
+    "Image 1": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_1.png",
+    "Image 2": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_2.png",
+    "Image 3": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_3.png",
+    "Image 4": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_4.png",
+    "Image 5": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_5.png",
+    "Image 6": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_6.png",
+    "Image 7": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_7.png",
+    "Image 8": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_8.png",
+    "Image 9": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_9.png",
+    "Image 10": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_10.png",
+    "Image 11": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_11.png",
+    "Image 12": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_12.png",
+    "Image 13": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_13.png",
+    "Image 14": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_14.png",
+    "Image 15": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_15.png",
+    "Image 16": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-01-PAGE_16.png"
+   },
+   {
+    "_id": "rec7QQRu7Oj4hMsL0",
+    "Platform": "Etsy",
+    "Product SKU": "ORN-26-053-02",
+    "Mapping Status": "Ready",
+    "Image Count": 16,
+    "Image 1": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_1.png",
+    "Image 2": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_2.png",
+    "Image 3": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_3.png",
+    "Image 4": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_4.png",
+    "Image 5": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_5.png",
+    "Image 6": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_6.png",
+    "Image 7": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_7.png",
+    "Image 8": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_8.png",
+    "Image 9": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_9.png",
+    "Image 10": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_10.png",
+    "Image 11": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_11.png",
+    "Image 12": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_12.png",
+    "Image 13": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_13.png",
+    "Image 14": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_14.png",
+    "Image 15": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_15.png",
+    "Image 16": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_16.png"
+   },
+   {
+    "_id": "recfD5G9JfJqEfJ0j",
+    "Platform": "Shopify",
+    "Product SKU": "ORN-26-053-02",
+    "Mapping Status": "Ready",
+    "Image Count": 16,
+    "Image 1": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_1.png",
+    "Image 2": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_2.png",
+    "Image 3": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_3.png",
+    "Image 4": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_4.png",
+    "Image 5": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_5.png",
+    "Image 6": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_6.png",
+    "Image 7": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_7.png",
+    "Image 8": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_8.png",
+    "Image 9": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_9.png",
+    "Image 10": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_10.png",
+    "Image 11": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_11.png",
+    "Image 12": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_12.png",
+    "Image 13": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_13.png",
+    "Image 14": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_14.png",
+    "Image 15": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_15.png",
+    "Image 16": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-02-PAGE_16.png"
+   },
+   {
+    "_id": "rec3yHiDQs9wQdGQf",
+    "Platform": "Etsy",
+    "Product SKU": "ORN-26-053-03",
+    "Mapping Status": "Ready",
+    "Image Count": 16,
+    "Image 1": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_1.png",
+    "Image 2": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_2.png",
+    "Image 3": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_3.png",
+    "Image 4": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_4.png",
+    "Image 5": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_5.png",
+    "Image 6": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_6.png",
+    "Image 7": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_7.png",
+    "Image 8": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_8.png",
+    "Image 9": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_9.png",
+    "Image 10": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_10.png",
+    "Image 11": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_11.png",
+    "Image 12": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_12.png",
+    "Image 13": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_13.png",
+    "Image 14": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_14.png",
+    "Image 15": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_15.png",
+    "Image 16": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_16.png"
+   },
+   {
+    "_id": "recswo1reVVSBsYCV",
+    "Platform": "Shopify",
+    "Product SKU": "ORN-26-053-03",
+    "Mapping Status": "Ready",
+    "Image Count": 16,
+    "Image 1": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_1.png",
+    "Image 2": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_2.png",
+    "Image 3": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_3.png",
+    "Image 4": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_4.png",
+    "Image 5": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_5.png",
+    "Image 6": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_6.png",
+    "Image 7": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_7.png",
+    "Image 8": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_8.png",
+    "Image 9": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_9.png",
+    "Image 10": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_10.png",
+    "Image 11": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_11.png",
+    "Image 12": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_12.png",
+    "Image 13": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_13.png",
+    "Image 14": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_14.png",
+    "Image 15": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_15.png",
+    "Image 16": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-03-PAGE_16.png"
+   },
+   {
+    "_id": "recc0aXtYXcf8Rb0Q",
+    "Platform": "Etsy",
+    "Product SKU": "ORN-26-053-04",
+    "Mapping Status": "Ready",
+    "Image Count": 16,
+    "Image 1": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_1.png",
+    "Image 2": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_2.png",
+    "Image 3": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_3.png",
+    "Image 4": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_4.png",
+    "Image 5": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_5.png",
+    "Image 6": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_6.png",
+    "Image 7": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_7.png",
+    "Image 8": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_8.png",
+    "Image 9": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_9.png",
+    "Image 10": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_10.png",
+    "Image 11": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_11.png",
+    "Image 12": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_12.png",
+    "Image 13": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_13.png",
+    "Image 14": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_14.png",
+    "Image 15": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_15.png",
+    "Image 16": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_16.png"
+   },
+   {
+    "_id": "recbVNHEdBG5sqny2",
+    "Platform": "Shopify",
+    "Product SKU": "ORN-26-053-04",
+    "Mapping Status": "Ready",
+    "Image Count": 16,
+    "Image 1": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_1.png",
+    "Image 2": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_2.png",
+    "Image 3": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_3.png",
+    "Image 4": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_4.png",
+    "Image 5": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_5.png",
+    "Image 6": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_6.png",
+    "Image 7": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_7.png",
+    "Image 8": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_8.png",
+    "Image 9": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_9.png",
+    "Image 10": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_10.png",
+    "Image 11": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_11.png",
+    "Image 12": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_12.png",
+    "Image 13": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_13.png",
+    "Image 14": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_14.png",
+    "Image 15": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_15.png",
+    "Image 16": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-04-PAGE_16.png"
+   },
+   {
+    "_id": "rechBULTefRnX1wE3",
+    "Platform": "Etsy",
+    "Product SKU": "ORN-26-053-05",
+    "Mapping Status": "Ready",
+    "Image Count": 16,
+    "Image 1": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_1.png",
+    "Image 2": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_2.png",
+    "Image 3": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_3.png",
+    "Image 4": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_4.png",
+    "Image 5": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_5.png",
+    "Image 6": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_6.png",
+    "Image 7": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_7.png",
+    "Image 8": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_8.png",
+    "Image 9": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_9.png",
+    "Image 10": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_10.png",
+    "Image 11": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_11.png",
+    "Image 12": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_12.png",
+    "Image 13": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_13.png",
+    "Image 14": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_14.png",
+    "Image 15": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_15.png",
+    "Image 16": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_16.png"
+   },
+   {
+    "_id": "recilQVJY7Hn8r6VA",
+    "Platform": "Shopify",
+    "Product SKU": "ORN-26-053-05",
+    "Mapping Status": "Ready",
+    "Image Count": 16,
+    "Image 1": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_1.png",
+    "Image 2": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_2.png",
+    "Image 3": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_3.png",
+    "Image 4": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_4.png",
+    "Image 5": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_5.png",
+    "Image 6": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_6.png",
+    "Image 7": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_7.png",
+    "Image 8": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_8.png",
+    "Image 9": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_9.png",
+    "Image 10": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_10.png",
+    "Image 11": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_11.png",
+    "Image 12": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_12.png",
+    "Image 13": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_13.png",
+    "Image 14": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_14.png",
+    "Image 15": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_15.png",
+    "Image 16": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-05-PAGE_16.png"
+   },
+   {
+    "_id": "recaHudQiv58P3J1X",
+    "Platform": "Etsy",
+    "Product SKU": "ORN-26-053-06",
+    "Mapping Status": "Ready",
+    "Image Count": 16,
+    "Image 1": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_1.png",
+    "Image 2": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_2.png",
+    "Image 3": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_3.png",
+    "Image 4": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_4.png",
+    "Image 5": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_5.png",
+    "Image 6": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_6.png",
+    "Image 7": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_7.png",
+    "Image 8": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_8.png",
+    "Image 9": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_9.png",
+    "Image 10": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_10.png",
+    "Image 11": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_11.png",
+    "Image 12": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_12.png",
+    "Image 13": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_13.png",
+    "Image 14": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_14.png",
+    "Image 15": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_15.png",
+    "Image 16": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_16.png"
+   },
+   {
+    "_id": "rec98NFTGlkcb4LCX",
+    "Platform": "Shopify",
+    "Product SKU": "ORN-26-053-06",
+    "Mapping Status": "Ready",
+    "Image Count": 16,
+    "Image 1": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_1.png",
+    "Image 2": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_2.png",
+    "Image 3": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_3.png",
+    "Image 4": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_4.png",
+    "Image 5": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_5.png",
+    "Image 6": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_6.png",
+    "Image 7": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_7.png",
+    "Image 8": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_8.png",
+    "Image 9": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_9.png",
+    "Image 10": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_10.png",
+    "Image 11": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_11.png",
+    "Image 12": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_12.png",
+    "Image 13": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_13.png",
+    "Image 14": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_14.png",
+    "Image 15": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_15.png",
+    "Image 16": "https://cdn.shopify.com/s/files/1/0864/7432/6263/files/ORN-26-053-06-PAGE_16.png"
+   }
+  ],
+  "Listing Content Library": [
+   {
+    "_rec": "rec0RHP7qHRhRzXXZ",
+    "id": "LCL-PB-DESC-008",
+    "codes": "PB",
+    "plain": "🧼 Care Instructions\nGently wipe with a soft, dry cloth. Avoid soaking, excessive moisture, abrasive cleaners, direct sunlight, and extreme heat to help preserve the printed surface and adhesion.",
+    "html": "<h3>🧼 Care Instructions</h3><p>Gently wipe with a soft, dry cloth. Avoid soaking, excessive moisture, abrasive cleaners, direct sunlight, and extreme heat to help preserve the printed surface and adhesion.</p>",
+    "icon": "🧼",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Care Instructions",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.2"
+   },
+   {
+    "_rec": "rec0p5CDiLfS1Rcmu",
+    "id": "LCL-MGW11-ETSY-PERSONALIZATION-001",
+    "codes": "MGW11, MGW15, MGB11, MGB15, MGAB11, MGAB15",
+    "plain": "📝 Personalization\nEnter each requested detail exactly as you want it printed. Review spelling, capitalization, punctuation, names, locations, years, and dates carefully before ordering. All fields shown for the selected design are required. If an entry needs adjustment to fit the approved design, we will contact you before production.",
+    "html": null,
+    "icon": null,
+    "vars": null,
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Personalization Instructions",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "1.0"
+   },
+   {
+    "_rec": "rec17g2dwrhk0O7VA",
+    "id": "LCL-FC-AMZ-PRODUCTION-001",
+    "codes": "FC",
+    "plain": "Your personalized candle is prepared after your order is placed. Please allow 1–3 business days for production.",
+    "html": "Your personalized candle is prepared after your order is placed. Please allow 1–3 business days for production.",
+    "icon": null,
+    "vars": "internal production-time source",
+    "mk": [
+     "Amazon"
+    ],
+    "type": "Production Time",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "rec1zyVfjLqq2Z72M",
+    "id": "LCL-FC-SHOP-OVERVIEW-001",
+    "codes": "FC",
+    "plain": "🕯️ About Your Candle A personalized frosted glass candle with a soft keepsake look, prepared after your order is placed.",
+    "html": "<h3>🕯️ About Your Candle</h3><p>A personalized frosted glass candle with a soft keepsake look, prepared after your order is placed.</p>",
+    "icon": "🕯️",
+    "vars": "Product Registry product type and approved facts",
+    "mk": [
+     "Shopify"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "rec2CcCKhnVUJaPEt",
+    "id": "LCL-ORN-DESC-010",
+    "codes": "ORN",
+    "plain": "Care Instructions\nGently wipe with a soft, dry or slightly damp cloth. Avoid abrasive cleaners and scrubbing the printed surface.",
+    "html": "<h3>🧼 Care Instructions</h3><p>Gently wipe with a soft, dry or slightly damp cloth. Avoid abrasive cleaners and scrubbing the printed surface.</p>",
+    "icon": "🧼",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v2.0"
+   },
+   {
+    "_rec": "rec2iOio7zjbuXnb0",
+    "id": "LCL-EWK-DESC-080",
+    "codes": "EWK",
+    "plain": "Standard shipping delivery is typically 1–5 business days after production. Priority shipping delivery is typically 1–3 business days after production.",
+    "html": null,
+    "icon": "📦 Shipping",
+    "vars": "Design ID; Marketplace; Set Quantity; Personalization Model",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Shipping Notes",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "EWK V1.0"
+   },
+   {
+    "_rec": "rec2vIypVDLImk15K",
+    "id": "LCL-EWK-DESC-050",
+    "codes": "EWK",
+    "plain": "Choose the approved design and set quantity. For Designs 1–6, enter only the personalization fields shown for that design. Review spelling and dates carefully before submitting the order.",
+    "html": null,
+    "icon": "🛒 How to Order",
+    "vars": "Design ID; Marketplace; Set Quantity; Personalization Model",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Ordering",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "EWK V1.0"
+   },
+   {
+    "_rec": "rec3XZ1YdZp8CwAWS",
+    "id": "LCL-PB-DESC-002",
+    "codes": "PB",
+    "plain": "🎁 Perfect For\nDesigned as a meaningful personalized keepsake for the recipient, relationship, milestone, celebration, or remembrance reflected in this design.",
+    "html": "<h3>🎁 Perfect For</h3><p>Designed as a meaningful personalized keepsake for the recipient, relationship, milestone, celebration, or remembrance reflected in this design.</p>",
+    "icon": "🎁",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Gift Messaging",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.2"
+   },
+   {
+    "_rec": "rec3rzg1rpC0mqYjI",
+    "id": "LCL-CST-DESC-011",
+    "codes": "CST",
+    "plain": "💛 Love It Guarantee\nWe want you to love your order. If you are not happy with your coaster, please contact us and we’ll work together to make it right.",
+    "html": null,
+    "icon": "💛",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Love It Guarantee",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "rec3v4T3u4qcT8jcU",
+    "id": "LCL-FC-DESC-006",
+    "codes": "FC",
+    "plain": "📦 Product Details\nA personalized frosted glass candle designed for meaningful gifting, everyday comfort, and keepsake moments. Choose your scent, add the requested personalization, and we’ll create a made-to-order candle with a soft frosted finish and gift-ready feel.",
+    "html": "<h3>📦 Product Details</h3>\n<p>A personalized frosted glass candle designed for meaningful gifting, everyday comfort, and keepsake moments. Choose your scent, add the requested personalization, and we’ll create a made-to-order candle with a soft frosted finish and gift-ready feel.</p>",
+    "icon": "📦",
+    "vars": "product specs, product type, production status, personalization support",
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Product Specs",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "1"
+   },
+   {
+    "_rec": "rec40BzXoO5OXkY1l",
+    "id": "LCL-PB-SHOP-ORDER-001",
+    "codes": "PB",
+    "plain": "🛒 How to Order\n1. Choose the available options for your design.\n2. Enter the requested personalization exactly as it should appear.\n3. Upload your photo in the product form.\n4. Review your selections, then add the item to your cart.",
+    "html": "<h3>🛒 How to Order</h3><ol><li>Choose the available options for your design.</li><li>Enter the requested personalization exactly as it should appear.</li><li>Upload your photo in the product form.</li><li>Review your selections, then add the item to your cart.</li></ol>",
+    "icon": "🛒",
+    "vars": null,
+    "mk": [
+     "Shopify"
+    ],
+    "type": "How To Order",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.2"
+   },
+   {
+    "_rec": "rec4SQwfD8zhG33EZ",
+    "id": "LCL-FC-SHOP-PERSONALIZATION-001",
+    "codes": "FC",
+    "plain": "DO NOT RENDER IN PUBLIC SHOPIFY COPY. Apply FC-PS01 only through the governed Shopify personalization template process.",
+    "html": "<h3>✍️ Personalization</h3><p>[Use only the fields, requirements, limits, examples, placement, omission, and validation wording from the active template and layout.]</p>",
+    "icon": "✍️",
+    "vars": "Personalization Template and Layout IDs",
+    "mk": [
+     "Shopify"
+    ],
+    "type": "Personalization Instructions",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "rec4yWyNoVS1hPI5J",
+    "id": "LCL-MGW11-ETSY-GUARANTEE-001",
+    "codes": "MGW11, MGW15, MGB11, MGB15, MGAB11, MGAB15",
+    "plain": "💛 Love It Guarantee\nWe want you to love your order. If you are not happy with your mug, please contact us and we’ll work together to make it right.",
+    "html": null,
+    "icon": null,
+    "vars": null,
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Love It Guarantee",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "1.0"
+   },
+   {
+    "_rec": "rec5OfhmsGQW1iLoI",
+    "id": "LCL-MGW11-ETSY-AI-001",
+    "codes": "MGW11, MGW15, MGB11, MGB15, MGAB11, MGAB15",
+    "plain": "🤖 AI Disclosure\nSome artwork, design elements, or creative components were created with the assistance of AI tools. Personalization, layout review, and final production are performed by our team.",
+    "html": null,
+    "icon": null,
+    "vars": null,
+    "mk": [
+     "Etsy"
+    ],
+    "type": "AI Disclosure",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "1.0"
+   },
+   {
+    "_rec": "rec5ZhImLWqIdzjiO",
+    "id": "LCL-EWK-DESC-100",
+    "codes": "EWK",
+    "plain": "Some artwork, design elements, or creative components used in the creation of this product may have been developed with the assistance of artificial intelligence (AI) tools. Every design is reviewed, refined, and finalized by Resendez Gift Shop prior to production.",
+    "html": null,
+    "icon": "🤖 AI Disclosure",
+    "vars": "Design ID; Marketplace; Set Quantity; Personalization Model",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Disclosure",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "EWK V1.0"
+   },
+   {
+    "_rec": "rec61cm4IFZ4VSO1U",
+    "id": "LCL-FC-DESC-004",
+    "codes": "FC",
+    "plain": "📝 Personalization\n[Resolve this design’s approved Etsy Personalization Resolution. Render the linked PFC field labels and buyer instructions in field order. Do not show the internal PFC model ID or Etsy question IDs. Include only fields supported by the assigned model.]\n\nUse the description link to create your preview, then paste the code in the Live Preview Code field. If you do not use the preview, enter the requested name or recipient there. Complete any optional fields shown for this design.\n\nPlease review all names, spelling, capitalization, punctuation, and dates before purchase. Personalization is printed exactly as submitted. Message Resendez Gift Shop before ordering if you need different wording or an omitted field. Changes may not be possible after production begins.",
+    "html": "<h3>📝 Personalization</h3>\n<p>[Resolve this design’s approved Etsy Personalization Resolution. Render the linked PFC field labels and buyer instructions in field order. Do not show the internal PFC model ID or Etsy question IDs. Include only fields supported by the assigned model.]</p>\n<p>Use the description link to create your preview, then paste the code in the <strong>Live Preview Code</strong> field. If you do not use the preview, enter the requested name or recipient there. Complete any optional fields shown for this design.</p>\n<p>Please review all names, spelling, capitalization, punctuation, and dates before purchase. Personalization is printed exactly as submitted. Message Resendez Gift Shop before ordering if you need different wording or an omitted field. Changes may not be possible after production begins.</p>",
+    "icon": "📝",
+    "vars": "Approved Etsy Personalization Resolution; linked PFC template; linked PFC layout fields in canonical order; Live Preview link.",
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Personalization Instructions",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "2"
+   },
+   {
+    "_rec": "rec6gwXnGrKG2ADb6",
+    "id": "LCL-PB-DESC-010",
+    "codes": "PB",
+    "plain": "📦 Shipping\nShipping timing is shown during checkout. Production time and carrier transit time are separate.",
+    "html": "<h3>📦 Shipping</h3><p>Shipping timing is shown during checkout. Production time and carrier transit time are separate.</p>",
+    "icon": "📦",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Shipping Notes",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.2"
+   },
+   {
+    "_rec": "rec6hOtfeF290ZRbc",
+    "id": "LCL-DC-OPENING-001",
+    "codes": "DC",
+    "plain": "Design-specific customer-facing opening using approved design and keyword authority.",
+    "html": "Design-specific customer-facing opening using approved design and keyword authority.",
+    "icon": "Design-Specific Opening",
+    "vars": "Design ID; design name; approved keywords; personalization; verified source claims",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Opening",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "rec6unO4zwKCR1S39",
+    "id": "LCL-FC-AMZ-SCENTS-001",
+    "codes": "FC",
+    "plain": "Available scent choices: Grapefruit + Basil, Birch + Sage, Vanilla Sands, Oakmoss + Amber, Cactus Blossom, Teakwood + Bergamot, Sea Salt, and Unscented.",
+    "html": "Available scent choices: Grapefruit + Basil, Birch + Sage, Vanilla Sands, Oakmoss + Amber, Cactus Blossom, Teakwood + Bergamot, Sea Salt, and Unscented.",
+    "icon": null,
+    "vars": "FC variant sources",
+    "mk": [
+     "Amazon"
+    ],
+    "type": "Scent Details",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "rec7NzKbZkR5h0Mra",
+    "id": "LCL-EWK-DESC-070",
+    "codes": "EWK",
+    "plain": "Made to order in 1–4 business days. Processing time is separate from carrier delivery time.",
+    "html": null,
+    "icon": "🛠️ Production Time",
+    "vars": "Design ID; Marketplace; Set Quantity; Personalization Model",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Production Time",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "EWK V1.0"
+   },
+   {
+    "_rec": "rec8R008nZXAxXgkK",
+    "id": "LCL-DC-GUARANTEE-001",
+    "codes": "DC",
+    "plain": "Use the current governed RGS Love It Guarantee and the existing replacement, defect, and return policy wording without product-specific expansion.",
+    "html": "Use the current governed RGS Love It Guarantee and the existing replacement, defect, and return policy wording without product-specific expansion.",
+    "icon": "Love It Guarantee",
+    "vars": "Design ID; design name; approved keywords; personalization; verified source claims",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Guarantee",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "v1.1"
+   },
+   {
+    "_rec": "rec98JaXhSiMM1371",
+    "id": "LCL-FC-DESC-010",
+    "codes": "FC",
+    "plain": "🧼 Product Care Instructions\nTrim the wick to 1/4\" before each burn to promote a clean, even flame. During the first use, allow the wax to melt evenly across the entire surface to help prevent tunneling. Do not burn the candle for more than 4 hours at a time, and always place it on a heat-resistant surface away from drafts, children, and pets. Never leave a burning candle unattended. Once finished, allow the candle to cool completely before replacing the bamboo lid to help preserve fragrance. Discontinue use when approximately 1/2\" of wax remains.",
+    "html": "<h3>🧼 Product Care Instructions</h3>\n<p>[Use the governed FC product care and safety instructions from Product Registry intake. Include candle care, safe-use, trimming, placement, and handling instructions only where the text is documented.]</p>",
+    "icon": "🧼",
+    "vars": "Product Registry product care instructions, safety text, handling guidance",
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Care Instructions",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "1"
+   },
+   {
+    "_rec": "rec9Vftj7ECJoSqNW",
+    "id": "LCL-CST-SHOP-ORDER-001",
+    "codes": "CST",
+    "plain": "🛒 How to Order\nChoose the available Square option, enter the requested personalization exactly as it should appear, review your selections, and add the coaster to your cart.",
+    "html": null,
+    "icon": "🛒",
+    "vars": null,
+    "mk": [
+     "Shopify"
+    ],
+    "type": "How To Order",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "rec9dYbDVzUO14toK",
+    "id": "LCL-GLOBAL-AI-DISCLOSURE-001",
+    "codes": "ALL",
+    "plain": "🤖 AI Disclosure\nSome artwork, design elements, or creative components were created with the assistance of AI tools. Personalization, layout review, and final production are performed by our team.",
+    "html": null,
+    "icon": null,
+    "vars": "{ai_disclosure}; applicable marketplace disclosure rule; product/design AI Disclosure Required applicability",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "type": "AI Disclosure",
+    "req": true,
+    "status": "Active",
+    "scope": "Global",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recAA0UTW1Qo2ZV7F",
+    "id": "LCL-FC-DESC-003",
+    "codes": "FC",
+    "plain": "A thoughtful personalized candle for honoring meaningful people and moments, from remembrance and appreciation to milestones and celebrations.",
+    "html": "<h3>🎁 Perfect For</h3>\n<ul>\n<li>[Recipient / relationship]</li>\n<li>[Occasion]</li>\n<li>[Gift moment / buyer intent]</li>\n<li>[Optional related use case]</li>\n</ul>",
+    "icon": "🎁",
+    "vars": "recipient, relationship, occasion, gift moment, buyer intent",
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Gift Messaging",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "2"
+   },
+   {
+    "_rec": "recAYqcIvDCd6UWLq",
+    "id": "LCL-CST-DESC-009",
+    "codes": "CST",
+    "plain": "📦 Shipping\nStandard and priority shipping options may be available. Production time and carrier transit time are separate; current estimated delivery timing is shown during checkout.",
+    "html": null,
+    "icon": "📦",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Shipping Notes",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recAjZYot3rVaVZzX",
+    "id": "LCL-ORN-DESC-002-ETSY",
+    "codes": "ORN",
+    "plain": "📝 Personalization Instructions\nDesigns 01–06: Enter the name exactly as you want it printed on the ornament. Design 07 is ready-made and requires no personalization. Review spelling and capitalization before ordering.",
+    "html": "<h3>📝 Personalization Instructions</h3><p>Designs 01–06: Enter the name exactly as you want it printed on the ornament. Design 07 is ready-made and requires no personalization. Review spelling and capitalization before ordering.</p>",
+    "icon": "📝",
+    "vars": null,
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Personalization",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v3.0"
+   },
+   {
+    "_rec": "recAuVAbvmE8lWo1f",
+    "id": "LS-001",
+    "codes": "ALL",
+    "plain": "Use when the objective is broad keyword coverage across a product family, niche, recipient, and occasion. Prioritize primary search term, secondary keyword clusters, semantic variation, and marketplace-safe diversity. Avoid repeating the same opener, title structure, tag cluster, backend keyword cluster, or emotional framing across sibling designs.",
+    "html": null,
+    "icon": null,
+    "vars": "{primary_keyword}, {secondary_keywords}, {niche}, {recipient}, {occasion}, {product_type}, {personalization_fields}",
+    "mk": [
+     "Shopify",
+     "Etsy",
+     "Amazon",
+     "Google",
+     "Facebook",
+     "Pinterest"
+    ],
+    "type": "Listing Strategy",
+    "req": true,
+    "status": "Active",
+    "scope": "Global",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recBQ9F4gYHv4Y8AK",
+    "id": "LCL-FC-SHOP-AI-001",
+    "codes": "FC",
+    "plain": "🤖 AI Disclosure Some artwork, design elements, or creative components were created with the assistance of AI tools. All personalization, layout, and final production are performed by our team.",
+    "html": "<h3>🤖 AI Disclosure</h3><p>Some artwork, design elements, or creative components were created with the assistance of AI tools. All personalization, layout, and final production are performed by our team.</p>",
+    "icon": "🤖",
+    "vars": "Product Registries.AI Disclosure Required",
+    "mk": [
+     "Shopify"
+    ],
+    "type": "AI Disclosure",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recBVUrEaFhzClnEP",
+    "id": "LCL-FC-DESC-011",
+    "codes": "FC",
+    "plain": "Use the live preview link to review your personalized design before ordering. To open the preview, use the Live Preview Code field in the customization list, or use the first item in the customization field list when that is the preview code.\n\n[LINK COMING SOON]",
+    "html": "<p>Use the live preview link to review your personalized design before ordering. To open the preview, use the Live Preview Code field in the customization list, or use the first item in the customization field list when that is the preview code.</p><p>[LINK COMING SOON]</p>",
+    "icon": "🔗",
+    "vars": "Live Preview URL placeholder, Etsy draft listing URL field, personalization setup",
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Personalization Instructions",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "1"
+   },
+   {
+    "_rec": "recCJt9HhqR2XaxoW",
+    "id": "LCL-FC-DESC-007",
+    "codes": "FC",
+    "plain": "💛 Love It Guarantee\nWe want you to love your order. If you are not happy with your candle, please contact us and we’ll work together to make it right.",
+    "html": "<h3>💛 Love It Guarantee</h3>\n<p>We want you to love your order. If you are not happy with your candle, please contact us and we’ll work together to make it right.</p>",
+    "icon": "💛",
+    "vars": "guarantee text",
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Love It Guarantee",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "1"
+   },
+   {
+    "_rec": "recCvc1tFD8xYl5u6",
+    "id": "LCL-ORN-DESC-009-COLL",
+    "codes": "ORN",
+    "plain": "💝 Perfect For\nA Christmas keepsake for the {recipient 1}, {recipient 2} or {recipient group} in your life, from family and friends.\n• DESIGN {lead letter} – {lead design name}: {art description}\n• DESIGN {next letter} – {design name}: {art description}\n…one line per design A–F, lead design first, then the rest in letter order…\n• DESIGN G – {ready-made name}: {art description}; no personalization needed",
+    "html": null,
+    "icon": null,
+    "vars": null,
+    "mk": [
+     "Shopify",
+     "Etsy"
+    ],
+    "type": "Gift Messaging",
+    "req": false,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": null
+   },
+   {
+    "_rec": "recDYayS2SZlr88MG",
+    "id": "LCL-DC-NOTES-001",
+    "codes": "DC",
+    "plain": "Colors may vary slightly between screens and the finished product. Engraving appearance and scale vary by buckle size and the amount of text; smaller buckles and longer text produce smaller engraving. Do not claim waterproof, chew-proof, indestructible, service-animal certification, guaranteed safety, or absolute fade-proof performance.",
+    "html": "Colors may vary slightly between screens and the finished product. Engraving appearance and scale vary by buckle size and the amount of text; smaller buckles and longer text produce smaller engraving. Do not claim waterproof, chew-proof, indestructible, service-animal certification, guaranteed safety, or absolute fade-proof performance.",
+    "icon": "Important Product Notes",
+    "vars": "Design ID; design name; approved keywords; personalization; verified source claims",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Important Notes",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "v1.1"
+   },
+   {
+    "_rec": "recDYgTptWQP8XAKn",
+    "id": "LCL-CST-DESC-012",
+    "codes": "CST",
+    "plain": "🤖 AI Disclosure\nSome design elements may be created with AI-assisted tools and are reviewed, refined, and prepared by Resendez Gift Shop.",
+    "html": null,
+    "icon": "🤖",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "type": "AI Disclosure",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recDfuPBFjfuNm2OS",
+    "id": "LCL-ORN-DESC-006",
+    "codes": "ORN",
+    "plain": "🔷 Shape\nRound 3 in ornament.",
+    "html": "<h3>🔷 Shape</h3><p>Round 3 in ornament.</p>",
+    "icon": "🔷",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v3.0"
+   },
+   {
+    "_rec": "recE8i2oIdSYMPdDC",
+    "id": "LCL-PB-ETSY-ORDER-001",
+    "codes": "PB",
+    "plain": "🛒 How to Order\n1. Choose the available options for your design.\n2. Enter the requested personalization exactly as it should appear.\n3. Upload your photo using the listing’s upload option.\n4. Review the Live Preview when available, then add the item to your cart.",
+    "html": "<h3>🛒 How to Order</h3><ol><li>Choose the available options for your design.</li><li>Enter the requested personalization exactly as it should appear.</li><li>Upload your photo using the listing’s upload option.</li><li>Review the Live Preview when available, then add the item to your cart.</li></ol>",
+    "icon": "🛒",
+    "vars": null,
+    "mk": [
+     "Etsy"
+    ],
+    "type": "How To Order",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.2"
+   },
+   {
+    "_rec": "recE9996Gt66tCsYZ",
+    "id": "LCL-PB-AMZ-ORDER-001",
+    "codes": "PB",
+    "plain": "How to Order\nChoose the available options, complete the Amazon Custom fields exactly as the personalization should appear, upload the requested photo, and review all entries before adding the item to your cart.",
+    "html": "<p><strong>How to Order</strong></p><p>Choose the available options, complete the Amazon Custom fields exactly as the personalization should appear, upload the requested photo, and review all entries before adding the item to your cart.</p>",
+    "icon": null,
+    "vars": null,
+    "mk": [
+     "Amazon"
+    ],
+    "type": "How To Order",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.2"
+   },
+   {
+    "_rec": "recEV2ECzodSMgRnW",
+    "id": "LCL-FC-DESC-009",
+    "codes": "FC",
+    "plain": "📏 Product Specs\n- Size: 8oz vessel, 7oz pour\n- Wax type: Coconut soy wax blend\n- Vessel: Frosted glass\n- Lid: Bamboo lid\n- Wick: Cotton wick\n- Burn time: Approx. 39 hours\n- Phthalate, paraben, sulfate, and synthetic dye free\n- Vegan friendly",
+    "html": "<h3>📏 Product Specs</h3>\n<ul>\n<li>Size: 8oz vessel, 7oz pour</li>\n<li>Wax type: Coconut soy wax blend</li>\n<li>Vessel: Frosted glass</li>\n<li>Lid: Bamboo lid</li>\n<li>Wick: Cotton wick</li>\n<li>Burn time: Approx. 39 hours</li>\n<li>Phthalate, paraben, sulfate, and synthetic dye free</li>\n<li>Vegan friendly</li>\n</ul>",
+    "icon": "📏",
+    "vars": "Product Registry product specs, SKU registry package fields, pricing/partner specs",
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Product Specs",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "1"
+   },
+   {
+    "_rec": "recEfQz0hIJIUROzG",
+    "id": "LCL-EWK-DESC-060",
+    "codes": "EWK",
+    "plain": "Dishwasher safe. Hand washing with mild soap and warm water is recommended for best care. Avoid abrasive scrubbers and harsh chemicals; dry carefully with a soft cloth.",
+    "html": null,
+    "icon": "🧼 Care Instructions",
+    "vars": "Design ID; Marketplace; Set Quantity; Personalization Model",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Care Instructions",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "EWK V1.0"
+   },
+   {
+    "_rec": "recEuOU2NqPUMR9K9",
+    "id": "LS-003",
+    "codes": "ALL",
+    "plain": "Use when the custom or personalized nature of the product is the lead conversion driver. Listing copy should highlight editable names, dates, photos, phrases, colors, backgrounds, roles, or other personalization fields in a clear marketplace-compliant way.",
+    "html": null,
+    "icon": null,
+    "vars": "{personalization_fields}, {custom_value}, {recipient}, {product_type}, {occasion}",
+    "mk": [
+     "Shopify",
+     "Etsy",
+     "Amazon",
+     "Google",
+     "Facebook",
+     "Pinterest"
+    ],
+    "type": "Listing Strategy",
+    "req": false,
+    "status": "Active",
+    "scope": "Global",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recH71v5PPKZXPBIZ",
+    "id": "LCL-FC-SHOP-OPENING-001",
+    "codes": "FC",
+    "plain": "✨ [Write a design-specific opening using the assigned recipient, occasion, buyer intent, and emotional framing. Do not copy the Etsy opening.]",
+    "html": "<p>✨ [Write a design-specific opening using the assigned recipient, occasion, buyer intent, and emotional framing. Do not copy the Etsy opening.]</p>",
+    "icon": "✨",
+    "vars": "DSO recipient, occasion, buyer intent, emotional framing",
+    "mk": [
+     "Shopify"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recHFUA4gdRjkRCAs",
+    "id": "LCL-PB-DESC-007",
+    "codes": "PB",
+    "plain": "📐 Materials and Specifications\n• Size: 7.4 x 6.15 inches\n• Material: MDF (Medium-Density Fiberboard)\n• Orientation: Horizontal or vertical display\n• Includes: Display stand and free gift box",
+    "html": "<h3>📐 Materials and Specifications</h3><ul><li>Size: 7.4 x 6.15 inches</li><li>Material: MDF (Medium-Density Fiberboard)</li><li>Orientation: Horizontal or vertical display</li><li>Includes: Display stand and free gift box</li></ul>",
+    "icon": "📐",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Product Specs",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.2"
+   },
+   {
+    "_rec": "recHw70D5e3YZSeyX",
+    "id": "LCL-ORN-DESC-009",
+    "codes": "ORN",
+    "plain": "Perfect For\nA thoughtful Christmas keepsake for celebrating family, milestones, traditions and the special recipient or occasion represented by the selected design.",
+    "html": "<h3>❤️ Perfect For</h3><p>A thoughtful Christmas keepsake for celebrating family, milestones, traditions and the special recipient or occasion represented by the selected design.</p>",
+    "icon": "❤️",
+    "vars": null,
+    "mk": [
+     "Amazon"
+    ],
+    "type": "Gift Messaging",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recI8mH6llBclYNWe",
+    "id": "LCL-PB-DESC-012",
+    "codes": "PB",
+    "plain": "🤖 AI Disclosure\nSome design elements may be created with AI-assisted tools and are reviewed, refined, and prepared by Resendez Gift Shop.",
+    "html": "<h3>🤖 AI Disclosure</h3><p>Some design elements may be created with AI-assisted tools and are reviewed, refined, and prepared by Resendez Gift Shop.</p>",
+    "icon": "🤖",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "type": "AI Disclosure",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.2"
+   },
+   {
+    "_rec": "recI9dNVrgloWDqIi",
+    "id": "LCL-DC-NEW-PARTNER-001",
+    "codes": "DC",
+    "plain": "We’re excited to introduce our new U.S. production partner for this personalized dog collar collection. Each collar is handmade to order in Waterville, Ohio, carefully inspected before shipping, and produced within 1–3 business days. This partnership brings a more dependable fulfillment process, consistent product quality, and the attentive service you expect from Resendez Gift Shop.",
+    "html": "<p><strong>✨ NEW PRODUCTION PARTNER</strong></p><p>We’re excited to introduce our new U.S. production partner for this personalized dog collar collection. Each collar is handmade to order in Waterville, Ohio, carefully inspected before shipping, and produced within 1–3 business days. This partnership brings a more dependable fulfillment process, consistent product quality, and the attentive service you expect from Resendez Gift Shop.</p>",
+    "icon": "New Production Partner",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": null,
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recIer2JB4e3aeyop",
+    "id": "LCL-ORN-DESC-007",
+    "codes": "ORN",
+    "plain": "📐 Materials & Specifications\n• Material: Ceramic\n• Shape: Round\n• Diameter: 3 in / 72.67 mm\n• Thickness: 3 mm\n• Finish: glazed premium coating\n• Print: single-sided sublimation\n• Hanging accessories: ivory satin ribbon and gold cord\n• Packaging: white gift box with two padded protective inserts",
+    "html": "<h3>📐 Materials &amp; Specifications</h3><p>• Material: Ceramic<br>• Shape: Round<br>• Diameter: 3 in / 72.67 mm<br>• Thickness: 3 mm<br>• Finish: glazed premium coating<br>• Print: single-sided sublimation<br>• Hanging accessories: ivory satin ribbon and gold cord<br>• Packaging: white gift box with two padded protective inserts</p>",
+    "icon": "📐",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Product Specs",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v3.0"
+   },
+   {
+    "_rec": "recJuvkHmWhwGnUvE",
+    "id": "LCL-EWK-DESC-030",
+    "codes": "EWK",
+    "plain": "Enter applicable personalization exactly as it should be engraved. Limits: initials 2 characters; name 10 characters; phrase 15 characters; date 12 characters.",
+    "html": null,
+    "icon": "✍️ Personalization",
+    "vars": "Design ID; Marketplace; Set Quantity; Personalization Model",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Personalization Instructions",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "EWK V1.0"
+   },
+   {
+    "_rec": "recLicLdZrJ3tmAhI",
+    "id": "LCL-PB-DESC-003",
+    "codes": "PB",
+    "plain": "✨ Key Features\n• Personalized with your photo and the text fields shown for the design\n• Supports horizontal or vertical display\n• Includes a display stand and free gift box\n• Printed on MDF with a smooth display surface",
+    "html": "<h3>✨ Key Features</h3><ul><li>Personalized with your photo and the text fields shown for the design</li><li>Supports horizontal or vertical display</li><li>Includes a display stand and free gift box</li><li>Printed on MDF with a smooth display surface</li></ul>",
+    "icon": "✨",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.2"
+   },
+   {
+    "_rec": "recMHnTFnCUWarlKJ",
+    "id": "LCL-CST-DESC-006",
+    "codes": "CST",
+    "plain": "📐 Materials and Specifications\n• Sell format: One coaster\n• Shape: Square\n• Size: 4.2 × 4.2 inches\n• Material: White ceramic\n• Finish: Smooth glossy\n• Backing: Natural cork",
+    "html": null,
+    "icon": "📐",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Product Specs",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recNCOVtKWg06DBVY",
+    "id": "LCL-FC-AMZ-INTENT-001",
+    "codes": "FC",
+    "plain": "[Write a design-specific recipient, occasion, emotional-intent opening from governed DSO fields.]",
+    "html": "[Write a design-specific recipient, occasion, emotional-intent opening from governed DSO fields.]",
+    "icon": null,
+    "vars": "DSO recipient, occasion, buyer intent, emotional framing",
+    "mk": [
+     "Amazon"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recNRc1zplqu7IRTf",
+    "id": "LCL-FC-SHOP-PREVIEW-001",
+    "codes": "FC",
+    "plain": "DO NOT RENDER IN PUBLIC SHOPIFY COPY. Preview behavior is handled only inside the governed Shopify personalization template process.",
+    "html": "<h3>👀 Preview and Entry Review</h3><p>[Explain only the active Shopify preview behavior. Do not include Etsy Live Preview instructions or placeholders.]</p>",
+    "icon": "👀",
+    "vars": "active Shopify preview rule",
+    "mk": [
+     "Shopify"
+    ],
+    "type": "Personalization Instructions",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recO3i97o9pc9FG6V",
+    "id": "LCL-DC-PRODUCTION-001",
+    "codes": "DC",
+    "plain": "Made to order in 1–3 business days. Do not promise same-day production or delivery; transit time is separate from production time.",
+    "html": "Made to order in 1–3 business days. Do not promise same-day production or delivery; transit time is separate from production time.",
+    "icon": "Production Time",
+    "vars": "Design ID; design name; approved keywords; personalization; verified source claims",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Production",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "v1.1"
+   },
+   {
+    "_rec": "recOmMAToCBDZQu5K",
+    "id": "LCL-DC-SPECS-001",
+    "codes": "DC",
+    "plain": "Materials and construction: printed Oxford fabric folded over and sewn around strong webbing made from recycled water bottles; metal quick-release buckle with curved engraving plate; metal D-ring; adjustable collar construction. Approved buckle finishes are Gold, Rose Gold, and Silver. Black is not offered. Each collar is handmade/made to order in the USA.",
+    "html": "Materials and construction: printed Oxford fabric folded over and sewn around strong webbing made from recycled water bottles; metal quick-release buckle with curved engraving plate; metal D-ring; adjustable collar construction. Approved buckle finishes are Gold, Rose Gold, and Silver. Black is not offered. Each collar is handmade/made to order in the USA.",
+    "icon": "Materials and Specifications",
+    "vars": "Design ID; design name; approved keywords; personalization; verified source claims",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Specifications",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "v1.1"
+   },
+   {
+    "_rec": "recP8xDcadVzvReF0",
+    "id": "LCL-CST-DESC-013",
+    "codes": "CST",
+    "plain": "🏡 Made for Meaningful Moments\nCreated by Resendez Gift Shop to turn everyday drinkware moments into personal keepsakes.",
+    "html": null,
+    "icon": "🏡",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Brand Closing",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recQkrf6jx4gq4ICq",
+    "id": "LCL-CST-ETSY-SINGLE-CROSS-LINK-001",
+    "codes": "CST",
+    "plain": "✨ INTERESTED IN A SINGLE COASTER?\n\nUse this link to shop the matching single-coaster listings for these designs:\n\n[INSERT LINK HERE]",
+    "html": "<h3>✨ INTERESTED IN A SINGLE COASTER?</h3><p>Use this link to shop the matching single-coaster listings for these designs:</p><p>[INSERT LINK HERE]</p>",
+    "icon": "✨",
+    "vars": "[INSERT LINK HERE] — replace with exact matching Etsy single-coaster listing URL before upload.",
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recR5C9985nPULUZV",
+    "id": "LCL-CST-DESC-003",
+    "codes": "CST",
+    "plain": "✨ Key Features\n• One individual square coaster\n• Smooth glossy white ceramic surface\n• Natural cork backing\n• Personalized with the text fields shown for the selected design\n• Suitable for hot and cold beverages",
+    "html": null,
+    "icon": "✨",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recRsw06LV4R5gfDu",
+    "id": "LCL-ORN-DESC-011",
+    "codes": "ORN",
+    "plain": "📦 Production\nProduction typically takes 1–3 business days before shipment.",
+    "html": "<h3>📦 Production</h3><p>Production typically takes 1–3 business days before shipment.</p>",
+    "icon": "📦",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v3.0"
+   },
+   {
+    "_rec": "recS1QpftxXIHCQer",
+    "id": "LCL-CST-AMZ-ORDER-001",
+    "codes": "CST",
+    "plain": "🛒 How to Order\nChoose the available Square option, enter the supported personalization exactly as it should appear, review all entries, and add the coaster to your cart.",
+    "html": null,
+    "icon": "🛒",
+    "vars": null,
+    "mk": [
+     "Amazon"
+    ],
+    "type": "How To Order",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recSTbGgYSvCGUkWQ",
+    "id": "LCL-ORN-DESC-012",
+    "codes": "ORN",
+    "plain": "PLEASE NOTE\nColors may vary slightly between screens and the finished product. Personalization is produced from the information submitted with the order.",
+    "html": "<h3>⚠️ Please Note</h3><p>Colors may vary slightly between screens and the finished product. Personalization is produced from the information submitted with the order.</p>",
+    "icon": "⚠️",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recTLHmv4C8hG5KUb",
+    "id": "LCL-FC-SHOP-RECIPIENT-001",
+    "codes": "FC",
+    "plain": "🎁 Made for This Moment [Explain the governed recipient, relationship, occasion, and gift intent for this design.]",
+    "html": "<h3>🎁 Made for This Moment</h3><p>[Explain the governed recipient, relationship, occasion, and gift intent for this design.]</p>",
+    "icon": "🎁",
+    "vars": "DSO recipient, occasion, buyer intent",
+    "mk": [
+     "Shopify"
+    ],
+    "type": "Gift Messaging",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recTTw92LWLatg3um",
+    "id": "LCL-FC-SHOP-SCENTS-001",
+    "codes": "FC",
+    "plain": "🌿 Scent Options Choose from Grapefruit + Basil, Birch + Sage, Vanilla Sands, Oakmoss + Amber, Cactus Blossom, Teakwood + Bergamot, Sea Salt, or Unscented.",
+    "html": "<h3>🌿 Scent Options</h3><p>Choose from Grapefruit + Basil, Birch + Sage, Vanilla Sands, Oakmoss + Amber, Cactus Blossom, Teakwood + Bergamot, Sea Salt, or Unscented.</p>",
+    "icon": "🌿",
+    "vars": "FC scent variant sources",
+    "mk": [
+     "Shopify"
+    ],
+    "type": "Scent Details",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recTfh9oTPQbAVNqv",
+    "id": "LCL-PB-DESC-004",
+    "codes": "PB",
+    "plain": "📷 Photo Requirements\nUpload a clear, high-resolution original image. Bright, well-focused photos with the main subject fully visible provide the best result. Avoid screenshots, heavily compressed files, or images with important details near the edges.",
+    "html": "<h3>📷 Photo Requirements</h3><p>Upload a clear, high-resolution original image. Bright, well-focused photos with the main subject fully visible provide the best result. Avoid screenshots, heavily compressed files, or images with important details near the edges.</p>",
+    "icon": "📷",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Photo Upload Instructions",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.2"
+   },
+   {
+    "_rec": "recTpUGHgtHL19KRw",
+    "id": "LS-004",
+    "codes": "ALL",
+    "plain": "Use when the listing is anchored to a holiday, milestone, event, or gifting moment such as Christmas, Mother's Day, Father's Day, wedding, baby shower, birthday, retirement, graduation, memorial, or housewarming.",
+    "html": null,
+    "icon": null,
+    "vars": "{occasion}, {season}, {recipient}, {product_type}, {gift_intent}",
+    "mk": [
+     "Shopify",
+     "Etsy",
+     "Amazon",
+     "Google",
+     "Facebook",
+     "Pinterest"
+    ],
+    "type": "Listing Strategy",
+    "req": false,
+    "status": "Active",
+    "scope": "Global",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recURbKeKwxmPrGoN",
+    "id": "LCL-PB-DESC-005",
+    "codes": "PB",
+    "plain": "✍️ Personalization\nEnter the requested name(s), date, phrase, and background selection exactly as you want them displayed. Only the fields shown for the selected design are required; optional fields may be left blank.",
+    "html": "<h3>✍️ Personalization</h3><p>Enter the requested name(s), date, phrase, and background selection exactly as you want them displayed. Only the fields shown for the selected design are required; optional fields may be left blank.</p>",
+    "icon": "✍️",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Personalization Instructions",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.2"
+   },
+   {
+    "_rec": "recUoj6HZA8BKaxdJ",
+    "id": "LS-005",
+    "codes": "ALL",
+    "plain": "Use when market research identifies a current style, phrase direction, seasonal trend, gift behavior, or visual pattern with short-term opportunity. Pair trend language with durable product, niche, and recipient keywords so listings do not become disposable.",
+    "html": null,
+    "icon": null,
+    "vars": "{trend_signal}, {product_type}, {niche}, {recipient}, {season}",
+    "mk": [
+     "Shopify",
+     "Etsy",
+     "Amazon",
+     "Google",
+     "Facebook",
+     "Pinterest"
+    ],
+    "type": "Listing Strategy",
+    "req": false,
+    "status": "Active",
+    "scope": "Global",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recUwmz1wG26fIm1M",
+    "id": "LCL-FC-DESC-001",
+    "codes": "FC",
+    "plain": "A personalized frosted candle designed for meaningful gifting moments.",
+    "html": "<p>✨ [Opening buyer-intent paragraph]</p>\n<p>Use one concise, buyer-facing paragraph tied to the design phrase, recipient, occasion, and emotional gift intent.</p>",
+    "icon": "✨",
+    "vars": "design phrase, recipient, occasion, buyer intent, niche, subniche",
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "1"
+   },
+   {
+    "_rec": "recUxmEQaZWxPsGDT",
+    "id": "LCL-FC-AMZ-SPECS-001",
+    "codes": "FC",
+    "plain": "8oz vessel with 7oz coconut soy wax blend pour; frosted glass vessel; bamboo lid; cotton wick; approximate 39-hour burn time; phthalate, paraben, sulfate, and synthetic dye free; vegan friendly.",
+    "html": "8oz vessel with 7oz coconut soy wax blend pour; frosted glass vessel; bamboo lid; cotton wick; approximate 39-hour burn time; phthalate, paraben, sulfate, and synthetic dye free; vegan friendly.",
+    "icon": null,
+    "vars": "Product Registries.Product Specs",
+    "mk": [
+     "Amazon"
+    ],
+    "type": "Product Specs",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recVBZWBaE52m09I0",
+    "id": "LCL-CST-DESC-008",
+    "codes": "CST",
+    "plain": "🛠️ Production Time\nEach personalized coaster is prepared after the order is placed. Current processing and estimated delivery timing are shown with the listing and at checkout.",
+    "html": null,
+    "icon": "🛠️",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Production Time",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recVGbqZuVhFc6Bzn",
+    "id": "LCL-FC-ETSY-HOWTO-001",
+    "codes": "FC",
+    "plain": "✍️ How to Order\n1. Select the available scent.\n2. Enter only the personalization requested by this design’s active template.\n3. Review the Etsy live preview when available.\n4. Complete checkout after confirming the entered details.",
+    "html": "<h3>✍️ How to Order</h3><ol><li>Select the available scent.</li><li>Enter only the personalization requested by the active design template.</li><li>Review the Etsy live preview when available.</li><li>Complete checkout after confirming the entered details.</li></ol>",
+    "icon": "✍️",
+    "vars": "active Personalization Template ID, active Layout Rule IDs, scent options, preview behavior",
+    "mk": [
+     "Etsy"
+    ],
+    "type": "How To Order",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recVLlwGa2371ZfNq",
+    "id": "LCL-CST-ETSY-ORDER-001",
+    "codes": "CST",
+    "plain": "🛒 How to Order\n1. Select the available Square option.\n2. Enter the requested personalization exactly as it should appear.\n3. Review the Live Preview when available.\n4. Confirm your details, then add the coaster to your cart.",
+    "html": null,
+    "icon": "🛒",
+    "vars": null,
+    "mk": [
+     "Etsy"
+    ],
+    "type": "How To Order",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recVxsaT8xCFhgHfU",
+    "id": "LCL-ORN-DESC-013",
+    "codes": "ORN",
+    "plain": "AI Disclosure\nSome design elements may be created or enhanced with the assistance of artificial intelligence and are then arranged, edited, and prepared for the finished product by Resendez Gift Shop.",
+    "html": "<h3>🤖 AI Disclosure</h3><p>Some design elements may be created or enhanced with the assistance of artificial intelligence and are then arranged, edited, and prepared for the finished product by Resendez Gift Shop.</p>",
+    "icon": "🤖",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recWJNLSV1tb0zuAp",
+    "id": "LCL-ORN-DESC-005-SHOPIFY",
+    "codes": "ORN",
+    "plain": "🛒 How to Order\n1. Choose your design.\n2. For designs A–F, open Live Preview on this page and create your ornament. The ready-made DESIGN G requires no personalization.\n3. Review your preview carefully for accuracy.\n4. Complete your order.",
+    "html": null,
+    "icon": null,
+    "vars": null,
+    "mk": [
+     "Shopify"
+    ],
+    "type": "How To Order",
+    "req": false,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": null
+   },
+   {
+    "_rec": "recWSPUBcAFf9TLEk",
+    "id": "LCL-MGW11-ETSY-SPECS-001",
+    "codes": "MGW11, MGW15, MGB11, MGB15, MGAB11, MGAB15",
+    "plain": "📏 Product Specs\n- White Mug 11 oz: 3.6 × 3.2 × 3.2 in\n- White Mug 15 oz: 4.7 × 3.3 × 3.3 in\n- Black Mug 11 oz: 3.6 × 3.2 × 3.2 in\n- Black Mug 15 oz: 4.7 × 3.3 × 3.3 in\n- Black Accent Mug 11 oz: 3.6 × 3.2 × 3.2 in\n- Black Accent Mug 15 oz: 4.7 × 3.3 × 3.3 in\n- Ceramic drinkware\n- Lead- and BPA-free",
+    "html": null,
+    "icon": null,
+    "vars": null,
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Product Specs",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "1.0"
+   },
+   {
+    "_rec": "recY6dZlhmfsTmMzK",
+    "id": "LCL-PB-DESC-011",
+    "codes": "PB",
+    "plain": "💛 Love It Guarantee\nWe want you to love your order. If you are not happy with your photo board, please contact us and we’ll work together to make it right.",
+    "html": "<h3>💛 Love It Guarantee</h3><p>We want you to love your order. If you are not happy with your photo board, please contact us and we’ll work together to make it right.</p>",
+    "icon": "💛",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Love It Guarantee",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.2"
+   },
+   {
+    "_rec": "recYdW5CVTLbqUFUL",
+    "id": "LCL-DC-AI-001",
+    "codes": "DC",
+    "plain": "Include only when applicable and only in Etsy and Shopify descriptions; exclude from Amazon.",
+    "html": "Include only when applicable and only in Etsy and Shopify descriptions; exclude from Amazon.",
+    "icon": "AI Disclosure",
+    "vars": "Design ID; design name; approved keywords; personalization; verified source claims",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "type": "AI Disclosure",
+    "req": false,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recYeeHkVKNRpHchP",
+    "id": "LCL-DC-CARE-001",
+    "codes": "DC",
+    "plain": "🧼 Care Instructions\nThe printed webbing is washable. Clean gently as needed, avoid bleach or harsh chemicals, and allow the collar to dry fully before use. Do not immerse the collar in water, as prolonged water exposure may cause rust or degradation of the metal surfaces. Inspect the webbing, stitching, buckle, and D-ring regularly and replace the collar if damaged or excessively worn.",
+    "html": "<h3>🧼 Care Instructions</h3><p>The printed webbing is washable. Clean gently as needed, avoid bleach or harsh chemicals, and allow the collar to dry fully before use. Do not immerse the collar in water, as prolonged water exposure may cause rust or degradation of the metal surfaces. Inspect the webbing, stitching, buckle, and D-ring regularly and replace the collar if damaged or excessively worn.</p>",
+    "icon": "🧼",
+    "vars": "Design ID; design name; approved keywords; personalization; verified source claims",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Care",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "v1.2"
+   },
+   {
+    "_rec": "recYfmZWH4GjP4qie",
+    "id": "LCL-CST-FEAT-FINISH-001",
+    "codes": "CST",
+    "plain": "✨ Smooth Glossy Finish\nWhite ceramic coaster with a smooth glossy finish.",
+    "html": "<h3>✨ Smooth Glossy Finish</h3><p>White ceramic coaster with a smooth glossy finish.</p>",
+    "icon": "✨",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recYyILsEW3UzBPBV",
+    "id": "LCL-FC-SHOP-PRODUCTION-001",
+    "codes": "FC",
+    "plain": "🕯️ Made to Order Your personalized candle is prepared after your order is placed. Please allow 1–3 business days for production.",
+    "html": "<h3>🕯️ Made to Order</h3><p>Your personalized candle is prepared after your order is placed. Please allow 1–3 business days for production.</p>",
+    "icon": "🕯️",
+    "vars": "internal production-time source",
+    "mk": [
+     "Shopify"
+    ],
+    "type": "Production Time",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recYyZ5H39t7U2Bkw",
+    "id": "LCL-ORN-DESC-008",
+    "codes": "ORN",
+    "plain": "🎁 Gift-Ready Presentation\nEvery ornament includes a white gift box with two padded protective inserts. The ornament includes both an ivory satin ribbon and a gold hanging cord.",
+    "html": "<h3>🎁 Gift-Ready Presentation</h3><p>Every ornament includes a white gift box with two padded protective inserts. The ornament includes both an ivory satin ribbon and a gold hanging cord.</p>",
+    "icon": "🎁",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Gift Messaging",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v3.0"
+   },
+   {
+    "_rec": "recaL0L0nwMX1flpS",
+    "id": "LCL-ORN-DESC-001",
+    "codes": "ORN",
+    "plain": "🎄 About Your Ornament\nCelebrate a meaningful Christmas memory with a personalized 3 in ceramic ornament made to become part of the tree year after year. Each ornament arrives in an included white gift box for a ready-to-give keepsake.",
+    "html": "<h3>🎄 About Your Ornament</h3><p>Celebrate a meaningful Christmas memory with a personalized 3 in ceramic ornament made to become part of the tree year after year. Each ornament arrives in an included white gift box for a ready-to-give keepsake.</p>",
+    "icon": "🎄",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v3.0"
+   },
+   {
+    "_rec": "recawiYHjPkJg9gh0",
+    "id": "LCL-FC-AMZ-CARE-001",
+    "codes": "FC",
+    "plain": "[Insert applicable governed care and safety facts from Product Registries.Product Care Instructions.]",
+    "html": "[Insert applicable governed care and safety facts from Product Registries.Product Care Instructions.]",
+    "icon": null,
+    "vars": "Product Registries.Product Care Instructions",
+    "mk": [
+     "Amazon"
+    ],
+    "type": "Care Instructions",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recb5v0TZVCprTj1a",
+    "id": "LCL-FC-DESC-005",
+    "codes": "FC",
+    "plain": "🌿 Scent Options\nChoose from Grapefruit + Basil, Birch + Sage, Vanilla Sands, Oakmoss + Amber, Cactus Blossom, Teakwood + Bergamot, Sea Salt, or Unscented.",
+    "html": "<h3>🌿 Scent Options</h3>\n<p>Choose from Grapefruit + Basil, Birch + Sage, Vanilla Sands, Oakmoss + Amber, Cactus Blossom, Teakwood + Bergamot, Sea Salt, or Unscented.</p>",
+    "icon": "🌿",
+    "vars": "scent options, scent map, variant options",
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Scent Details",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "1"
+   },
+   {
+    "_rec": "reccDiyACiF8brVE0",
+    "id": "LCL-EWK-DESC-090",
+    "codes": "EWK",
+    "plain": "Every design is reviewed before production. If there is a problem with your order, contact Resendez Gift Shop so we can help.",
+    "html": null,
+    "icon": "💛 Love It Guarantee",
+    "vars": "Design ID; Marketplace; Set Quantity; Personalization Model",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Guarantee",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "EWK V1.0"
+   },
+   {
+    "_rec": "recchFTNyUN7UJmY2",
+    "id": "LCL-DC-BRAND-001",
+    "codes": "DC",
+    "plain": "Close with warm RGS pet-family and everyday-use positioning.",
+    "html": "Close with warm RGS pet-family and everyday-use positioning.",
+    "icon": "Made for Meaningful Moments",
+    "vars": "Design ID; design name; approved keywords; personalization; verified source claims",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Brand Closing",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recdlJ4ufrkATfEcQ",
+    "id": "LCL-FC-SHOP-GUARANTEE-001",
+    "codes": "FC",
+    "plain": "💛 Love It Guarantee We want you to love your order. If you are not happy with your candle, please contact us and we’ll work together to make it right.",
+    "html": "<h3>💛 Love It Guarantee</h3><p>We want you to love your order. If you are not happy with your candle, please contact us and we’ll work together to make it right.</p>",
+    "icon": "💛",
+    "vars": "approved FC satisfaction promise",
+    "mk": [
+     "Shopify"
+    ],
+    "type": "Love It Guarantee",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "rece2Ykc1MjSixnVz",
+    "id": "LCL-GLOBAL-ETSY-FREE-SHIPPING-Q4-2026",
+    "codes": null,
+    "plain": "📦 FREE STANDARD SHIPPING\nSpend $125 or more on eligible items shipping within the United States and enter code Q4SHIPFREE125 at checkout for free standard shipping. The $125 minimum is based on the merchandise subtotal after listing discounts. Valid through December 15, 2026. Expedited and international shipping are excluded.",
+    "html": "<h3>📦 FREE STANDARD SHIPPING</h3><p>Spend $125 or more on eligible items shipping within the United States and enter code <strong>Q4SHIPFREE125</strong> at checkout for free standard shipping. The $125 minimum is based on the merchandise subtotal after listing discounts. Valid through December 15, 2026. Expedited and international shipping are excluded.</p>",
+    "icon": "📦",
+    "vars": "None",
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Shipping Notes",
+    "req": true,
+    "status": "Active",
+    "scope": "Global",
+    "ver": "1.0"
+   },
+   {
+    "_rec": "receVDxBoaApetvIw",
+    "id": "LCL-FC-DESC-002",
+    "codes": "FC",
+    "plain": "This frosted candle pairs a clean keepsake look with a scent selection for the buyer.",
+    "html": "<h3>🕯️ About This Candle</h3>\n<p>[Short product-specific description tied to the design, niche, subniche, recipient, and occasion.]</p>",
+    "icon": "🕯️",
+    "vars": "design phrase, product type, niche, subniche, recipient, occasion",
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "1"
+   },
+   {
+    "_rec": "recf0mkchqq547tVj",
+    "id": "LCL-DC-PERSONALIZATION-001",
+    "codes": "DC",
+    "plain": "Personalize the curved buckle plate with two engraving lines: dog name on line 1 and phone number on line 2. Choose one of six fonts labeled A–F and a Gold, Rose Gold, or Silver buckle finish. A third personalization field is for the leash name only when a personalized leash is purchased; it is not a third buckle line.",
+    "html": "Personalize the curved buckle plate with two engraving lines: dog name on line 1 and phone number on line 2. Choose one of six fonts labeled A–F and a Gold, Rose Gold, or Silver buckle finish. A third personalization field is for the leash name only when a personalized leash is purchased; it is not a third buckle line.",
+    "icon": "Personalization",
+    "vars": "Design ID; design name; approved keywords; personalization; verified source claims",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Personalization",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "v1.1"
+   },
+   {
+    "_rec": "recfCpEq8btauUqh8",
+    "id": "LCL-DC-SHIPPING-001",
+    "codes": "DC",
+    "plain": "Ships from Waterville, Ohio. Use the governed marketplace shipping profile for delivery estimates, rates, upgrades, and combined-shipping rules.",
+    "html": "Ships from Waterville, Ohio. Use the governed marketplace shipping profile for delivery estimates, rates, upgrades, and combined-shipping rules.",
+    "icon": "Shipping",
+    "vars": "Design ID; design name; approved keywords; personalization; verified source claims",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Shipping",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "v1.1"
+   },
+   {
+    "_rec": "recg3AZ2iDhwfIjY7",
+    "id": "LCL-FC-SHOP-SPECS-001",
+    "codes": "FC",
+    "plain": "📏 Product Specifications 8oz vessel; 7oz pour Coconut soy wax blend Frosted glass vessel with bamboo lid Cotton wick Approx. 39-hour burn time Phthalate, paraben, sulfate, and synthetic dye free Vegan friendly",
+    "html": "<h3>📏 Product Specifications</h3><ul><li>8oz vessel; 7oz pour</li><li>Coconut soy wax blend</li><li>Frosted glass vessel with bamboo lid</li><li>Cotton wick</li><li>Approx. 39-hour burn time</li><li>Phthalate, paraben, sulfate, and synthetic dye free</li><li>Vegan friendly</li></ul>",
+    "icon": "📏",
+    "vars": "Product Registries.Product Specs",
+    "mk": [
+     "Shopify"
+    ],
+    "type": "Product Specs",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recgD4qqMhc288Vcc",
+    "id": "LCL-DC-ABOUT-001",
+    "codes": "DC",
+    "plain": "Personalized, made-to-order dog collar featuring printed Oxford fabric over strong recycled-bottle webbing, a metal quick-release buckle, a metal D-ring, and custom buckle engraving. Use design-specific language in the opening without changing verified product facts.",
+    "html": "Personalized, made-to-order dog collar featuring printed Oxford fabric over strong recycled-bottle webbing, a metal quick-release buckle, a metal D-ring, and custom buckle engraving. Use design-specific language in the opening without changing verified product facts.",
+    "icon": "About This Dog Collar",
+    "vars": "Design ID; design name; approved keywords; personalization; verified source claims",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "About",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "v1.1"
+   },
+   {
+    "_rec": "recgxl13fou7PFCS3",
+    "id": "LCL-CST-DESC-007",
+    "codes": "CST",
+    "plain": "🧼 Care Instructions\nWipe clean with a soft damp cloth. Avoid abrasive cleaners, scrubbing pads, and dishwasher use. Handle carefully to help prevent chips or cracks.",
+    "html": null,
+    "icon": "🧼",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Care Instructions",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "rechR6SEcV7rvMzBG",
+    "id": "LCL-FC-SHOP-GIFT-001",
+    "codes": "FC",
+    "plain": "🎁 Thoughtful Gifting [Use the design’s governed recipient, occasion, emotional framing, and buyer intent; do not combine incompatible occasions.]",
+    "html": "<h3>🎁 Thoughtful Gifting</h3><p>[Use the design’s governed recipient, occasion, emotional framing, and buyer intent; do not combine incompatible occasions.]</p>",
+    "icon": "🎁",
+    "vars": "DSO and listing strategy",
+    "mk": [
+     "Shopify"
+    ],
+    "type": "Gift Messaging",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "rechUtLjV11s53hDn",
+    "id": "LCL-ORN-DESC-005",
+    "codes": "ORN",
+    "plain": "🛒 How to Order\n1. Choose your design.\n2. Enter the personalization requested for that design. The ready-made Design 07 requires no personalization.\n3. Review names, spelling, capitalization, dates and other entered text for accuracy.\n4. Complete your order.",
+    "html": "<h3>🛒 How to Order</h3><p>1. Choose your design.<br>2. Enter the personalization requested for that design. The ready-made Design 07 requires no personalization.<br>3. Review names, spelling, capitalization, dates and other entered text for accuracy.<br>4. Complete your order.</p>",
+    "icon": "🛒",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v3.0"
+   },
+   {
+    "_rec": "rechyDagUjp7c2RcB",
+    "id": "LS-002",
+    "codes": "ALL",
+    "plain": "Use when the primary purchase driver is relationship, sentiment, appreciation, remembrance, encouragement, celebration, or meaningful gifting. Listing copy should clearly identify buyer, recipient, emotional purpose, and gift context while still preserving SEO structure.",
+    "html": null,
+    "icon": null,
+    "vars": "{buyer}, {recipient}, {emotional_angle}, {gift_occasion}, {product_type}",
+    "mk": [
+     "Shopify",
+     "Etsy",
+     "Amazon",
+     "Google",
+     "Facebook",
+     "Pinterest"
+    ],
+    "type": "Listing Strategy",
+    "req": false,
+    "status": "Active",
+    "scope": "Global",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recig8WRYHlbc9802",
+    "id": "LCL-FC-DESC-008",
+    "codes": "FC",
+    "plain": "Some artwork, design elements, or creative components were created with the assistance of AI tools. All personalization, layout, and final production are performed by our team.",
+    "html": "<h3>🤖 AI Disclosure</h3>\n<p>Some artwork, design elements, or creative components were created with the assistance of AI tools. All personalization, layout, and final production are performed by our team.</p>",
+    "icon": "🤖",
+    "vars": "AI disclosure required flag, AI disclosure text",
+    "mk": [
+     "Etsy"
+    ],
+    "type": "AI Disclosure",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "1"
+   },
+   {
+    "_rec": "reciojyp5ljnujyeY",
+    "id": "LCL-PB-DESC-001",
+    "codes": "PB",
+    "plain": "🖼️ Product Overview\nTurn a favorite photo into a personalized photo board designed to celebrate the people and moments that matter most.",
+    "html": "<h3>🖼️ Product Overview</h3><p>Turn a favorite photo into a personalized photo board designed to celebrate the people and moments that matter most.</p>",
+    "icon": "🖼️",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.2"
+   },
+   {
+    "_rec": "reckWF0BIdj1GVafZ",
+    "id": "LCL-CST-DESC-002",
+    "codes": "CST",
+    "plain": "🎁 Perfect For\nA thoughtful personalized gift for birthdays, appreciation, celebrations, meaningful milestones, or simply reminding someone how much they are loved.",
+    "html": null,
+    "icon": "🎁",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Gift Messaging",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recl0NxreisfXL2MO",
+    "id": "LCL-EWK-DESC-040",
+    "codes": "EWK",
+    "plain": "🥃 11 oz Capacity — Classic whiskey-glass size\n✨ Precision Laser Engraved — Permanent engraved finish\n🔍 Clear Lead-Free Glass — Clean, classic presentation\n🛡️ Chip-Resistant Rim — Designed for regular use\n🧼 Dishwasher Safe — Hand washing recommended for best care\n🛠️ Made to Order — Processing time: 1–4 business days",
+    "html": null,
+    "icon": "✅ Key Features",
+    "vars": "Design ID; Marketplace; Set Quantity; Personalization Model",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "EWK V1.0"
+   },
+   {
+    "_rec": "reclOVy3LFruCX7m1",
+    "id": "LCL-MGW11-ETSY-OVERVIEW-001",
+    "codes": "MGW11, MGW15, MGB11, MGB15, MGAB11, MGAB15",
+    "plain": "A personalized ceramic mug created for wedding celebrations, bridal events, engagement moments, and meaningful couple gifting. Choose from six approved color-and-size options and enter the personalization requested for your selected design.",
+    "html": null,
+    "icon": null,
+    "vars": null,
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "1.0"
+   },
+   {
+    "_rec": "recmD7Is9fnILVCQ7",
+    "id": "LCL-MGW11-ETSY-PRODUCTION-001",
+    "codes": "MGW11, MGW15, MGB11, MGB15, MGAB11, MGAB15",
+    "plain": "Your personalized mug is made after your order is placed. Please allow 2–5 business days for production.",
+    "html": null,
+    "icon": null,
+    "vars": null,
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Production Time",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "1.0"
+   },
+   {
+    "_rec": "recmS1O6dag55VVIN",
+    "id": "LCL-EWK-DESC-035",
+    "codes": "EWK",
+    "plain": "Ready-Made Design — No Personalization. This selectable Design 07 option ships exactly as shown and does not require customer-entered text.",
+    "html": null,
+    "icon": "⚠️ Ready-Made Design — No Personalization",
+    "vars": "Design ID; Marketplace; Set Quantity; Personalization Model",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Important Notes",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "EWK V1.0"
+   },
+   {
+    "_rec": "recnUVHhD1YDQssQt",
+    "id": "LCL-DC-ORDER-001",
+    "codes": "DC",
+    "plain": "Select the design and size/style, enter engraving exactly as desired, review shipping details, and submit the order.",
+    "html": "Select the design and size/style, enter engraving exactly as desired, review shipping details, and submit the order.",
+    "icon": "How to Order",
+    "vars": "Design ID; design name; approved keywords; personalization; verified source claims",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Ordering",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recoAYmvBkWM56tay",
+    "id": "LCL-CST-DESC-004",
+    "codes": "CST",
+    "plain": "✍️ Personalization\nEnter the requested name, date, age, or short text exactly as you want it displayed. Only the fields shown for the selected design apply. Personalization is never a listing-generation blocker; unresolved optional details remain a QC note.",
+    "html": null,
+    "icon": "✍️",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Personalization Instructions",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recpQ1HU43DAE40WJ",
+    "id": "LCL-CST-ETSY-SET-CROSS-LINK-001",
+    "codes": "CST",
+    "plain": "🎁 INTERESTED IN A COASTER SET?\n\nUse this link to review the matching coaster sets for these designs:\n\n[INSERT LINK HERE]",
+    "html": "<h3>🎁 INTERESTED IN A COASTER SET?</h3><p>Use this link to review the matching coaster sets for these designs:</p><p>[INSERT LINK HERE]</p>",
+    "icon": "🎁",
+    "vars": "[INSERT LINK HERE] — replace with exact matching Etsy coaster-set listing URL before upload.",
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.1"
+   },
+   {
+    "_rec": "recr67P1BBmRp9pDz",
+    "id": "LS-006",
+    "codes": "ALL",
+    "plain": "Use when the listing should support premium positioning, higher perceived value, boutique styling, refined copy, gift-ready appeal, or higher AOV. Emphasize quality, thoughtful design, and polished presentation without unsupported claims.",
+    "html": null,
+    "icon": null,
+    "vars": "{premium_positioning}, {product_type}, {recipient}, {occasion}, {quality_angle}",
+    "mk": [
+     "Shopify",
+     "Etsy",
+     "Amazon",
+     "Google",
+     "Facebook",
+     "Pinterest"
+    ],
+    "type": "Listing Strategy",
+    "req": false,
+    "status": "Active",
+    "scope": "Global",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recrFwJm0CUwSkjf1",
+    "id": "LCL-DC-FEATURES-001",
+    "codes": "DC",
+    "plain": "Key features: made to order in the USA; printed Oxford fabric folded over and sewn around strong recycled-water-bottle webbing; vibrant printed design; metal quick-release buckle; curved engraved buckle plate; metal D-ring; adjustable fit; six sizes; Gold, Rose Gold, or Silver finish; six font choices A–F; collar-only and collar-plus-leash configurations when offered.",
+    "html": "Key features: made to order in the USA; printed Oxford fabric folded over and sewn around strong recycled-water-bottle webbing; vibrant printed design; metal quick-release buckle; curved engraved buckle plate; metal D-ring; adjustable fit; six sizes; Gold, Rose Gold, or Silver finish; six font choices A–F; collar-only and collar-plus-leash configurations when offered.",
+    "icon": "Key Features",
+    "vars": "Design ID; design name; approved keywords; personalization; verified source claims",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "v1.1"
+   },
+   {
+    "_rec": "recrdl2MdNY9asHgt",
+    "id": "LCL-CST-DESC-010",
+    "codes": "CST",
+    "plain": "⚠️ Important Product Notes\nColors may vary slightly between screens and the finished printed coaster. This listing is for one coaster only. Circle and multi-coaster sets are not included in the current launch.",
+    "html": null,
+    "icon": "⚠️",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Important Notes",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recrmyAuYWsrJzYEl",
+    "id": "LCL-ORN-DESC-003",
+    "codes": "ORN",
+    "plain": "✨ Key Features\n• 3 in round ceramic ornament\n• Glazed premium-coated finish\n• Single-sided sublimation print\n• Approx. 72.67 mm diameter and 3 mm thick\n• Ivory satin ribbon and gold hanging cord included\n• White gift box with two padded protective inserts included",
+    "html": "<h3>✨ Key Features</h3><p>• 3 in round ceramic ornament<br>• Glazed premium-coated finish<br>• Single-sided sublimation print<br>• Approx. 72.67 mm diameter and 3 mm thick<br>• Ivory satin ribbon and gold hanging cord included<br>• White gift box with two padded protective inserts included</p>",
+    "icon": "✨",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v3.0"
+   },
+   {
+    "_rec": "recs2ayD0N0oBZLnK",
+    "id": "LCL-ORN-DESC-004-LP",
+    "codes": "ORN",
+    "plain": "🎨 Personalization\nDesigns A–F are personalized with Live Preview. DESIGN G is ready-made and intentionally non-personalized.",
+    "html": null,
+    "icon": null,
+    "vars": null,
+    "mk": [
+     "Shopify",
+     "Etsy"
+    ],
+    "type": "Live Preview",
+    "req": false,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": null
+   },
+   {
+    "_rec": "recsDHXKqbP6rxxsT",
+    "id": "LCL-MGW11-ETSY-MATERIALS-001",
+    "codes": "MGW11, MGW15, MGB11, MGB15, MGAB11, MGAB15",
+    "plain": "Materials: ceramic mug with the color and size selected from the approved options.",
+    "html": null,
+    "icon": null,
+    "vars": null,
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Materials",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "1.0"
+   },
+   {
+    "_rec": "recsUkgGgbcrRq8Wm",
+    "id": "LCL-FC-ETSY-PRODUCTION-001",
+    "codes": "FC",
+    "plain": "🕯️ Production Time\nYour personalized candle is prepared after your order is placed. Please allow 1–3 business days for production.",
+    "html": "<h3>🕯️ Production Time</h3><p>Your personalized candle is prepared after your order is placed. Please allow 1–3 business days for production.</p>",
+    "icon": "🕯️",
+    "vars": "Product Registry, internal Production Partner production-time source",
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Production Time",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recuZpQP5qPHWbXuM",
+    "id": "LCL-PB-DESC-009",
+    "codes": "PB",
+    "plain": "🛠️ Production Time\nPersonalized photo boards are prepared in 1–3 business days before shipment.",
+    "html": "<h3>🛠️ Production Time</h3><p>Personalized photo boards are prepared in 1–3 business days before shipment.</p>",
+    "icon": "🛠️",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Production Time",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.2"
+   },
+   {
+    "_rec": "recv0lb2RU1jMo5vD",
+    "id": "LCL-EWK-DESC-010",
+    "codes": "EWK",
+    "plain": "A personalized 11 oz clear whiskey glass with permanent precision laser engraving, created for bourbon, scotch, cocktails, and meaningful gifting.",
+    "html": null,
+    "icon": "🥃 About This Engraved Whiskey Glass",
+    "vars": "Design ID; Marketplace; Set Quantity; Personalization Model",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "About",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "EWK V1.0"
+   },
+   {
+    "_rec": "recvuIcRkJcgMZY2l",
+    "id": "LCL-CST-DESC-001",
+    "codes": "CST",
+    "plain": "☕ Product Overview\nCreate a meaningful everyday accent with a personalized ceramic coaster designed for the recipient and occasion shown in this design.",
+    "html": null,
+    "icon": "☕",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Features",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recw2rJt5my6Uok02",
+    "id": "LCL-FC-AMZ-GIFT-001",
+    "codes": "FC",
+    "plain": "[Use the actual design recipient, occasion, buyer intent, and emotional framing. Do not combine incompatible occasions.]",
+    "html": "[Use the actual design recipient, occasion, buyer intent, and emotional framing. Do not combine incompatible occasions.]",
+    "icon": null,
+    "vars": "DSO and listing strategy",
+    "mk": [
+     "Amazon"
+    ],
+    "type": "Gift Messaging",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recwSNOXI0881Ie4I",
+    "id": "LCL-DC-SIZING-001",
+    "codes": "DC",
+    "plain": "Choose by actual collar/neck measurement: X-Small 9–11 in × 5/8 in; Small 11–13 in × 3/4 in; Medium 13–16 in × 3/4 in; Medium Wide 13–16 in × 1 in; Large 16–22 in × 1 in; X-Large 18–26 in × 1.25 in. For best fit, remove the current collar, lay it flat, and measure end to end while including only half of the buckle. Breed and weight are general guides only.",
+    "html": "Choose by actual collar/neck measurement: X-Small 9–11 in × 5/8 in; Small 11–13 in × 3/4 in; Medium 13–16 in × 3/4 in; Medium Wide 13–16 in × 1 in; Large 16–22 in × 1 in; X-Large 18–26 in × 1.25 in. For best fit, remove the current collar, lay it flat, and measure end to end while including only half of the buckle. Breed and weight are general guides only.",
+    "icon": "Sizing and Style Options",
+    "vars": "Design ID; design name; approved keywords; personalization; verified source claims",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Sizing",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "v1.1"
+   },
+   {
+    "_rec": "recwe30JDze6j8fdC",
+    "id": "LCL-FC-ETSY-SHIPPING-001",
+    "codes": "FC",
+    "plain": "📦 Shipping\nShipping timing is shown during checkout. Production time and carrier transit time are separate.",
+    "html": "<h3>📦 Shipping</h3><p>Shipping timing is shown during checkout. Production time and carrier transit time are separate.</p>",
+    "icon": "📦",
+    "vars": "marketplace shipping profile, production time",
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Shipping Notes",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recxavTHjG7tlCkRp",
+    "id": "LCL-FC-AMZ-ORDER-001",
+    "codes": "FC",
+    "plain": "[Use the active Amazon Custom flow and supported fields; do not include Etsy preview instructions.]",
+    "html": "[Use the active Amazon Custom flow and supported fields; do not include Etsy preview instructions.]",
+    "icon": null,
+    "vars": "Amazon personalization flow",
+    "mk": [
+     "Amazon"
+    ],
+    "type": "How To Order",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recxtgUaruHkXfuZ0",
+    "id": "LCL-MGW11-ETSY-CARE-001",
+    "codes": "MGW11, MGW15, MGB11, MGB15, MGAB11, MGAB15",
+    "plain": "Care: hand wash gently to help preserve the printed design. Avoid abrasive scrubbers on the printed area.",
+    "html": null,
+    "icon": null,
+    "vars": null,
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Care Instructions",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "1.0"
+   },
+   {
+    "_rec": "recyEPjlxgHBk2M9A",
+    "id": "LCL-EWK-DESC-020",
+    "codes": "EWK",
+    "plain": "Use the Live Preview to review your personalization before ordering. Preview applies to Designs 1–6 only.",
+    "html": null,
+    "icon": "🔗 Live Preview",
+    "vars": "Design ID; Marketplace; Set Quantity; Personalization Model",
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Live Preview",
+    "req": true,
+    "status": "Active",
+    "scope": "Product",
+    "ver": "EWK V1.0"
+   },
+   {
+    "_rec": "recyXDialFppXMMrO",
+    "id": "LCL-PB-DESC-013",
+    "codes": "PB",
+    "plain": "🏡 Made for Meaningful Moments\nCreated by Resendez Gift Shop to help turn your favorite memories into personal keepsakes.",
+    "html": "<h3>🏡 Made for Meaningful Moments</h3><p>Created by Resendez Gift Shop to help turn your favorite memories into personal keepsakes.</p>",
+    "icon": "🏡",
+    "vars": null,
+    "mk": [
+     "Etsy",
+     "Amazon",
+     "Shopify"
+    ],
+    "type": "Brand Closing",
+    "req": true,
+    "status": "Active",
+    "scope": "Product Specific",
+    "ver": "v1.2"
+   },
+   {
+    "_rec": "recz6Mu7vPdtAgHDy",
+    "id": "LCL-FC-SHOP-CARE-001",
+    "codes": "FC",
+    "plain": "💛 Candle Care and Safety [Insert the complete active Product Registries.Product Care Instructions without inventing or omitting required safety guidance.]",
+    "html": "<h3>💛 Candle Care and Safety</h3><p>[Insert the complete active Product Registries.Product Care Instructions without inventing or omitting required safety guidance.]</p>",
+    "icon": "💛",
+    "vars": "Product Registries.Product Care Instructions",
+    "mk": [
+     "Shopify"
+    ],
+    "type": "Care Instructions",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "reczHIwzJbxmVQXNb",
+    "id": "LCL-FC-AMZ-PERSONALIZATION-001",
+    "codes": "FC",
+    "plain": "DO NOT RENDER IN PUBLIC AMAZON COPY. Apply FC-PS01 only through the governed Amazon personalization template process.",
+    "html": "[Explain only Amazon-supported active template/layout fields, requirements, limits, and examples.]",
+    "icon": null,
+    "vars": "Personalization Template and Layout IDs",
+    "mk": [
+     "Amazon"
+    ],
+    "type": "Personalization Instructions",
+    "req": true,
+    "status": "Active",
+    "scope": "Marketplace Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recuEFas4y5q5pb3Q",
+    "id": "LCL-ORN-26-053-PERFECT-D01",
+    "codes": "ORN-26-053",
+    "plain": "💝 Perfect For\nA Christmas keepsake for the lineman, lineman dad or line wife in your life, from family and friends.\n• DESIGN A – Merry & Bright Lineman: lineman silhouette climbing a pole strung with Christmas bulbs\n• DESIGN B – Lineman Gear Wreath: hard hat, tool belt, gaffs, gloves, rope and hot stick wrapped in holly\n• DESIGN C – Lineman Dad Definition: lineman dictionary definition with a Santa-hat pole climber\n• DESIGN D – Storm Crew: lineman on a lit pole with a bucket truck in the snow\n• DESIGN E – Ready for the Call Portrait: lineman portrait in a white hard hat beside a pole in soft snow\n• DESIGN F – My Lineman Home for Christmas: bucket truck with a wreath outside a lit, snowy house\n• DESIGN G – Santa's Backup Power: lineman in a bucket jump-starting Santa's sleigh under a full moon; no personalization needed",
+    "html": "<h3>💝 Perfect For</h3><p>A Christmas keepsake for the lineman, lineman dad or line wife in your life, from family and friends.</p><ul><li>DESIGN A – Merry &amp; Bright Lineman: lineman silhouette climbing a pole strung with Christmas bulbs</li><li>DESIGN B – Lineman Gear Wreath: hard hat, tool belt, gaffs, gloves, rope and hot stick wrapped in holly</li><li>DESIGN C – Lineman Dad Definition: lineman dictionary definition with a Santa-hat pole climber</li><li>DESIGN D – Storm Crew: lineman on a lit pole with a bucket truck in the snow</li><li>DESIGN E – Ready for the Call Portrait: lineman portrait in a white hard hat beside a pole in soft snow</li><li>DESIGN F – My Lineman Home for Christmas: bucket truck with a wreath outside a lit, snowy house</li><li>DESIGN G – Santa's Backup Power: lineman in a bucket jump-starting Santa's sleigh under a full moon; no personalization needed</li></ul>",
+    "icon": "💝",
+    "vars": "lead design D01",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "type": "Gift Messaging",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "rec18eROlDc8zTlAM",
+    "id": "LCL-ORN-26-053-PERFECT-D02",
+    "codes": "ORN-26-053",
+    "plain": "💝 Perfect For\nA Christmas keepsake for the lineman, lineman dad or line wife in your life, from family and friends.\n• DESIGN B – Lineman Gear Wreath: hard hat, tool belt, gaffs, gloves, rope and hot stick wrapped in holly\n• DESIGN A – Merry & Bright Lineman: lineman silhouette climbing a pole strung with Christmas bulbs\n• DESIGN C – Lineman Dad Definition: lineman dictionary definition with a Santa-hat pole climber\n• DESIGN D – Storm Crew: lineman on a lit pole with a bucket truck in the snow\n• DESIGN E – Ready for the Call Portrait: lineman portrait in a white hard hat beside a pole in soft snow\n• DESIGN F – My Lineman Home for Christmas: bucket truck with a wreath outside a lit, snowy house\n• DESIGN G – Santa's Backup Power: lineman in a bucket jump-starting Santa's sleigh under a full moon; no personalization needed",
+    "html": "<h3>💝 Perfect For</h3><p>A Christmas keepsake for the lineman, lineman dad or line wife in your life, from family and friends.</p><ul><li>DESIGN B – Lineman Gear Wreath: hard hat, tool belt, gaffs, gloves, rope and hot stick wrapped in holly</li><li>DESIGN A – Merry &amp; Bright Lineman: lineman silhouette climbing a pole strung with Christmas bulbs</li><li>DESIGN C – Lineman Dad Definition: lineman dictionary definition with a Santa-hat pole climber</li><li>DESIGN D – Storm Crew: lineman on a lit pole with a bucket truck in the snow</li><li>DESIGN E – Ready for the Call Portrait: lineman portrait in a white hard hat beside a pole in soft snow</li><li>DESIGN F – My Lineman Home for Christmas: bucket truck with a wreath outside a lit, snowy house</li><li>DESIGN G – Santa's Backup Power: lineman in a bucket jump-starting Santa's sleigh under a full moon; no personalization needed</li></ul>",
+    "icon": "💝",
+    "vars": "lead design D02",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "type": "Gift Messaging",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recLXzgm8SwsKINA2",
+    "id": "LCL-ORN-26-053-PERFECT-D03",
+    "codes": "ORN-26-053",
+    "plain": "💝 Perfect For\nA Christmas keepsake for the lineman, lineman dad or line wife in your life, from family and friends.\n• DESIGN C – Lineman Dad Definition: lineman dictionary definition with a Santa-hat pole climber\n• DESIGN A – Merry & Bright Lineman: lineman silhouette climbing a pole strung with Christmas bulbs\n• DESIGN B – Lineman Gear Wreath: hard hat, tool belt, gaffs, gloves, rope and hot stick wrapped in holly\n• DESIGN D – Storm Crew: lineman on a lit pole with a bucket truck in the snow\n• DESIGN E – Ready for the Call Portrait: lineman portrait in a white hard hat beside a pole in soft snow\n• DESIGN F – My Lineman Home for Christmas: bucket truck with a wreath outside a lit, snowy house\n• DESIGN G – Santa's Backup Power: lineman in a bucket jump-starting Santa's sleigh under a full moon; no personalization needed",
+    "html": "<h3>💝 Perfect For</h3><p>A Christmas keepsake for the lineman, lineman dad or line wife in your life, from family and friends.</p><ul><li>DESIGN C – Lineman Dad Definition: lineman dictionary definition with a Santa-hat pole climber</li><li>DESIGN A – Merry &amp; Bright Lineman: lineman silhouette climbing a pole strung with Christmas bulbs</li><li>DESIGN B – Lineman Gear Wreath: hard hat, tool belt, gaffs, gloves, rope and hot stick wrapped in holly</li><li>DESIGN D – Storm Crew: lineman on a lit pole with a bucket truck in the snow</li><li>DESIGN E – Ready for the Call Portrait: lineman portrait in a white hard hat beside a pole in soft snow</li><li>DESIGN F – My Lineman Home for Christmas: bucket truck with a wreath outside a lit, snowy house</li><li>DESIGN G – Santa's Backup Power: lineman in a bucket jump-starting Santa's sleigh under a full moon; no personalization needed</li></ul>",
+    "icon": "💝",
+    "vars": "lead design D03",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "type": "Gift Messaging",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recROqHL086KiMMw7",
+    "id": "LCL-ORN-26-053-PERFECT-D04",
+    "codes": "ORN-26-053",
+    "plain": "💝 Perfect For\nA Christmas keepsake for the lineman, lineman dad or line wife in your life, from family and friends.\n• DESIGN D – Storm Crew: lineman on a lit pole with a bucket truck in the snow\n• DESIGN A – Merry & Bright Lineman: lineman silhouette climbing a pole strung with Christmas bulbs\n• DESIGN B – Lineman Gear Wreath: hard hat, tool belt, gaffs, gloves, rope and hot stick wrapped in holly\n• DESIGN C – Lineman Dad Definition: lineman dictionary definition with a Santa-hat pole climber\n• DESIGN E – Ready for the Call Portrait: lineman portrait in a white hard hat beside a pole in soft snow\n• DESIGN F – My Lineman Home for Christmas: bucket truck with a wreath outside a lit, snowy house\n• DESIGN G – Santa's Backup Power: lineman in a bucket jump-starting Santa's sleigh under a full moon; no personalization needed",
+    "html": "<h3>💝 Perfect For</h3><p>A Christmas keepsake for the lineman, lineman dad or line wife in your life, from family and friends.</p><ul><li>DESIGN D – Storm Crew: lineman on a lit pole with a bucket truck in the snow</li><li>DESIGN A – Merry &amp; Bright Lineman: lineman silhouette climbing a pole strung with Christmas bulbs</li><li>DESIGN B – Lineman Gear Wreath: hard hat, tool belt, gaffs, gloves, rope and hot stick wrapped in holly</li><li>DESIGN C – Lineman Dad Definition: lineman dictionary definition with a Santa-hat pole climber</li><li>DESIGN E – Ready for the Call Portrait: lineman portrait in a white hard hat beside a pole in soft snow</li><li>DESIGN F – My Lineman Home for Christmas: bucket truck with a wreath outside a lit, snowy house</li><li>DESIGN G – Santa's Backup Power: lineman in a bucket jump-starting Santa's sleigh under a full moon; no personalization needed</li></ul>",
+    "icon": "💝",
+    "vars": "lead design D04",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "type": "Gift Messaging",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "rec0tg5l0bmxTuVsI",
+    "id": "LCL-ORN-26-053-PERFECT-D05",
+    "codes": "ORN-26-053",
+    "plain": "💝 Perfect For\nA Christmas keepsake for the lineman, lineman dad or line wife in your life, from family and friends.\n• DESIGN E – Ready for the Call Portrait: lineman portrait in a white hard hat beside a pole in soft snow\n• DESIGN A – Merry & Bright Lineman: lineman silhouette climbing a pole strung with Christmas bulbs\n• DESIGN B – Lineman Gear Wreath: hard hat, tool belt, gaffs, gloves, rope and hot stick wrapped in holly\n• DESIGN C – Lineman Dad Definition: lineman dictionary definition with a Santa-hat pole climber\n• DESIGN D – Storm Crew: lineman on a lit pole with a bucket truck in the snow\n• DESIGN F – My Lineman Home for Christmas: bucket truck with a wreath outside a lit, snowy house\n• DESIGN G – Santa's Backup Power: lineman in a bucket jump-starting Santa's sleigh under a full moon; no personalization needed",
+    "html": "<h3>💝 Perfect For</h3><p>A Christmas keepsake for the lineman, lineman dad or line wife in your life, from family and friends.</p><ul><li>DESIGN E – Ready for the Call Portrait: lineman portrait in a white hard hat beside a pole in soft snow</li><li>DESIGN A – Merry &amp; Bright Lineman: lineman silhouette climbing a pole strung with Christmas bulbs</li><li>DESIGN B – Lineman Gear Wreath: hard hat, tool belt, gaffs, gloves, rope and hot stick wrapped in holly</li><li>DESIGN C – Lineman Dad Definition: lineman dictionary definition with a Santa-hat pole climber</li><li>DESIGN D – Storm Crew: lineman on a lit pole with a bucket truck in the snow</li><li>DESIGN F – My Lineman Home for Christmas: bucket truck with a wreath outside a lit, snowy house</li><li>DESIGN G – Santa's Backup Power: lineman in a bucket jump-starting Santa's sleigh under a full moon; no personalization needed</li></ul>",
+    "icon": "💝",
+    "vars": "lead design D05",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "type": "Gift Messaging",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recKOWNAopUoyPnY2",
+    "id": "LCL-ORN-26-053-PERFECT-D06",
+    "codes": "ORN-26-053",
+    "plain": "💝 Perfect For\nA Christmas keepsake for the lineman, lineman dad or line wife in your life, from family and friends.\n• DESIGN F – My Lineman Home for Christmas: bucket truck with a wreath outside a lit, snowy house\n• DESIGN A – Merry & Bright Lineman: lineman silhouette climbing a pole strung with Christmas bulbs\n• DESIGN B – Lineman Gear Wreath: hard hat, tool belt, gaffs, gloves, rope and hot stick wrapped in holly\n• DESIGN C – Lineman Dad Definition: lineman dictionary definition with a Santa-hat pole climber\n• DESIGN D – Storm Crew: lineman on a lit pole with a bucket truck in the snow\n• DESIGN E – Ready for the Call Portrait: lineman portrait in a white hard hat beside a pole in soft snow\n• DESIGN G – Santa's Backup Power: lineman in a bucket jump-starting Santa's sleigh under a full moon; no personalization needed",
+    "html": "<h3>💝 Perfect For</h3><p>A Christmas keepsake for the lineman, lineman dad or line wife in your life, from family and friends.</p><ul><li>DESIGN F – My Lineman Home for Christmas: bucket truck with a wreath outside a lit, snowy house</li><li>DESIGN A – Merry &amp; Bright Lineman: lineman silhouette climbing a pole strung with Christmas bulbs</li><li>DESIGN B – Lineman Gear Wreath: hard hat, tool belt, gaffs, gloves, rope and hot stick wrapped in holly</li><li>DESIGN C – Lineman Dad Definition: lineman dictionary definition with a Santa-hat pole climber</li><li>DESIGN D – Storm Crew: lineman on a lit pole with a bucket truck in the snow</li><li>DESIGN E – Ready for the Call Portrait: lineman portrait in a white hard hat beside a pole in soft snow</li><li>DESIGN G – Santa's Backup Power: lineman in a bucket jump-starting Santa's sleigh under a full moon; no personalization needed</li></ul>",
+    "icon": "💝",
+    "vars": "lead design D06",
+    "mk": [
+     "Etsy",
+     "Shopify"
+    ],
+    "type": "Gift Messaging",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "ver": "v1.0"
+   },
+   {
+    "_rec": "recgBUj4MuY33ZIAF",
+    "id": "LCL-ORN-26-053-PERS-INSTR-ETSY",
+    "codes": "ORN-26-053",
+    "plain": "📝 Personalization Instructions\nPersonalize your order (Designs A–F):\n1. Go to https://prsnl.art/YFJoA\n2. Upload photo(s) & Text\n3. Return to Etsy to finish purchase\nEnter your Personalization ID in the personalization box. DESIGN G is ready-made and needs no personalization.",
+    "html": "<h3>📝 Personalization Instructions</h3><p>Personalize your order (Designs A–F):</p><p>1. Go to https://prsnl.art/YFJoA</p><p>2. Upload photo(s) &amp; Text</p><p>3. Return to Etsy to finish purchase</p><p>Enter your Personalization ID in the personalization box. DESIGN G is ready-made and needs no personalization.</p>",
+    "icon": "📝",
+    "vars": null,
+    "mk": [
+     "Etsy"
+    ],
+    "type": "Personalization Instructions",
+    "req": true,
+    "status": "Testing",
+    "scope": "Niche Specific",
+    "ver": "v1.0"
+   }
+  ],
+  "Pricing Registry": [
+   {
+    "_id": "recUhKNAPxeHGLeLt",
+    "Pricing ID": "PRICE-ORN-ICP-ETSY-PERS-2026",
+    "Marketplace Name": [
+     "Etsy"
+    ],
+    "Launch Price": 29.98,
+    "Target Price": 21.99,
+    "Pricing Status": "Approved",
+    "Production Partner": [
+     "PARTNER-ICP"
+    ]
+   },
+   {
+    "_id": "recogreNuSfj9gCyq",
+    "Pricing ID": "PRICE-ORN-ICP-ETSY-LOW-2026",
+    "Marketplace Name": [
+     "Etsy"
+    ],
+    "Launch Price": 15.98,
+    "Target Price": 7.99,
+    "Pricing Status": "Approved",
+    "Production Partner": [
+     "PARTNER-ICP"
+    ]
+   },
+   {
+    "_id": "recKSdxQ7pvJM81j5",
+    "Pricing ID": "PRICE-ORN-ICP-SHOP-PERS-2026",
+    "Marketplace Name": [
+     "Shopify"
+    ],
+    "Launch Price": 14.98,
+    "Target Price": 19.99,
+    "Pricing Status": "Approved",
+    "Production Partner": [
+     "PARTNER-ICP"
+    ]
+   },
+   {
+    "_id": "recb8fZykXN7qVmHJ",
+    "Pricing ID": "PRICE-ORN-ICP-SHOP-READY-2026",
+    "Marketplace Name": [
+     "Shopify"
+    ],
+    "Launch Price": 9.99,
+    "Target Price": null,
+    "Pricing Status": "Approved",
+    "Production Partner": [
+     "PARTNER-ICP"
+    ]
+   },
+   {
+    "_id": "recEs4cQtpnTMNf7B",
+    "Pricing ID": "PRICE-ORN-ICP-AMZ-PERS-2026",
+    "Marketplace Name": [
+     "Amazon"
+    ],
+    "Launch Price": 14.98,
+    "Target Price": 21.99,
+    "Pricing Status": "Approved",
+    "Production Partner": [
+     "PARTNER-ICP"
+    ]
+   },
+   {
+    "_id": "rec16zWfqilC5kUD7",
+    "Pricing ID": "PRICE-ORN-ICP-AMZ-READY-2026",
+    "Marketplace Name": [
+     "Amazon"
+    ],
+    "Launch Price": 9.99,
+    "Target Price": null,
+    "Pricing Status": "Approved",
+    "Production Partner": [
+     "PARTNER-ICP"
+    ]
+   }
+  ]
+ }
+}
